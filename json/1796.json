@@ -1,0 +1,215 @@
+{
+    "candidates": {
+        "John Adams": "Federalist",
+        "Thomas Jefferson": "Democratic-Republican",
+        "Thomas Pinckney": "Federalist",
+        "Aaron Burr": "Democratic-Republican",
+        "Others": "Various"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "John Adams": "71",
+                "Thomas Jefferson": "68",
+                "Thomas Pinckney": "59",
+                "Aaron Burr": "30",
+                "Others": "48"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "John Adams": "9",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "4",
+                "Aaron Burr": "0",
+                "Others": "5"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "John Adams": "3",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "3",
+                "Aaron Burr": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "John Adams": "0",
+                "Thomas Jefferson": "4",
+                "Thomas Pinckney": "0",
+                "Aaron Burr": "0",
+                "Others": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "John Adams": "0",
+                "Thomas Jefferson": "4",
+                "Thomas Pinckney": "0",
+                "Aaron Burr": "4",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "John Adams": "7",
+                "Thomas Jefferson": "4",
+                "Thomas Pinckney": "4",
+                "Aaron Burr": "3",
+                "Others": "2"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "John Adams": "16",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "13",
+                "Aaron Burr": "0",
+                "Others": "3"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "John Adams": "6",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "0",
+                "Aaron Burr": "0",
+                "Others": "6"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "John Adams": "7",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "7",
+                "Aaron Burr": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "John Adams": "12",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "12",
+                "Aaron Burr": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "John Adams": "1",
+                "Thomas Jefferson": "11",
+                "Thomas Pinckney": "1",
+                "Aaron Burr": "6",
+                "Others": "5"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "John Adams": "1",
+                "Thomas Jefferson": "14",
+                "Thomas Pinckney": "2",
+                "Aaron Burr": "13",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "John Adams": "4",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "0",
+                "Aaron Burr": "0",
+                "Others": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "John Adams": "0",
+                "Thomas Jefferson": "8",
+                "Thomas Pinckney": "8",
+                "Aaron Burr": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "John Adams": "0",
+                "Thomas Jefferson": "3",
+                "Thomas Pinckney": "0",
+                "Aaron Burr": "3",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "John Adams": "4",
+                "Thomas Jefferson": "0",
+                "Thomas Pinckney": "4",
+                "Aaron Burr": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "John Adams": "1",
+                "Thomas Jefferson": "20",
+                "Thomas Pinckney": "1",
+                "Aaron Burr": "1",
+                "Others": "19"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

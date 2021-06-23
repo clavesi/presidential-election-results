@@ -1,0 +1,357 @@
+{
+    "candidates": {
+        "Ulysses S. Grant": "Republican",
+        "Horatio Seymour": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Ulysses S. Grant": "214",
+                "Horatio Seymour": "80"
+            },
+            "popular": {
+                "Ulysses S. Grant": "3013650",
+                "Horatio Seymour": "2708744"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Ulysses S. Grant": "8",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "76667",
+                "Horatio Seymour": "72921"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "22112",
+                "Horatio Seymour": "19078"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "54588",
+                "Horatio Seymour": "54068"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Ulysses S. Grant": "6",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "50789",
+                "Horatio Seymour": "47781"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "3"
+            },
+            "popular": {
+                "Ulysses S. Grant": "7614",
+                "Horatio Seymour": "10957"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "status": "No election due to Reconstruction"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "9"
+            },
+            "popular": {
+                "Ulysses S. Grant": "57109",
+                "Horatio Seymour": "102707"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Ulysses S. Grant": "16",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "250304",
+                "Horatio Seymour": "199116"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Ulysses S. Grant": "13",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "176548",
+                "Horatio Seymour": "166980"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Ulysses S. Grant": "8",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "120399",
+                "Horatio Seymour": "74040"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "30027",
+                "Horatio Seymour": "13600"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "11"
+            },
+            "popular": {
+                "Ulysses S. Grant": "39566",
+                "Horatio Seymour": "115889"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "7"
+            },
+            "popular": {
+                "Ulysses S. Grant": "33263",
+                "Horatio Seymour": "80225"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Ulysses S. Grant": "7",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "70502",
+                "Horatio Seymour": "42460"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "7"
+            },
+            "popular": {
+                "Ulysses S. Grant": "30438",
+                "Horatio Seymour": "62357"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Ulysses S. Grant": "12",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "136379",
+                "Horatio Seymour": "59103"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Ulysses S. Grant": "8",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "128563",
+                "Horatio Seymour": "97069"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Ulysses S. Grant": "4",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "43545",
+                "Horatio Seymour": "28075"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Ulysses S. Grant": "11",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "86860",
+                "Horatio Seymour": "65628"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "9772",
+                "Horatio Seymour": "5519"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "6474",
+                "Horatio Seymour": "5215"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "37718",
+                "Horatio Seymour": "30575"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "7"
+            },
+            "popular": {
+                "Ulysses S. Grant": "80132",
+                "Horatio Seymour": "83001"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "33"
+            },
+            "popular": {
+                "Ulysses S. Grant": "419888",
+                "Horatio Seymour": "429883"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Ulysses S. Grant": "9",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "96939",
+                "Horatio Seymour": "84559"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Ulysses S. Grant": "21",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "280159",
+                "Horatio Seymour": "238506"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horatio Seymour": "3"
+            },
+            "popular": {
+                "Ulysses S. Grant": "10961",
+                "Horatio Seymour": "11125"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Ulysses S. Grant": "26",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "342280",
+                "Horatio Seymour": "313382"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Ulysses S. Grant": "4",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "13017",
+                "Horatio Seymour": "6494"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Ulysses S. Grant": "6",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "62301",
+                "Horatio Seymour": "45237"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Ulysses S. Grant": "10",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "56628",
+                "Horatio Seymour": "26129"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "44173",
+                "Horatio Seymour": "12051"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "29015",
+                "Horatio Seymour": "20306"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Ulysses S. Grant": "8",
+                "Horatio Seymour": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "108920",
+                "Horatio Seymour": "84708"
+            }
+        }
+    }
+}

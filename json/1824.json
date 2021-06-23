@@ -1,0 +1,342 @@
+{
+    "candidates": {
+        "John Quincy Adams": "Democratic-Republican",
+        "Andrew Jackson": "Democratic-Republican",
+        "William H. Crawford": "Democratic-Republican",
+        "Henry Clay": "Democratic-Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "John Quincy Adams": "84",
+                "Andrew Jackson": "99",
+                "William H. Crawford": "41",
+                "Henry Clay": "37"
+            },
+            "popular": {
+                "John Quincy Adams": "113122",
+                "Andrew Jackson": "151271",
+                "William H. Crawford": "40856",
+                "Henry Clay": "47531"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "5",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "2422",
+                "Andrew Jackson": "9429",
+                "William H. Crawford": "1656",
+                "Henry Clay": "96"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "John Quincy Adams": "8",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "7494",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "1965",
+                "Henry Clay": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "John Quincy Adams": "1",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "2",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "9",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "John Quincy Adams": "1",
+                "Andrew Jackson": "2",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "1516",
+                "Andrew Jackson": "1272",
+                "William H. Crawford": "847",
+                "Henry Clay": "1036"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "5",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "3071",
+                "Andrew Jackson": "7444",
+                "William H. Crawford": "0",
+                "Henry Clay": "5316"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "14"
+            },
+            "popular": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "6356",
+                "William H. Crawford": "0",
+                "Henry Clay": "16982"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "John Quincy Adams": "2",
+                "Andrew Jackson": "3",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "John Quincy Adams": "9",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "10289",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "2336",
+                "Henry Clay": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "John Quincy Adams": "3",
+                "Andrew Jackson": "7",
+                "William H. Crawford": "1",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "14632",
+                "Andrew Jackson": "14523",
+                "William H. Crawford": "3364",
+                "Henry Clay": "695"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "John Quincy Adams": "15",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "30687",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "3",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "1654",
+                "Andrew Jackson": "3121",
+                "William H. Crawford": "119",
+                "Henry Clay": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "3"
+            },
+            "popular": {
+                "John Quincy Adams": "159",
+                "Andrew Jackson": "1166",
+                "William H. Crawford": "32",
+                "Henry Clay": "2042"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "John Quincy Adams": "8",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "9389",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "643",
+                "Henry Clay": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "8",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "8309",
+                "Andrew Jackson": "10332",
+                "William H. Crawford": "1196",
+                "Henry Clay": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "John Quincy Adams": "26",
+                "Andrew Jackson": "1",
+                "William H. Crawford": "5",
+                "Henry Clay": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "15",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "20231",
+                "William H. Crawford": "15622",
+                "Henry Clay": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "16"
+            },
+            "popular": {
+                "John Quincy Adams": "12280",
+                "Andrew Jackson": "18489",
+                "William H. Crawford": "0",
+                "Henry Clay": "19255"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "28",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "5441",
+                "Andrew Jackson": "35736",
+                "William H. Crawford": "4206",
+                "Henry Clay": "1690"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "John Quincy Adams": "4",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "2144",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "11",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "11",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "216",
+                "Andrew Jackson": "20197",
+                "William H. Crawford": "312",
+                "Henry Clay": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "John Quincy Adams": "7",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "0",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "John Quincy Adams": "0",
+                "Andrew Jackson": "0",
+                "William H. Crawford": "24",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "John Quincy Adams": "3419",
+                "Andrew Jackson": "2975",
+                "William H. Crawford": "8558",
+                "Henry Clay": "419"
+            }
+        }
+    }
+}

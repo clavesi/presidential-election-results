@@ -1,0 +1,528 @@
+{
+    "candidates": {
+        "George W. Bush": "Republican",
+        "Al Gore": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "George W. Bush": "271",
+                "Al Gore": "266"
+            },
+            "popular": {
+                "George W. Bush": "50456169",
+                "Al Gore": "50996062"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "George W. Bush": "9",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "941173",
+                "Al Gore": "692611"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "George W. Bush": "3",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "167398",
+                "Al Gore": "79004"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "George W. Bush": "8",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "781652",
+                "Al Gore": "685341"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "George W. Bush": "6",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "472940",
+                "Al Gore": "422768"
+            }
+        },
+        "California": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "54"
+            },
+            "popular": {
+                "George W. Bush": "4567429",
+                "Al Gore": "5861203"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "George W. Bush": "8",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "883748",
+                "Al Gore": "738227"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "8"
+            },
+            "popular": {
+                "George W. Bush": "561094",
+                "Al Gore": "816015"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "3"
+            },
+            "popular": {
+                "George W. Bush": "137288",
+                "Al Gore": "180068"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "2"
+            },
+            "popular": {
+                "George W. Bush": "18073",
+                "Al Gore": "171923"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "George W. Bush": "25",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "2912790",
+                "Al Gore": "2912253"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "George W. Bush": "13",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1419720",
+                "Al Gore": "1116230"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "4"
+            },
+            "popular": {
+                "George W. Bush": "137845",
+                "Al Gore": "205286"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "George W. Bush": "4",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "336937",
+                "Al Gore": "138637"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "22"
+            },
+            "popular": {
+                "George W. Bush": "2019421",
+                "Al Gore": "2589026"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "George W. Bush": "12",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1245836",
+                "Al Gore": "901980"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "7"
+            },
+            "popular": {
+                "George W. Bush": "634373",
+                "Al Gore": "638517"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "George W. Bush": "6",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "622332",
+                "Al Gore": "399276"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "George W. Bush": "8",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "872520",
+                "Al Gore": "638923"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "George W. Bush": "9",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "927871",
+                "Al Gore": "792344"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "4"
+            },
+            "popular": {
+                "George W. Bush": "286616",
+                "Al Gore": "319951"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "10"
+            },
+            "popular": {
+                "George W. Bush": "813827",
+                "Al Gore": "1144008"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "12"
+            },
+            "popular": {
+                "George W. Bush": "878502",
+                "Al Gore": "1616487"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "18"
+            },
+            "popular": {
+                "George W. Bush": "1953139",
+                "Al Gore": "2170418"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "10"
+            },
+            "popular": {
+                "George W. Bush": "1109659",
+                "Al Gore": "1168266"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "George W. Bush": "7",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "572844",
+                "Al Gore": "404614"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "George W. Bush": "11",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1189924",
+                "Al Gore": "1111138"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "George W. Bush": "3",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "240178",
+                "Al Gore": "137126"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "George W. Bush": "5",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "433862",
+                "Al Gore": "231780"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "George W. Bush": "4",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "301575",
+                "Al Gore": "279978"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "George W. Bush": "4",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "273559",
+                "Al Gore": "266348"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "15"
+            },
+            "popular": {
+                "George W. Bush": "1284173",
+                "Al Gore": "1788850"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "5"
+            },
+            "popular": {
+                "George W. Bush": "286417",
+                "Al Gore": "286783"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "33"
+            },
+            "popular": {
+                "George W. Bush": "2403374",
+                "Al Gore": "4107697"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "George W. Bush": "14",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1631163",
+                "Al Gore": "1257692"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "George W. Bush": "3",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "174852",
+                "Al Gore": "95284"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "George W. Bush": "21",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "2350363",
+                "Al Gore": "2183628"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "George W. Bush": "8",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "744337",
+                "Al Gore": "474276"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "7"
+            },
+            "popular": {
+                "George W. Bush": "713577",
+                "Al Gore": "720342"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "23"
+            },
+            "popular": {
+                "George W. Bush": "2281127",
+                "Al Gore": "2485967"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "4"
+            },
+            "popular": {
+                "George W. Bush": "130555",
+                "Al Gore": "249508"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "George W. Bush": "8",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "786892",
+                "Al Gore": "566037"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "George W. Bush": "3",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "190700",
+                "Al Gore": "118804"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "George W. Bush": "11",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1061949",
+                "Al Gore": "981720"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "George W. Bush": "32",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "3799639",
+                "Al Gore": "2433746"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "George W. Bush": "5",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "515096",
+                "Al Gore": "203053"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "3"
+            },
+            "popular": {
+                "George W. Bush": "119775",
+                "Al Gore": "149022"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "George W. Bush": "13",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "1437490",
+                "Al Gore": "1217290"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "11"
+            },
+            "popular": {
+                "George W. Bush": "1108864",
+                "Al Gore": "1247652"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "George W. Bush": "5",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "336475",
+                "Al Gore": "295497"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "George W. Bush": "0",
+                "Al Gore": "11"
+            },
+            "popular": {
+                "George W. Bush": "1237279",
+                "Al Gore": "1242987"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "George W. Bush": "3",
+                "Al Gore": "0"
+            },
+            "popular": {
+                "George W. Bush": "147947",
+                "Al Gore": "60481"
+            }
+        }
+    }
+}

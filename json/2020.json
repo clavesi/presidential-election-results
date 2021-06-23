@@ -1,0 +1,528 @@
+{
+    "candidates": {
+        "Joe Biden": "Democratic",
+        "Donald Trump": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Joe Biden": "306",
+                "Donald Trump": "232"
+            },
+            "popular": {
+                "Joe Biden": "80883689",
+                "Donald Trump": "73920380"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "9"
+            },
+            "popular": {
+                "Joe Biden": "849624",
+                "Donald Trump": "1441170"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "3"
+            },
+            "popular": {
+                "Joe Biden": "153778",
+                "Donald Trump": "189951"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Joe Biden": "11",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1672143",
+                "Donald Trump": "1661686"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "6"
+            },
+            "popular": {
+                "Joe Biden": "423932",
+                "Donald Trump": "760647"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Joe Biden": "55",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "11110250",
+                "Donald Trump": "6006429"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Joe Biden": "9",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1804352",
+                "Donald Trump": "1364607"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Joe Biden": "7",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1080831",
+                "Donald Trump": "714717"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Joe Biden": "3",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "296268",
+                "Donald Trump": "200603"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Joe Biden": "3",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "317323",
+                "Donald Trump": "18586"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "29"
+            },
+            "popular": {
+                "Joe Biden": "5297045",
+                "Donald Trump": "5668731"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Joe Biden": "16",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2474507",
+                "Donald Trump": "2461837"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Joe Biden": "4",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "366130",
+                "Donald Trump": "196864"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "4"
+            },
+            "popular": {
+                "Joe Biden": "287021",
+                "Donald Trump": "554119"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Joe Biden": "20",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "3471915",
+                "Donald Trump": "2446891"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "11"
+            },
+            "popular": {
+                "Joe Biden": "1242416",
+                "Donald Trump": "1729519"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "6"
+            },
+            "popular": {
+                "Joe Biden": "759061",
+                "Donald Trump": "897672"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "6"
+            },
+            "popular": {
+                "Joe Biden": "570323",
+                "Donald Trump": "771406"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "8"
+            },
+            "popular": {
+                "Joe Biden": "772474",
+                "Donald Trump": "1326646"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "8"
+            },
+            "popular": {
+                "Joe Biden": "856034",
+                "Donald Trump": "1255776"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Joe Biden": "3",
+                "Donald Trump": "1"
+            },
+            "popular": {
+                "Joe Biden": "435072",
+                "Donald Trump": "360737"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Joe Biden": "10",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1985023",
+                "Donald Trump": "976414"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Joe Biden": "11",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2382202",
+                "Donald Trump": "1167202"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Joe Biden": "16",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2804040",
+                "Donald Trump": "2649852"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Joe Biden": "10",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1717077",
+                "Donald Trump": "1484065"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "6"
+            },
+            "popular": {
+                "Joe Biden": "539508",
+                "Donald Trump": "756789"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "10"
+            },
+            "popular": {
+                "Joe Biden": "1253014",
+                "Donald Trump": "1718736"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "3"
+            },
+            "popular": {
+                "Joe Biden": "244786",
+                "Donald Trump": "343602"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Joe Biden": "1",
+                "Donald Trump": "4"
+            },
+            "popular": {
+                "Joe Biden": "374583",
+                "Donald Trump": "556846"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Joe Biden": "6",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "703486",
+                "Donald Trump": "669890"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Joe Biden": "4",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "424921",
+                "Donald Trump": "365654"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Joe Biden": "14",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2608335",
+                "Donald Trump": "1883274"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Joe Biden": "5",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "501614",
+                "Donald Trump": "401894"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Joe Biden": "29",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "4844975",
+                "Donald Trump": "2949141"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "15"
+            },
+            "popular": {
+                "Joe Biden": "2684292",
+                "Donald Trump": "2758775"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "3"
+            },
+            "popular": {
+                "Joe Biden": "114902",
+                "Donald Trump": "235595"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "18"
+            },
+            "popular": {
+                "Joe Biden": "2679165",
+                "Donald Trump": "3154834"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "7"
+            },
+            "popular": {
+                "Joe Biden": "503890",
+                "Donald Trump": "1020280"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Joe Biden": "7",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1340383",
+                "Donald Trump": "958448"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Joe Biden": "20",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "3458229",
+                "Donald Trump": "3377674"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Joe Biden": "4",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "307486",
+                "Donald Trump": "199922"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "9"
+            },
+            "popular": {
+                "Joe Biden": "1091541",
+                "Donald Trump": "1385103"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "3"
+            },
+            "popular": {
+                "Joe Biden": "150471",
+                "Donald Trump": "261043"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "11"
+            },
+            "popular": {
+                "Joe Biden": "1143711",
+                "Donald Trump": "1852475"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "38"
+            },
+            "popular": {
+                "Joe Biden": "5259126",
+                "Donald Trump": "5890347"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "6"
+            },
+            "popular": {
+                "Joe Biden": "560282",
+                "Donald Trump": "865140"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Joe Biden": "3",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "242820",
+                "Donald Trump": "112704"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Joe Biden": "13",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2413568",
+                "Donald Trump": "1962430"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Joe Biden": "12",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "2369612",
+                "Donald Trump": "1584651"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "5"
+            },
+            "popular": {
+                "Joe Biden": "235984",
+                "Donald Trump": "545382"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Joe Biden": "10",
+                "Donald Trump": "0"
+            },
+            "popular": {
+                "Joe Biden": "1630673",
+                "Donald Trump": "1610065"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Joe Biden": "0",
+                "Donald Trump": "3"
+            },
+            "popular": {
+                "Joe Biden": "73491",
+                "Donald Trump": "193559"
+            }
+        }
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Richard Nixon": "Republican",
+        "Hubert Humphrey": "Democratic",
+        "George Wallace": "American Independent"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Richard Nixon": "301",
+                "Hubert Humphrey": "191",
+                "George Wallace": "46"
+            },
+            "popular": {
+                "Richard Nixon": "31710470",
+                "Hubert Humphrey": "31209677",
+                "George Wallace": "9446167"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "0",
+                "George Wallace": "10"
+            },
+            "popular": {
+                "Richard Nixon": "146923",
+                "Hubert Humphrey": "196579",
+                "George Wallace": "691425"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "37600",
+                "Hubert Humphrey": "35411",
+                "George Wallace": "10024"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Richard Nixon": "5",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "266721",
+                "Hubert Humphrey": "170514",
+                "George Wallace": "46573"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "0",
+                "George Wallace": "6"
+            },
+            "popular": {
+                "Richard Nixon": "189062",
+                "Hubert Humphrey": "184901",
+                "George Wallace": "235627"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Richard Nixon": "40",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "3407851",
+                "Hubert Humphrey": "3186270",
+                "George Wallace": "481665"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "409345",
+                "Hubert Humphrey": "331063",
+                "George Wallace": "60813"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "8",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "556721",
+                "Hubert Humphrey": "621561",
+                "George Wallace": "76650"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "96714",
+                "Hubert Humphrey": "89194",
+                "George Wallace": "28459"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "3",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "31012",
+                "Hubert Humphrey": "139566",
+                "George Wallace": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Richard Nixon": "14",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "886804",
+                "Hubert Humphrey": "676794",
+                "George Wallace": "624207"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "0",
+                "George Wallace": "12"
+            },
+            "popular": {
+                "Richard Nixon": "366611",
+                "Hubert Humphrey": "334439",
+                "George Wallace": "535550"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "4",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "91425",
+                "Hubert Humphrey": "141324",
+                "George Wallace": "3469"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "165369",
+                "Hubert Humphrey": "89273",
+                "George Wallace": "36541"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Richard Nixon": "26",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2174774",
+                "Hubert Humphrey": "2039814",
+                "George Wallace": "390958"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Richard Nixon": "13",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1067885",
+                "Hubert Humphrey": "806659",
+                "George Wallace": "243108"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Richard Nixon": "9",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "619106",
+                "Hubert Humphrey": "476699",
+                "George Wallace": "66422"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Richard Nixon": "7",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "478674",
+                "Hubert Humphrey": "302996",
+                "George Wallace": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Richard Nixon": "9",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "462411",
+                "Hubert Humphrey": "397541",
+                "George Wallace": "193098"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "0",
+                "George Wallace": "10"
+            },
+            "popular": {
+                "Richard Nixon": "257535",
+                "Hubert Humphrey": "309615",
+                "George Wallace": "530300"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "4",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "169254",
+                "Hubert Humphrey": "217312",
+                "George Wallace": "6370"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "10",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "517995",
+                "Hubert Humphrey": "538310",
+                "George Wallace": "178734"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "14",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "766844",
+                "Hubert Humphrey": "1469218",
+                "George Wallace": "87088"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "21",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1370665",
+                "Hubert Humphrey": "1593082",
+                "George Wallace": "331968"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "10",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "658643",
+                "Hubert Humphrey": "857738",
+                "George Wallace": "68931"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "0",
+                "George Wallace": "7"
+            },
+            "popular": {
+                "Richard Nixon": "88516",
+                "Hubert Humphrey": "150644",
+                "George Wallace": "415349"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "811932",
+                "Hubert Humphrey": "791444",
+                "George Wallace": "206126"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "138835",
+                "Hubert Humphrey": "114117",
+                "George Wallace": "20015"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Richard Nixon": "5",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "321163",
+                "Hubert Humphrey": "170784",
+                "George Wallace": "44904"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "73188",
+                "Hubert Humphrey": "60598",
+                "George Wallace": "20432"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "154903",
+                "Hubert Humphrey": "130589",
+                "George Wallace": "11173"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Richard Nixon": "17",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1325467",
+                "Hubert Humphrey": "1264206",
+                "George Wallace": "262187"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "169692",
+                "Hubert Humphrey": "130081",
+                "George Wallace": "25737"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "43",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "3007932",
+                "Hubert Humphrey": "3378470",
+                "George Wallace": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "Hubert Humphrey": "0",
+                "George Wallace": "1"
+            },
+            "popular": {
+                "Richard Nixon": "627192",
+                "Hubert Humphrey": "464113",
+                "George Wallace": "496188"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "138669",
+                "Hubert Humphrey": "94769",
+                "George Wallace": "14244"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Richard Nixon": "26",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1791014",
+                "Hubert Humphrey": "1700586",
+                "George Wallace": "467495"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "449697",
+                "Hubert Humphrey": "301658",
+                "George Wallace": "191731"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "408433",
+                "Hubert Humphrey": "358866",
+                "George Wallace": "49683"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "29",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2090017",
+                "Hubert Humphrey": "2259403",
+                "George Wallace": "378582"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "4",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "122359",
+                "Hubert Humphrey": "246518",
+                "George Wallace": "15678"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "254062",
+                "Hubert Humphrey": "197486",
+                "George Wallace": "215430"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "149841",
+                "Hubert Humphrey": "118023",
+                "George Wallace": "13400"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Richard Nixon": "11",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "472592",
+                "Hubert Humphrey": "351233",
+                "George Wallace": "424792"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "25",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1227844",
+                "Hubert Humphrey": "1266804",
+                "George Wallace": "584269"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "238728",
+                "Hubert Humphrey": "156665",
+                "George Wallace": "26906"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "85142",
+                "Hubert Humphrey": "70255",
+                "George Wallace": "5104"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "590319",
+                "Hubert Humphrey": "442387",
+                "George Wallace": "320272"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "9",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "588510",
+                "Hubert Humphrey": "616037",
+                "George Wallace": "96990"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "Hubert Humphrey": "7",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "307555",
+                "Hubert Humphrey": "374091",
+                "George Wallace": "72560"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "809997",
+                "Hubert Humphrey": "748804",
+                "George Wallace": "127835"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "Hubert Humphrey": "0",
+                "George Wallace": "0"
+            },
+            "popular": {
+                "Richard Nixon": "70927",
+                "Hubert Humphrey": "45173",
+                "George Wallace": "11105"
+            }
+        }
+    }
+}

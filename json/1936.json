@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Franklin D. Roosevelt": "Democratic",
+        "Alfred Landon": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Franklin D. Roosevelt": "523",
+                "Alfred Landon": "8"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "27751597",
+                "Alfred Landon": "16679583"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "238196",
+                "Alfred Landon": "35358"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "86722",
+                "Alfred Landon": "33433"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "146765",
+                "Alfred Landon": "32039"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Franklin D. Roosevelt": "22",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1766836",
+                "Alfred Landon": "836431"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Franklin D. Roosevelt": "6",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "295021",
+                "Alfred Landon": "181267"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "382189",
+                "Alfred Landon": "278685"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "69702",
+                "Alfred Landon": "54014"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Franklin D. Roosevelt": "7",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "249117",
+                "Alfred Landon": "78248"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "255364",
+                "Alfred Landon": "36942"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "125683",
+                "Alfred Landon": "66256"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Franklin D. Roosevelt": "29",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2282999",
+                "Alfred Landon": "1570393"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "14",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "934974",
+                "Alfred Landon": "691570"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "621756",
+                "Alfred Landon": "487977"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "464520",
+                "Alfred Landon": "397727"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "541944",
+                "Alfred Landon": "369702"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "10",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "292894",
+                "Alfred Landon": "36791"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Alfred Landon": "5"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "126333",
+                "Alfred Landon": "168823"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "389612",
+                "Alfred Landon": "231435"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Franklin D. Roosevelt": "17",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "942716",
+                "Alfred Landon": "768613"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Franklin D. Roosevelt": "19",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1016794",
+                "Alfred Landon": "699733"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "698811",
+                "Alfred Landon": "350461"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "157318",
+                "Alfred Landon": "4443"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Franklin D. Roosevelt": "15",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1111043",
+                "Alfred Landon": "697891"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "159690",
+                "Alfred Landon": "63598"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Franklin D. Roosevelt": "7",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "347454",
+                "Alfred Landon": "247731"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "31925",
+                "Alfred Landon": "11923"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "108460",
+                "Alfred Landon": "104642"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Franklin D. Roosevelt": "16",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1083850",
+                "Alfred Landon": "720322"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "105838",
+                "Alfred Landon": "61710"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Franklin D. Roosevelt": "47",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "3293222",
+                "Alfred Landon": "2180670"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "13",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "616141",
+                "Alfred Landon": "223283"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "163148",
+                "Alfred Landon": "72751"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Franklin D. Roosevelt": "26",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1747122",
+                "Alfred Landon": "1127709"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "501069",
+                "Alfred Landon": "245122"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Franklin D. Roosevelt": "5",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "266733",
+                "Alfred Landon": "122706"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Franklin D. Roosevelt": "36",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2353788",
+                "Alfred Landon": "1690300"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "165233",
+                "Alfred Landon": "125012"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "113791",
+                "Alfred Landon": "1646"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "160137",
+                "Alfred Landon": "125977"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "327083",
+                "Alfred Landon": "146516"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "23",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "734485",
+                "Alfred Landon": "103874"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "150246",
+                "Alfred Landon": "64555"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Alfred Landon": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "62124",
+                "Alfred Landon": "81023"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "234980",
+                "Alfred Landon": "98336"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "459579",
+                "Alfred Landon": "206892"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "502582",
+                "Alfred Landon": "325486"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "802984",
+                "Alfred Landon": "380828"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Alfred Landon": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "62624",
+                "Alfred Landon": "38739"
+            }
+        }
+    }
+}

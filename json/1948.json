@@ -1,0 +1,597 @@
+{
+    "candidates": {
+        "Harry Truman": "Democratic",
+        "Thomas Dewey": "Republican",
+        "Strom Thurmond": "States' Rights Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Harry Truman": "303",
+                "Thomas Dewey": "189",
+                "Strom Thurmond": "39"
+            },
+            "popular": {
+                "Harry Truman": "24105695",
+                "Thomas Dewey": "21969170",
+                "Strom Thurmond": "1169021"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "11"
+            },
+            "popular": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "40930",
+                "Strom Thurmond": "171443"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "95251",
+                "Thomas Dewey": "77597",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Harry Truman": "9",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "149659",
+                "Thomas Dewey": "50959",
+                "Strom Thurmond": "40068"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Harry Truman": "25",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1913134",
+                "Thomas Dewey": "1895269",
+                "Strom Thurmond": "1228"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Harry Truman": "6",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "267288",
+                "Thomas Dewey": "239714",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "8",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "423297",
+                "Thomas Dewey": "437754",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "3",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "67813",
+                "Thomas Dewey": "69588",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Harry Truman": "8",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "281988",
+                "Thomas Dewey": "194280",
+                "Strom Thurmond": "89755"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Harry Truman": "12",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "254646",
+                "Thomas Dewey": "76691",
+                "Strom Thurmond": "85055"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "107370",
+                "Thomas Dewey": "101514",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Harry Truman": "28",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1994715",
+                "Thomas Dewey": "1961103",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "13",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "807833",
+                "Thomas Dewey": "821079",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Harry Truman": "10",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "522380",
+                "Thomas Dewey": "494018",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "8",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "351902",
+                "Thomas Dewey": "423039",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Harry Truman": "11",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "466756",
+                "Thomas Dewey": "341210",
+                "Strom Thurmond": "10411"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "10"
+            },
+            "popular": {
+                "Harry Truman": "136344",
+                "Thomas Dewey": "72657",
+                "Strom Thurmond": "204290"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "5",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "111916",
+                "Thomas Dewey": "150234",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "8",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "286521",
+                "Thomas Dewey": "294814",
+                "Strom Thurmond": "2476"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Harry Truman": "16",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1151788",
+                "Thomas Dewey": "909370",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "19",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1003448",
+                "Thomas Dewey": "1038595",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Harry Truman": "11",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "692966",
+                "Thomas Dewey": "483617",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "9"
+            },
+            "popular": {
+                "Harry Truman": "19384",
+                "Thomas Dewey": "5043",
+                "Strom Thurmond": "167538"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Harry Truman": "15",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "917315",
+                "Thomas Dewey": "655039",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "119071",
+                "Thomas Dewey": "96770",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "6",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "224165",
+                "Thomas Dewey": "264774",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Harry Truman": "3",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "31291",
+                "Thomas Dewey": "29357",
+                "Strom Thurmond": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "4",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "107995",
+                "Thomas Dewey": "121299",
+                "Strom Thurmond": "7"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "16",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "895455",
+                "Thomas Dewey": "981124",
+                "Strom Thurmond": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "105464",
+                "Thomas Dewey": "80303",
+                "Strom Thurmond": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "47",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "2780204",
+                "Thomas Dewey": "2841163",
+                "Strom Thurmond": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Harry Truman": "14",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "459070",
+                "Thomas Dewey": "258572",
+                "Strom Thurmond": "69652"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "4",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "95812",
+                "Thomas Dewey": "115139",
+                "Strom Thurmond": "374"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Harry Truman": "25",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1452791",
+                "Thomas Dewey": "1445684",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Harry Truman": "10",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "452782",
+                "Thomas Dewey": "268817",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "6",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "243147",
+                "Thomas Dewey": "260904",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "35",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "1752426",
+                "Thomas Dewey": "1902197",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "188619",
+                "Thomas Dewey": "134892",
+                "Strom Thurmond": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "8"
+            },
+            "popular": {
+                "Harry Truman": "34423",
+                "Thomas Dewey": "5386",
+                "Strom Thurmond": "102607"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "4",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "117653",
+                "Thomas Dewey": "129651",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Harry Truman": "11",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "1"
+            },
+            "popular": {
+                "Harry Truman": "270402",
+                "Thomas Dewey": "202914",
+                "Strom Thurmond": "73815"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Harry Truman": "23",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "750700",
+                "Thomas Dewey": "282240",
+                "Strom Thurmond": "106909"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Harry Truman": "4",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "149151",
+                "Thomas Dewey": "124402",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Harry Truman": "0",
+                "Thomas Dewey": "3",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "45557",
+                "Thomas Dewey": "75926",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Harry Truman": "11",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "200786",
+                "Thomas Dewey": "172070",
+                "Strom Thurmond": "43393"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Harry Truman": "8",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "476165",
+                "Thomas Dewey": "386315",
+                "Strom Thurmond": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Harry Truman": "8",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "429188",
+                "Thomas Dewey": "316251",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Harry Truman": "12",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "647310",
+                "Thomas Dewey": "590959",
+                "Strom Thurmond": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Harry Truman": "3",
+                "Thomas Dewey": "0",
+                "Strom Thurmond": "0"
+            },
+            "popular": {
+                "Harry Truman": "52354",
+                "Thomas Dewey": "47947",
+                "Strom Thurmond": "0"
+            }
+        }
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Richard Nixon": "Republican",
+        "George McGovern": "Democratic",
+        "John Hospers": "Libertarian / Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Richard Nixon": "520",
+                "George McGovern": "17",
+                "John Hospers": "1"
+            },
+            "popular": {
+                "Richard Nixon": "46740323",
+                "George McGovern": "28901598",
+                "John Hospers": "2691"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Richard Nixon": "9",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "728701",
+                "George McGovern": "219108",
+                "John Hospers": "0"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "55349",
+                "George McGovern": "32967",
+                "John Hospers": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "402812",
+                "George McGovern": "198540",
+                "John Hospers": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "445751",
+                "George McGovern": "198899",
+                "John Hospers": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Richard Nixon": "45",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "4544134",
+                "George McGovern": "3431824",
+                "John Hospers": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Richard Nixon": "7",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "597189",
+                "George McGovern": "329980",
+                "John Hospers": "1111"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "810763",
+                "George McGovern": "555498",
+                "John Hospers": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "140357",
+                "George McGovern": "92283",
+                "John Hospers": "0"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "George McGovern": "3",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "35226",
+                "George McGovern": "127627",
+                "John Hospers": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Richard Nixon": "17",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1857759",
+                "George McGovern": "718117",
+                "John Hospers": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "881496",
+                "George McGovern": "289529",
+                "John Hospers": "0"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "168865",
+                "George McGovern": "101409",
+                "John Hospers": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "199384",
+                "George McGovern": "80826",
+                "John Hospers": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Richard Nixon": "26",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2788179",
+                "George McGovern": "1913472",
+                "John Hospers": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Richard Nixon": "13",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1405154",
+                "George McGovern": "708568",
+                "John Hospers": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "706207",
+                "George McGovern": "496206",
+                "John Hospers": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Richard Nixon": "7",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "619812",
+                "George McGovern": "270287",
+                "John Hospers": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Richard Nixon": "9",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "676446",
+                "George McGovern": "371159",
+                "John Hospers": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Richard Nixon": "10",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "686852",
+                "George McGovern": "298142",
+                "John Hospers": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "256458",
+                "George McGovern": "160584",
+                "John Hospers": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Richard Nixon": "10",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "829305",
+                "George McGovern": "505781",
+                "John Hospers": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Richard Nixon": "0",
+                "George McGovern": "14",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1112078",
+                "George McGovern": "1332540",
+                "John Hospers": "43"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Richard Nixon": "21",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1961721",
+                "George McGovern": "1459435",
+                "John Hospers": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Richard Nixon": "10",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "897569",
+                "George McGovern": "802346",
+                "John Hospers": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Richard Nixon": "7",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "505125",
+                "George McGovern": "126782",
+                "John Hospers": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Richard Nixon": "12",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1153852",
+                "George McGovern": "697147",
+                "John Hospers": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "183976",
+                "George McGovern": "120197",
+                "John Hospers": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Richard Nixon": "5",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "406298",
+                "George McGovern": "169991",
+                "John Hospers": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "115750",
+                "George McGovern": "66016",
+                "John Hospers": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "213724",
+                "George McGovern": "116435",
+                "John Hospers": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Richard Nixon": "17",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1845502",
+                "George McGovern": "1102211",
+                "John Hospers": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "235606",
+                "George McGovern": "141084",
+                "John Hospers": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Richard Nixon": "41",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "3824642",
+                "George McGovern": "2767956",
+                "John Hospers": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Richard Nixon": "13",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "1054889",
+                "George McGovern": "438705",
+                "John Hospers": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "174109",
+                "George McGovern": "100384",
+                "John Hospers": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Richard Nixon": "25",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2441827",
+                "George McGovern": "1558889",
+                "John Hospers": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "759025",
+                "George McGovern": "247147",
+                "John Hospers": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "486686",
+                "George McGovern": "392760",
+                "John Hospers": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Richard Nixon": "27",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2714521",
+                "George McGovern": "1796951",
+                "John Hospers": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "220383",
+                "George McGovern": "194645",
+                "John Hospers": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Richard Nixon": "8",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "477044",
+                "George McGovern": "184559",
+                "John Hospers": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "166476",
+                "George McGovern": "139945",
+                "John Hospers": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Richard Nixon": "10",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "813147",
+                "George McGovern": "357293",
+                "John Hospers": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Richard Nixon": "26",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "2298896",
+                "George McGovern": "1154289",
+                "John Hospers": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Richard Nixon": "4",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "323643",
+                "George McGovern": "126284",
+                "John Hospers": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "117149",
+                "George McGovern": "67613",
+                "John Hospers": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Richard Nixon": "11",
+                "George McGovern": "0",
+                "John Hospers": "1"
+            },
+            "popular": {
+                "Richard Nixon": "988493",
+                "George McGovern": "438887",
+                "John Hospers": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Richard Nixon": "9",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "837135",
+                "George McGovern": "568334",
+                "John Hospers": "1537"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Richard Nixon": "6",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "484964",
+                "George McGovern": "277435",
+                "John Hospers": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Richard Nixon": "11",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "989430",
+                "George McGovern": "810174",
+                "John Hospers": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Richard Nixon": "3",
+                "George McGovern": "0",
+                "John Hospers": "0"
+            },
+            "popular": {
+                "Richard Nixon": "100464",
+                "George McGovern": "44358",
+                "John Hospers": "0"
+            }
+        }
+    }
+}

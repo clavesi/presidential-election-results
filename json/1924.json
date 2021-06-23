@@ -1,0 +1,597 @@
+{
+    "candidates": {
+        "Calvin Coolidge": "Republican",
+        "John Davis": "Democratic",
+        "Robert LaFollette": "Progressive"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Calvin Coolidge": "382",
+                "John Davis": "136",
+                "Robert LaFollette": "13"
+            },
+            "popular": {
+                "Calvin Coolidge": "15725016",
+                "John Davis": "8386503",
+                "Robert LaFollette": "4822856"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "12",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "45005",
+                "John Davis": "112966",
+                "Robert LaFollette": "8084"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Calvin Coolidge": "3",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "30516",
+                "John Davis": "26235",
+                "Robert LaFollette": "17210"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "9",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "40564",
+                "John Davis": "84795",
+                "Robert LaFollette": "13173"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Calvin Coolidge": "13",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "733250",
+                "John Davis": "105514",
+                "Robert LaFollette": "424649"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Calvin Coolidge": "6",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "195171",
+                "John Davis": "75238",
+                "Robert LaFollette": "69945"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Calvin Coolidge": "7",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "246322",
+                "John Davis": "110184",
+                "Robert LaFollette": "42416"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Calvin Coolidge": "3",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "52441",
+                "John Davis": "33445",
+                "Robert LaFollette": "4979"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "6",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "30633",
+                "John Davis": "62083",
+                "Robert LaFollette": "8625"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "14",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "30300",
+                "John Davis": "123200",
+                "Robert LaFollette": "12691"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Calvin Coolidge": "4",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "69879",
+                "John Davis": "24256",
+                "Robert LaFollette": "54160"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Calvin Coolidge": "29",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "1453321",
+                "John Davis": "576975",
+                "Robert LaFollette": "432027"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Calvin Coolidge": "15",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "703042",
+                "John Davis": "492245",
+                "Robert LaFollette": "71700"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Calvin Coolidge": "13",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "537635",
+                "John Davis": "162600",
+                "Robert LaFollette": "272243"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Calvin Coolidge": "10",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "407671",
+                "John Davis": "156319",
+                "Robert LaFollette": "98461"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Calvin Coolidge": "13",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "398966",
+                "John Davis": "374855",
+                "Robert LaFollette": "38465"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "10",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "24670",
+                "John Davis": "93218",
+                "Robert LaFollette": "4063"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Calvin Coolidge": "6",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "138440",
+                "John Davis": "41964",
+                "Robert LaFollette": "11382"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Calvin Coolidge": "8",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "162414",
+                "John Davis": "148072",
+                "Robert LaFollette": "47157"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Calvin Coolidge": "18",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "703489",
+                "John Davis": "280831",
+                "Robert LaFollette": "141284"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Calvin Coolidge": "15",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "874631",
+                "John Davis": "152238",
+                "Robert LaFollette": "122014"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Calvin Coolidge": "12",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "420759",
+                "John Davis": "55913",
+                "Robert LaFollette": "339192"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "10",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "8546",
+                "John Davis": "100475",
+                "Robert LaFollette": "3494"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Calvin Coolidge": "18",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "648486",
+                "John Davis": "572753",
+                "Robert LaFollette": "84160"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Calvin Coolidge": "4",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "74138",
+                "John Davis": "33805",
+                "Robert LaFollette": "65876"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Calvin Coolidge": "8",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "218585",
+                "John Davis": "137289",
+                "Robert LaFollette": "106701"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Calvin Coolidge": "3",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "11243",
+                "John Davis": "5909",
+                "Robert LaFollette": "9769"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Calvin Coolidge": "4",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "98575",
+                "John Davis": "57201",
+                "Robert LaFollette": "8993"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Calvin Coolidge": "14",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "676277",
+                "John Davis": "298043",
+                "Robert LaFollette": "109028"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Calvin Coolidge": "3",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "54745",
+                "John Davis": "48542",
+                "Robert LaFollette": "9543"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Calvin Coolidge": "45",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "1820058",
+                "John Davis": "950796",
+                "Robert LaFollette": "467293"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "12",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "191753",
+                "John Davis": "284270",
+                "Robert LaFollette": "6651"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Calvin Coolidge": "5",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "94931",
+                "John Davis": "13858",
+                "Robert LaFollette": "89922"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Calvin Coolidge": "24",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "1176130",
+                "John Davis": "477888",
+                "Robert LaFollette": "357948"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "10",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "226242",
+                "John Davis": "255798",
+                "Robert LaFollette": "41141"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Calvin Coolidge": "5",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "142579",
+                "John Davis": "67589",
+                "Robert LaFollette": "68403"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Calvin Coolidge": "38",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "1401481",
+                "John Davis": "409192",
+                "Robert LaFollette": "307567"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Calvin Coolidge": "5",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "125286",
+                "John Davis": "76606",
+                "Robert LaFollette": "7628"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "9",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "1123",
+                "John Davis": "49008",
+                "Robert LaFollette": "620"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Calvin Coolidge": "5",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "101299",
+                "John Davis": "27214",
+                "Robert LaFollette": "75355"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "12",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "130882",
+                "John Davis": "158537",
+                "Robert LaFollette": "10656"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "20",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "130023",
+                "John Davis": "484605",
+                "Robert LaFollette": "42881"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Calvin Coolidge": "4",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "77327",
+                "John Davis": "47001",
+                "Robert LaFollette": "32662"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Calvin Coolidge": "4",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "80498",
+                "John Davis": "16124",
+                "Robert LaFollette": "5964"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "12",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "73359",
+                "John Davis": "139797",
+                "Robert LaFollette": "10379"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Calvin Coolidge": "7",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "220224",
+                "John Davis": "42842",
+                "Robert LaFollette": "150727"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Calvin Coolidge": "8",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "288635",
+                "John Davis": "257232",
+                "Robert LaFollette": "36723"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Calvin Coolidge": "0",
+                "John Davis": "0",
+                "Robert LaFollette": "13"
+            },
+            "popular": {
+                "Calvin Coolidge": "311614",
+                "John Davis": "68115",
+                "Robert LaFollette": "453678"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Calvin Coolidge": "3",
+                "John Davis": "0",
+                "Robert LaFollette": "0"
+            },
+            "popular": {
+                "Calvin Coolidge": "41858",
+                "John Davis": "12868",
+                "Robert LaFollette": "25174"
+            }
+        }
+    }
+}

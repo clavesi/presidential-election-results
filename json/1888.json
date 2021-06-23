@@ -1,0 +1,398 @@
+{
+    "candidates": {
+        "Benjamin Harrison": "Republican",
+        "Grover Cleveland": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Benjamin Harrison": "233",
+                "Grover Cleveland": "168"
+            },
+            "popular": {
+                "Benjamin Harrison": "5449825",
+                "Grover Cleveland": "5539118"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "10"
+            },
+            "popular": {
+                "Benjamin Harrison": "57177",
+                "Grover Cleveland": "117314"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "7"
+            },
+            "popular": {
+                "Benjamin Harrison": "59752",
+                "Grover Cleveland": "86062"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Benjamin Harrison": "8",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "124816",
+                "Grover Cleveland": "117729"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Benjamin Harrison": "3",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "50772",
+                "Grover Cleveland": "37549"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "6"
+            },
+            "popular": {
+                "Benjamin Harrison": "74584",
+                "Grover Cleveland": "74920"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "3"
+            },
+            "popular": {
+                "Benjamin Harrison": "12950",
+                "Grover Cleveland": "16414"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "4"
+            },
+            "popular": {
+                "Benjamin Harrison": "26529",
+                "Grover Cleveland": "39557"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "12"
+            },
+            "popular": {
+                "Benjamin Harrison": "40499",
+                "Grover Cleveland": "100493"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Benjamin Harrison": "22",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "370475",
+                "Grover Cleveland": "348351"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Benjamin Harrison": "15",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "263366",
+                "Grover Cleveland": "260990"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Benjamin Harrison": "13",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "211607",
+                "Grover Cleveland": "179876"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Benjamin Harrison": "9",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "182845",
+                "Grover Cleveland": "102739"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "13"
+            },
+            "popular": {
+                "Benjamin Harrison": "155138",
+                "Grover Cleveland": "183830"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "8"
+            },
+            "popular": {
+                "Benjamin Harrison": "30660",
+                "Grover Cleveland": "85032"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Benjamin Harrison": "6",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "73730",
+                "Grover Cleveland": "50472"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "8"
+            },
+            "popular": {
+                "Benjamin Harrison": "99986",
+                "Grover Cleveland": "106188"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Benjamin Harrison": "14",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "183892",
+                "Grover Cleveland": "151590"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Benjamin Harrison": "13",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "236387",
+                "Grover Cleveland": "213469"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Benjamin Harrison": "7",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "142492",
+                "Grover Cleveland": "104372"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "9"
+            },
+            "popular": {
+                "Benjamin Harrison": "30095",
+                "Grover Cleveland": "85451"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "16"
+            },
+            "popular": {
+                "Benjamin Harrison": "236252",
+                "Grover Cleveland": "261943"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Benjamin Harrison": "5",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "108417",
+                "Grover Cleveland": "80552"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Benjamin Harrison": "3",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "7229",
+                "Grover Cleveland": "5303"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Benjamin Harrison": "4",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "45734",
+                "Grover Cleveland": "43382"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "9"
+            },
+            "popular": {
+                "Benjamin Harrison": "144360",
+                "Grover Cleveland": "151508"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Benjamin Harrison": "36",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "650338",
+                "Grover Cleveland": "635965"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "11"
+            },
+            "popular": {
+                "Benjamin Harrison": "134784",
+                "Grover Cleveland": "148336"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Benjamin Harrison": "23",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "416054",
+                "Grover Cleveland": "395456"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Benjamin Harrison": "3",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "33291",
+                "Grover Cleveland": "26518"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Benjamin Harrison": "30",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "526091",
+                "Grover Cleveland": "446633"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Benjamin Harrison": "4",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "21969",
+                "Grover Cleveland": "17530"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "9"
+            },
+            "popular": {
+                "Benjamin Harrison": "13736",
+                "Grover Cleveland": "65824"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "12"
+            },
+            "popular": {
+                "Benjamin Harrison": "139511",
+                "Grover Cleveland": "158779"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "13"
+            },
+            "popular": {
+                "Benjamin Harrison": "93991",
+                "Grover Cleveland": "236290"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Benjamin Harrison": "4",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "45193",
+                "Grover Cleveland": "16788"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "12"
+            },
+            "popular": {
+                "Benjamin Harrison": "150399",
+                "Grover Cleveland": "152004"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Benjamin Harrison": "0",
+                "Grover Cleveland": "6"
+            },
+            "popular": {
+                "Benjamin Harrison": "78171",
+                "Grover Cleveland": "78677"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Benjamin Harrison": "11",
+                "Grover Cleveland": "0"
+            },
+            "popular": {
+                "Benjamin Harrison": "176553",
+                "Grover Cleveland": "155232"
+            }
+        }
+    }
+}

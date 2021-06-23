@@ -1,0 +1,528 @@
+{
+    "candidates": {
+        "Barack Obama": "Democratic",
+        "Mitt Romney": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Barack Obama": "332",
+                "Mitt Romney": "206"
+            },
+            "popular": {
+                "Barack Obama": "65752017",
+                "Mitt Romney": "60670117"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "9"
+            },
+            "popular": {
+                "Barack Obama": "795696",
+                "Mitt Romney": "1255925"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "3"
+            },
+            "popular": {
+                "Barack Obama": "122640",
+                "Mitt Romney": "164676"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "11"
+            },
+            "popular": {
+                "Barack Obama": "1025232",
+                "Mitt Romney": "1233654"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "6"
+            },
+            "popular": {
+                "Barack Obama": "394409",
+                "Mitt Romney": "647744"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Barack Obama": "55",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "7854285",
+                "Mitt Romney": "4839958"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Barack Obama": "9",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1323101",
+                "Mitt Romney": "1185243"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Barack Obama": "7",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "905083",
+                "Mitt Romney": "634892"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Barack Obama": "3",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "242584",
+                "Mitt Romney": "165484"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Barack Obama": "3",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "267070",
+                "Mitt Romney": "21381"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Barack Obama": "29",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "4237756",
+                "Mitt Romney": "4163447"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "16"
+            },
+            "popular": {
+                "Barack Obama": "1773827",
+                "Mitt Romney": "2078688"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Barack Obama": "4",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "306658",
+                "Mitt Romney": "121015"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "4"
+            },
+            "popular": {
+                "Barack Obama": "212787",
+                "Mitt Romney": "420911"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Barack Obama": "20",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "3019512",
+                "Mitt Romney": "2135216"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "11"
+            },
+            "popular": {
+                "Barack Obama": "1152887",
+                "Mitt Romney": "1420543"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Barack Obama": "6",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "822544",
+                "Mitt Romney": "730617"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "6"
+            },
+            "popular": {
+                "Barack Obama": "440726",
+                "Mitt Romney": "692634"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "8"
+            },
+            "popular": {
+                "Barack Obama": "679370",
+                "Mitt Romney": "1087190"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "8"
+            },
+            "popular": {
+                "Barack Obama": "809141",
+                "Mitt Romney": "1152262"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Barack Obama": "4",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "401306",
+                "Mitt Romney": "292276"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Barack Obama": "10",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1677844",
+                "Mitt Romney": "971869"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Barack Obama": "11",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1921290",
+                "Mitt Romney": "1188314"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Barack Obama": "16",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "2564569",
+                "Mitt Romney": "2115256"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Barack Obama": "10",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1546167",
+                "Mitt Romney": "1320225"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "6"
+            },
+            "popular": {
+                "Barack Obama": "562949",
+                "Mitt Romney": "710746"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "10"
+            },
+            "popular": {
+                "Barack Obama": "1223796",
+                "Mitt Romney": "1482440"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "3"
+            },
+            "popular": {
+                "Barack Obama": "201839",
+                "Mitt Romney": "267928"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "5"
+            },
+            "popular": {
+                "Barack Obama": "302081",
+                "Mitt Romney": "475064"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Barack Obama": "6",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "531373",
+                "Mitt Romney": "463567"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Barack Obama": "4",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "369561",
+                "Mitt Romney": "329918"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Barack Obama": "14",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "2122786",
+                "Mitt Romney": "1478088"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Barack Obama": "5",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "415335",
+                "Mitt Romney": "335788"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Barack Obama": "29",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "4324228",
+                "Mitt Romney": "2223397"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "15"
+            },
+            "popular": {
+                "Barack Obama": "2178391",
+                "Mitt Romney": "2270395"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "3"
+            },
+            "popular": {
+                "Barack Obama": "124966",
+                "Mitt Romney": "188320"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Barack Obama": "18",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "2827621",
+                "Mitt Romney": "2661407"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "7"
+            },
+            "popular": {
+                "Barack Obama": "443547",
+                "Mitt Romney": "891325"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Barack Obama": "7",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "970488",
+                "Mitt Romney": "754175"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Barack Obama": "20",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "2990274",
+                "Mitt Romney": "2680434"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Barack Obama": "4",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "279677",
+                "Mitt Romney": "157204"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "9"
+            },
+            "popular": {
+                "Barack Obama": "865941",
+                "Mitt Romney": "1071645"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "3"
+            },
+            "popular": {
+                "Barack Obama": "145039",
+                "Mitt Romney": "210610"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "11"
+            },
+            "popular": {
+                "Barack Obama": "960709",
+                "Mitt Romney": "1462330"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "38"
+            },
+            "popular": {
+                "Barack Obama": "3308124",
+                "Mitt Romney": "4569843"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "6"
+            },
+            "popular": {
+                "Barack Obama": "251813",
+                "Mitt Romney": "740600"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Barack Obama": "3",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "199239",
+                "Mitt Romney": "92698"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Barack Obama": "13",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1971820",
+                "Mitt Romney": "1822522"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Barack Obama": "12",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1755396",
+                "Mitt Romney": "1290670"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "5"
+            },
+            "popular": {
+                "Barack Obama": "238269",
+                "Mitt Romney": "417655"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Barack Obama": "10",
+                "Mitt Romney": "0"
+            },
+            "popular": {
+                "Barack Obama": "1620985",
+                "Mitt Romney": "1410966"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Barack Obama": "0",
+                "Mitt Romney": "3"
+            },
+            "popular": {
+                "Barack Obama": "69286",
+                "Mitt Romney": "170962"
+            }
+        }
+    }
+}

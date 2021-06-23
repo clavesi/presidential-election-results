@@ -1,0 +1,528 @@
+{
+    "candidates": {
+        "Ronald Reagan": "Republican",
+        "Walter Mondale": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Ronald Reagan": "525",
+                "Walter Mondale": "13"
+            },
+            "popular": {
+                "Ronald Reagan": "54166829",
+                "Walter Mondale": "37449813"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Ronald Reagan": "9",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "872849",
+                "Walter Mondale": "551899"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "138377",
+                "Walter Mondale": "62007"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "681416",
+                "Walter Mondale": "333854"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Ronald Reagan": "6",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "534774",
+                "Walter Mondale": "338646"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Ronald Reagan": "47",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "5467009",
+                "Walter Mondale": "3922519"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "821817",
+                "Walter Mondale": "454975"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "890877",
+                "Walter Mondale": "569597"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "152190",
+                "Walter Mondale": "101656"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Walter Mondale": "3"
+            },
+            "popular": {
+                "Ronald Reagan": "29009",
+                "Walter Mondale": "180408"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Ronald Reagan": "21",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2730350",
+                "Walter Mondale": "1448816"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Ronald Reagan": "12",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1068722",
+                "Walter Mondale": "706628"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "185050",
+                "Walter Mondale": "147154"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "297523",
+                "Walter Mondale": "108510"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Ronald Reagan": "24",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2707103",
+                "Walter Mondale": "2086499"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Ronald Reagan": "12",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1377230",
+                "Walter Mondale": "841481"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "703088",
+                "Walter Mondale": "605620"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "677296",
+                "Walter Mondale": "333149"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Ronald Reagan": "9",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "821702",
+                "Walter Mondale": "539539"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Ronald Reagan": "10",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1037299",
+                "Walter Mondale": "651586"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "336500",
+                "Walter Mondale": "214515"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Ronald Reagan": "10",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "879918",
+                "Walter Mondale": "787935"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Ronald Reagan": "13",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1310936",
+                "Walter Mondale": "1239606"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Ronald Reagan": "20",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2251571",
+                "Walter Mondale": "1529638"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Walter Mondale": "10"
+            },
+            "popular": {
+                "Ronald Reagan": "1032603",
+                "Walter Mondale": "1036364"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "582377",
+                "Walter Mondale": "352192"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Ronald Reagan": "11",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1274188",
+                "Walter Mondale": "848583"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "232450",
+                "Walter Mondale": "146742"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Ronald Reagan": "5",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "460054",
+                "Walter Mondale": "187866"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "188770",
+                "Walter Mondale": "91655"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "267050",
+                "Walter Mondale": "120347"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Ronald Reagan": "16",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1933630",
+                "Walter Mondale": "1261323"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Ronald Reagan": "5",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "307101",
+                "Walter Mondale": "201769"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Ronald Reagan": "36",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "3376519",
+                "Walter Mondale": "3001285"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Ronald Reagan": "13",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1346481",
+                "Walter Mondale": "824287"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "200336",
+                "Walter Mondale": "104429"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Ronald Reagan": "23",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2678559",
+                "Walter Mondale": "1825440"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "861530",
+                "Walter Mondale": "385080"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "685700",
+                "Walter Mondale": "536479"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Ronald Reagan": "25",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2584323",
+                "Walter Mondale": "2228131"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "212080",
+                "Walter Mondale": "197106"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "615539",
+                "Walter Mondale": "344459"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "200267",
+                "Walter Mondale": "116113"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Ronald Reagan": "11",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "990212",
+                "Walter Mondale": "711714"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Ronald Reagan": "29",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "3433428",
+                "Walter Mondale": "1949276"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Ronald Reagan": "5",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "469105",
+                "Walter Mondale": "155369"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "135865",
+                "Walter Mondale": "95730"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Ronald Reagan": "12",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1337078",
+                "Walter Mondale": "796250"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Ronald Reagan": "10",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1051670",
+                "Walter Mondale": "798352"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Ronald Reagan": "6",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "405483",
+                "Walter Mondale": "328125"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Ronald Reagan": "11",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1198584",
+                "Walter Mondale": "995740"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Walter Mondale": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "133241",
+                "Walter Mondale": "53370"
+            }
+        }
+    }
+}

@@ -1,0 +1,549 @@
+{
+    "candidates": {
+        "Grover Cleveland": "Democratic",
+        "Benjamin Harrison": "Republican",
+        "James Weaver": "Populist"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Grover Cleveland": "277",
+                "Benjamin Harrison": "145",
+                "James Weaver": "22"
+            },
+            "popular": {
+                "Grover Cleveland": "5554617",
+                "Benjamin Harrison": "5186793",
+                "James Weaver": "1029357"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Grover Cleveland": "11",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "138135",
+                "Benjamin Harrison": "9184",
+                "James Weaver": "84984"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "87834",
+                "Benjamin Harrison": "47072",
+                "James Weaver": "11831"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "Benjamin Harrison": "1",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "118151",
+                "Benjamin Harrison": "118027",
+                "James Weaver": "25311"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "0",
+                "James Weaver": "4"
+            },
+            "popular": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "38620",
+                "James Weaver": "53584"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Grover Cleveland": "6",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "82395",
+                "Benjamin Harrison": "77030",
+                "James Weaver": "809"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Grover Cleveland": "3",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "18581",
+                "Benjamin Harrison": "18077",
+                "James Weaver": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Grover Cleveland": "4",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "30154",
+                "Benjamin Harrison": "0",
+                "James Weaver": "4843"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Grover Cleveland": "13",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "129386",
+                "Benjamin Harrison": "48305",
+                "James Weaver": "42937"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "0",
+                "James Weaver": "3"
+            },
+            "popular": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "8599",
+                "James Weaver": "10520"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Grover Cleveland": "24",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "426281",
+                "Benjamin Harrison": "399308",
+                "James Weaver": "22207"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Grover Cleveland": "15",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "262740",
+                "Benjamin Harrison": "255615",
+                "James Weaver": "22208"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "13",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "196367",
+                "Benjamin Harrison": "219795",
+                "James Weaver": "20595"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "0",
+                "James Weaver": "10"
+            },
+            "popular": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "156134",
+                "James Weaver": "162888"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Grover Cleveland": "13",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "175461",
+                "Benjamin Harrison": "135462",
+                "James Weaver": "23500"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "87922",
+                "Benjamin Harrison": "27903",
+                "James Weaver": "2462"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "6",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "48024",
+                "Benjamin Harrison": "62878",
+                "James Weaver": "2045"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "113866",
+                "Benjamin Harrison": "92736",
+                "James Weaver": "796"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "15",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "176813",
+                "Benjamin Harrison": "202814",
+                "James Weaver": "3210"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Grover Cleveland": "5",
+                "Benjamin Harrison": "9",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "202396",
+                "Benjamin Harrison": "222708",
+                "James Weaver": "20031"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "9",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "101055",
+                "Benjamin Harrison": "122836",
+                "James Weaver": "29336"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Grover Cleveland": "9",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "40030",
+                "Benjamin Harrison": "1398",
+                "James Weaver": "10118"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Grover Cleveland": "17",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "268400",
+                "Benjamin Harrison": "227646",
+                "James Weaver": "41204"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "3",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "17690",
+                "Benjamin Harrison": "18871",
+                "James Weaver": "7338"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "8",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "24956",
+                "Benjamin Harrison": "87213",
+                "James Weaver": "83134"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "0",
+                "James Weaver": "3"
+            },
+            "popular": {
+                "Grover Cleveland": "703",
+                "Benjamin Harrison": "2811",
+                "James Weaver": "7226"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "4",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "42081",
+                "Benjamin Harrison": "45658",
+                "James Weaver": "292"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Grover Cleveland": "10",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "170987",
+                "Benjamin Harrison": "156059",
+                "James Weaver": "969"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Grover Cleveland": "36",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "654868",
+                "Benjamin Harrison": "609350",
+                "James Weaver": "16429"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Grover Cleveland": "11",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "132951",
+                "Benjamin Harrison": "100346",
+                "James Weaver": "44336"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Grover Cleveland": "1",
+                "Benjamin Harrison": "1",
+                "James Weaver": "1"
+            },
+            "popular": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "17519",
+                "James Weaver": "17700"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Grover Cleveland": "1",
+                "Benjamin Harrison": "22",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "404115",
+                "Benjamin Harrison": "405187",
+                "James Weaver": "14850"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "3",
+                "James Weaver": "1"
+            },
+            "popular": {
+                "Grover Cleveland": "14243",
+                "Benjamin Harrison": "35002",
+                "James Weaver": "26875"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "32",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "452264",
+                "Benjamin Harrison": "516011",
+                "James Weaver": "8714"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "4",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "24336",
+                "Benjamin Harrison": "26975",
+                "James Weaver": "228"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Grover Cleveland": "9",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "54680",
+                "Benjamin Harrison": "13345",
+                "James Weaver": "2407"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "4",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "9081",
+                "Benjamin Harrison": "34888",
+                "James Weaver": "26544"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "136468",
+                "Benjamin Harrison": "100537",
+                "James Weaver": "23918"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Grover Cleveland": "15",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "239148",
+                "Benjamin Harrison": "77478",
+                "James Weaver": "99688"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "4",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "16325",
+                "Benjamin Harrison": "37992",
+                "James Weaver": "42"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "164136",
+                "Benjamin Harrison": "113098",
+                "James Weaver": "12275"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "4",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "29802",
+                "Benjamin Harrison": "36459",
+                "James Weaver": "19165"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Grover Cleveland": "6",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "84467",
+                "Benjamin Harrison": "80292",
+                "James Weaver": "4167"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "Benjamin Harrison": "0",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "177325",
+                "Benjamin Harrison": "171101",
+                "James Weaver": "9919"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "3",
+                "James Weaver": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "0",
+                "Benjamin Harrison": "8454",
+                "James Weaver": "7722"
+            }
+        }
+    }
+}

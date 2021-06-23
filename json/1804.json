@@ -1,0 +1,170 @@
+{
+    "candidates": {
+        "Thomas Jefferson": "Democratic-Republican",
+        "Charles Pinckney": "Federalist"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Thomas Jefferson": "162",
+                "Charles Pinckney": "14"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Charles Pinckney": "9"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Charles Pinckney": "3"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Thomas Jefferson": "6",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Thomas Jefferson": "8",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Thomas Jefferson": "9",
+                "Charles Pinckney": "2"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Thomas Jefferson": "19",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Thomas Jefferson": "7",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Thomas Jefferson": "8",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Thomas Jefferson": "19",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Thomas Jefferson": "14",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Thomas Jefferson": "3",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Thomas Jefferson": "20",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Thomas Jefferson": "4",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Thomas Jefferson": "10",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Thomas Jefferson": "5",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Thomas Jefferson": "6",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Thomas Jefferson": "24",
+                "Charles Pinckney": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

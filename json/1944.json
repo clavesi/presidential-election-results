@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Franklin D. Roosevelt": "Democratic",
+        "Thomas Dewey": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Franklin D. Roosevelt": "432",
+                "Thomas Dewey": "99"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "25602505",
+                "Thomas Dewey": "22006278"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "198918",
+                "Thomas Dewey": "44540"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "80926",
+                "Thomas Dewey": "56287"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "148965",
+                "Thomas Dewey": "63551"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Franklin D. Roosevelt": "25",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1988564",
+                "Thomas Dewey": "1512965"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "6"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "234331",
+                "Thomas Dewey": "268731"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "435146",
+                "Thomas Dewey": "390527"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "68166",
+                "Thomas Dewey": "56747"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "339377",
+                "Thomas Dewey": "143215"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "268187",
+                "Thomas Dewey": "56506"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "107399",
+                "Thomas Dewey": "100137"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Franklin D. Roosevelt": "28",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2079479",
+                "Thomas Dewey": "1939314"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "13"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "781403",
+                "Thomas Dewey": "875891"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "10"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "499876",
+                "Thomas Dewey": "547267"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "8"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "287458",
+                "Thomas Dewey": "442096"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "472589",
+                "Thomas Dewey": "392448"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "10",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "281564",
+                "Thomas Dewey": "67750"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "5"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "140631",
+                "Thomas Dewey": "155434"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "315490",
+                "Thomas Dewey": "292949"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Franklin D. Roosevelt": "16",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1035296",
+                "Thomas Dewey": "921350"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Franklin D. Roosevelt": "19",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1106899",
+                "Thomas Dewey": "1084423"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "589864",
+                "Thomas Dewey": "527416"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "158515",
+                "Thomas Dewey": "3742"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Franklin D. Roosevelt": "15",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "807357",
+                "Thomas Dewey": "761175"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "112556",
+                "Thomas Dewey": "93163"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "6"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "233246",
+                "Thomas Dewey": "329880"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "29623",
+                "Thomas Dewey": "24611"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "119663",
+                "Thomas Dewey": "109916"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Franklin D. Roosevelt": "16",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "987874",
+                "Thomas Dewey": "961335"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "81389",
+                "Thomas Dewey": "70688"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Franklin D. Roosevelt": "47",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "3304238",
+                "Thomas Dewey": "2987647"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "14",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "527399",
+                "Thomas Dewey": "263155"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "4"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "100144",
+                "Thomas Dewey": "118535"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "25"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1570763",
+                "Thomas Dewey": "1582293"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Franklin D. Roosevelt": "10",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "401549",
+                "Thomas Dewey": "319424"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Franklin D. Roosevelt": "6",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "248635",
+                "Thomas Dewey": "225365"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Franklin D. Roosevelt": "35",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1940479",
+                "Thomas Dewey": "1835048"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "175356",
+                "Thomas Dewey": "123487"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "90601",
+                "Thomas Dewey": "4547"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "4"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "96711",
+                "Thomas Dewey": "135365"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "308707",
+                "Thomas Dewey": "200311"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "23",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "821605",
+                "Thomas Dewey": "191425"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "150088",
+                "Thomas Dewey": "97891"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "53820",
+                "Thomas Dewey": "71527"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "242276",
+                "Thomas Dewey": "145243"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "486774",
+                "Thomas Dewey": "361689"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Thomas Dewey": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "392777",
+                "Thomas Dewey": "322819"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "12"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "650413",
+                "Thomas Dewey": "674532"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Thomas Dewey": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "49419",
+                "Thomas Dewey": "51921"
+            }
+        }
+    }
+}

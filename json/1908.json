@@ -1,0 +1,478 @@
+{
+    "candidates": {
+        "William Taft": "Republican",
+        "William Jennings Bryan": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "William Taft": "321",
+                "William Jennings Bryan": "162"
+            },
+            "popular": {
+                "William Taft": "7676598",
+                "William Jennings Bryan": "6406874"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "11"
+            },
+            "popular": {
+                "William Taft": "25561",
+                "William Jennings Bryan": "74391"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "9"
+            },
+            "popular": {
+                "William Taft": "56684",
+                "William Jennings Bryan": "87020"
+            }
+        },
+        "California": {
+            "electoral": {
+                "William Taft": "10",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "214398",
+                "William Jennings Bryan": "127492"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "5"
+            },
+            "popular": {
+                "William Taft": "123693",
+                "William Jennings Bryan": "126644"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "William Taft": "7",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "112815",
+                "William Jennings Bryan": "68255"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "William Taft": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "25014",
+                "William Jennings Bryan": "22055"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "5"
+            },
+            "popular": {
+                "William Taft": "10654",
+                "William Jennings Bryan": "31104"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "13"
+            },
+            "popular": {
+                "William Taft": "41692",
+                "William Jennings Bryan": "72413"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "William Taft": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "52621",
+                "William Jennings Bryan": "36162"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "William Taft": "27",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "629932",
+                "William Jennings Bryan": "450810"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "William Taft": "15",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "348993",
+                "William Jennings Bryan": "338262"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "William Taft": "13",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "275210",
+                "William Jennings Bryan": "200771"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "William Taft": "10",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "197316",
+                "William Jennings Bryan": "161209"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "13"
+            },
+            "popular": {
+                "William Taft": "235711",
+                "William Jennings Bryan": "244092"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "9"
+            },
+            "popular": {
+                "William Taft": "8958",
+                "William Jennings Bryan": "63568"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "William Taft": "6",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "66987",
+                "William Jennings Bryan": "35403"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "William Taft": "2",
+                "William Jennings Bryan": "6"
+            },
+            "popular": {
+                "William Taft": "116513",
+                "William Jennings Bryan": "115908"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "William Taft": "16",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "265966",
+                "William Jennings Bryan": "155533"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "William Taft": "14",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "333313",
+                "William Jennings Bryan": "174619"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "William Taft": "11",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "195846",
+                "William Jennings Bryan": "109411"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "10"
+            },
+            "popular": {
+                "William Taft": "4363",
+                "William Jennings Bryan": "60287"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "William Taft": "18",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "347203",
+                "William Jennings Bryan": "346574"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "William Taft": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "32471",
+                "William Jennings Bryan": "29511"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "8"
+            },
+            "popular": {
+                "William Taft": "126997",
+                "William Jennings Bryan": "131099"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "3"
+            },
+            "popular": {
+                "William Taft": "10775",
+                "William Jennings Bryan": "11212"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "53144",
+                "William Jennings Bryan": "33655"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "William Taft": "12",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "265298",
+                "William Jennings Bryan": "182522"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "William Taft": "39",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "870070",
+                "William Jennings Bryan": "667468"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "12"
+            },
+            "popular": {
+                "William Taft": "114887",
+                "William Jennings Bryan": "136928"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "57680",
+                "William Jennings Bryan": "32884"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "William Taft": "23",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "572312",
+                "William Jennings Bryan": "502721"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "7"
+            },
+            "popular": {
+                "William Taft": "110473",
+                "William Jennings Bryan": "122362"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "62454",
+                "William Jennings Bryan": "37792"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "William Taft": "34",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "745779",
+                "William Jennings Bryan": "448782"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "43942",
+                "William Jennings Bryan": "24706"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "9"
+            },
+            "popular": {
+                "William Taft": "3945",
+                "William Jennings Bryan": "62288"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "67536",
+                "William Jennings Bryan": "40266"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "12"
+            },
+            "popular": {
+                "William Taft": "117977",
+                "William Jennings Bryan": "135608"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "18"
+            },
+            "popular": {
+                "William Taft": "65605",
+                "William Jennings Bryan": "216662"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "William Taft": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "61165",
+                "William Jennings Bryan": "42610"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "William Taft": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "39552",
+                "William Jennings Bryan": "11496"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "William Taft": "0",
+                "William Jennings Bryan": "12"
+            },
+            "popular": {
+                "William Taft": "52572",
+                "William Jennings Bryan": "82946"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "William Taft": "5",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "106062",
+                "William Jennings Bryan": "58383"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "William Taft": "7",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "137869",
+                "William Jennings Bryan": "111410"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "William Taft": "13",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "247744",
+                "William Jennings Bryan": "166662"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "William Taft": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William Taft": "20846",
+                "William Jennings Bryan": "14918"
+            }
+        }
+    }
+}

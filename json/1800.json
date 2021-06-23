@@ -1,0 +1,215 @@
+{
+    "candidates": {
+        "Thomas Jefferson": "Democratic-Republican",
+        "Aaron Burr": "Democratic-Republican",
+        "John Adams": "Federalist",
+        "Charles Pinckney": "Federalist",
+        "John Jay": "Federalist"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Thomas Jefferson": "73",
+                "Aaron Burr": "73",
+                "John Adams": "65",
+                "Charles Pinckney": "64",
+                "John Jay": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "9",
+                "Charles Pinckney": "9",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "3",
+                "Charles Pinckney": "3",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Thomas Jefferson": "4",
+                "Aaron Burr": "4",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Thomas Jefferson": "4",
+                "Aaron Burr": "4",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Thomas Jefferson": "5",
+                "Aaron Burr": "5",
+                "John Adams": "5",
+                "Charles Pinckney": "5",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "16",
+                "Charles Pinckney": "16",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "6",
+                "Charles Pinckney": "6",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "7",
+                "Charles Pinckney": "7",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Thomas Jefferson": "12",
+                "Aaron Burr": "12",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Thomas Jefferson": "8",
+                "Aaron Burr": "8",
+                "John Adams": "4",
+                "Charles Pinckney": "4",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Thomas Jefferson": "8",
+                "Aaron Burr": "8",
+                "John Adams": "7",
+                "Charles Pinckney": "7",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "4",
+                "Charles Pinckney": "3",
+                "John Jay": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Thomas Jefferson": "8",
+                "Aaron Burr": "8",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Thomas Jefferson": "3",
+                "Aaron Burr": "3",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0",
+                "John Adams": "4",
+                "Charles Pinckney": "4",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Thomas Jefferson": "21",
+                "Aaron Burr": "21",
+                "John Adams": "0",
+                "Charles Pinckney": "0",
+                "John Jay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

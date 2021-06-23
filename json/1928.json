@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Herbert Hoover": "Republican",
+        "Al Smith": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Herbert Hoover": "444",
+                "Al Smith": "87"
+            },
+            "popular": {
+                "Herbert Hoover": "21392190",
+                "Al Smith": "15016443"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "12"
+            },
+            "popular": {
+                "Herbert Hoover": "120725",
+                "Al Smith": "127797"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Herbert Hoover": "3",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "52533",
+                "Al Smith": "38537"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "9"
+            },
+            "popular": {
+                "Herbert Hoover": "77751",
+                "Al Smith": "119196"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Herbert Hoover": "13",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "1162323",
+                "Al Smith": "614365"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Herbert Hoover": "6",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "253872",
+                "Al Smith": "133131"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Herbert Hoover": "7",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "296614",
+                "Al Smith": "252040"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Herbert Hoover": "3",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "68860",
+                "Al Smith": "36643"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Herbert Hoover": "6",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "144168",
+                "Al Smith": "101764"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "14"
+            },
+            "popular": {
+                "Herbert Hoover": "63498",
+                "Al Smith": "129602"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Herbert Hoover": "4",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "99848",
+                "Al Smith": "53074"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Herbert Hoover": "29",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "1769141",
+                "Al Smith": "1313817"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Herbert Hoover": "15",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "848290",
+                "Al Smith": "562691"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Herbert Hoover": "13",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "623818",
+                "Al Smith": "378936"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Herbert Hoover": "10",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "513672",
+                "Al Smith": "193003"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Herbert Hoover": "13",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "558064",
+                "Al Smith": "381070"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "10"
+            },
+            "popular": {
+                "Herbert Hoover": "51160",
+                "Al Smith": "164655"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Herbert Hoover": "6",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "179923",
+                "Al Smith": "81179"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Herbert Hoover": "8",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "301479",
+                "Al Smith": "223626"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "18"
+            },
+            "popular": {
+                "Herbert Hoover": "775566",
+                "Al Smith": "792758"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Herbert Hoover": "15",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "965396",
+                "Al Smith": "396762"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Herbert Hoover": "12",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "560977",
+                "Al Smith": "396451"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "10"
+            },
+            "popular": {
+                "Herbert Hoover": "27153",
+                "Al Smith": "124539"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Herbert Hoover": "18",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "834080",
+                "Al Smith": "662562"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Herbert Hoover": "4",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "113300",
+                "Al Smith": "78578"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Herbert Hoover": "8",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "345745",
+                "Al Smith": "197959"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Herbert Hoover": "3",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "18327",
+                "Al Smith": "14090"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Herbert Hoover": "4",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "115404",
+                "Al Smith": "80715"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Herbert Hoover": "14",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "926050",
+                "Al Smith": "616517"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Herbert Hoover": "3",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "69645",
+                "Al Smith": "48211"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Herbert Hoover": "45",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "2193344",
+                "Al Smith": "2089863"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Herbert Hoover": "12",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "348992",
+                "Al Smith": "287078"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Herbert Hoover": "5",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "131441",
+                "Al Smith": "106648"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Herbert Hoover": "24",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "1627546",
+                "Al Smith": "864210"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Herbert Hoover": "10",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "394046",
+                "Al Smith": "219174"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Herbert Hoover": "5",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "205341",
+                "Al Smith": "109223"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Herbert Hoover": "38",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "2055382",
+                "Al Smith": "1067586"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "5"
+            },
+            "popular": {
+                "Herbert Hoover": "117522",
+                "Al Smith": "118973"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Herbert Hoover": "0",
+                "Al Smith": "9"
+            },
+            "popular": {
+                "Herbert Hoover": "3188",
+                "Al Smith": "62700"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Herbert Hoover": "5",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "157603",
+                "Al Smith": "102660"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Herbert Hoover": "12",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "195388",
+                "Al Smith": "167343"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Herbert Hoover": "20",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "367036",
+                "Al Smith": "341032"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Herbert Hoover": "4",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "94618",
+                "Al Smith": "80985"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Herbert Hoover": "4",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "90404",
+                "Al Smith": "44440"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Herbert Hoover": "12",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "164609",
+                "Al Smith": "140146"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Herbert Hoover": "7",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "335844",
+                "Al Smith": "156772"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Herbert Hoover": "8",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "375551",
+                "Al Smith": "263784"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Herbert Hoover": "13",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "544205",
+                "Al Smith": "450259"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Herbert Hoover": "3",
+                "Al Smith": "0"
+            },
+            "popular": {
+                "Herbert Hoover": "52748",
+                "Al Smith": "29299"
+            }
+        }
+    }
+}

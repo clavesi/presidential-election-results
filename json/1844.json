@@ -1,0 +1,277 @@
+{
+    "candidates": {
+        "James Polk": "Democratic",
+        "Henry Clay": "Whig"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Polk": "170",
+                "Henry Clay": "105"
+            },
+            "popular": {
+                "James Polk": "1339494",
+                "Henry Clay": "1300004"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "James Polk": "9",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "37401",
+                "Henry Clay": "26002"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "James Polk": "3",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "9546",
+                "Henry Clay": "5604"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "6"
+            },
+            "popular": {
+                "James Polk": "29841",
+                "Henry Clay": "32832"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "3"
+            },
+            "popular": {
+                "James Polk": "5970",
+                "Henry Clay": "6271"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Polk": "10",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "44147",
+                "Henry Clay": "42100"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "James Polk": "9",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "58795",
+                "Henry Clay": "45854"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "James Polk": "12",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "70183",
+                "Henry Clay": "67866"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "12"
+            },
+            "popular": {
+                "James Polk": "51988",
+                "Henry Clay": "61249"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Polk": "6",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "13782",
+                "Henry Clay": "13083"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "James Polk": "9",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "45719",
+                "Henry Clay": "34378"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "8"
+            },
+            "popular": {
+                "James Polk": "32706",
+                "Henry Clay": "35984"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "12"
+            },
+            "popular": {
+                "James Polk": "53039",
+                "Henry Clay": "67062"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "James Polk": "5",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "27737",
+                "Henry Clay": "24185"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "James Polk": "6",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "25846",
+                "Henry Clay": "19158"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "James Polk": "7",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "41322",
+                "Henry Clay": "31200"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Polk": "6",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "27160",
+                "Henry Clay": "17866"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "7"
+            },
+            "popular": {
+                "James Polk": "37495",
+                "Henry Clay": "38318"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Polk": "36",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "237588",
+                "Henry Clay": "232482"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "11"
+            },
+            "popular": {
+                "James Polk": "39287",
+                "Henry Clay": "43232"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "23"
+            },
+            "popular": {
+                "James Polk": "149127",
+                "Henry Clay": "155091"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Polk": "26",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "167311",
+                "Henry Clay": "161195"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "4"
+            },
+            "popular": {
+                "James Polk": "4867",
+                "Henry Clay": "7322"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Polk": "9",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "13"
+            },
+            "popular": {
+                "James Polk": "59917",
+                "Henry Clay": "60040"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Polk": "0",
+                "Henry Clay": "6"
+            },
+            "popular": {
+                "James Polk": "18041",
+                "Henry Clay": "26770"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Polk": "17",
+                "Henry Clay": "0"
+            },
+            "popular": {
+                "James Polk": "50679",
+                "Henry Clay": "44860"
+            }
+        }
+    }
+}

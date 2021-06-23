@@ -1,0 +1,277 @@
+{
+    "candidates": {
+        "William Henry Harrison": "Whig",
+        "Martin Van Buren": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "William Henry Harrison": "234",
+                "Martin Van Buren": "60"
+            },
+            "popular": {
+                "William Henry Harrison": "1275390",
+                "Martin Van Buren": "1128854"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "7"
+            },
+            "popular": {
+                "William Henry Harrison": "28515",
+                "Martin Van Buren": "33996"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "3"
+            },
+            "popular": {
+                "William Henry Harrison": "5160",
+                "Martin Van Buren": "6679"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "William Henry Harrison": "8",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "31598",
+                "Martin Van Buren": "25281"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "William Henry Harrison": "3",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "5967",
+                "Martin Van Buren": "4872"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "William Henry Harrison": "11",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "40339",
+                "Martin Van Buren": "31983"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "5"
+            },
+            "popular": {
+                "William Henry Harrison": "45574",
+                "Martin Van Buren": "47441"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "William Henry Harrison": "9",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "65280",
+                "Martin Van Buren": "51696"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "William Henry Harrison": "15",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "58488",
+                "Martin Van Buren": "32616"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "William Henry Harrison": "5",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "11296",
+                "Martin Van Buren": "7616"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "William Henry Harrison": "10",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "46612",
+                "Martin Van Buren": "46190"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "William Henry Harrison": "10",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "33528",
+                "Martin Van Buren": "28752"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "William Henry Harrison": "14",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "72852",
+                "Martin Van Buren": "52355"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "William Henry Harrison": "3",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "22933",
+                "Martin Van Buren": "21096"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "William Henry Harrison": "4",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "19515",
+                "Martin Van Buren": "17010"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "4"
+            },
+            "popular": {
+                "William Henry Harrison": "22954",
+                "Martin Van Buren": "29969"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "7"
+            },
+            "popular": {
+                "William Henry Harrison": "26310",
+                "Martin Van Buren": "32774"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "William Henry Harrison": "8",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "33351",
+                "Martin Van Buren": "31034"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "William Henry Harrison": "42",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "226001",
+                "Martin Van Buren": "212733"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "William Henry Harrison": "15",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "46567",
+                "Martin Van Buren": "34168"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "William Henry Harrison": "21",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "148043",
+                "Martin Van Buren": "123944"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "William Henry Harrison": "30",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "144023",
+                "Martin Van Buren": "143672"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "William Henry Harrison": "4",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "5213",
+                "Martin Van Buren": "3263"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "11"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "William Henry Harrison": "15",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "60194",
+                "Martin Van Buren": "47951"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "William Henry Harrison": "7",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "William Henry Harrison": "32440",
+                "Martin Van Buren": "18006"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "William Henry Harrison": "0",
+                "Martin Van Buren": "23"
+            },
+            "popular": {
+                "William Henry Harrison": "42637",
+                "Martin Van Buren": "43757"
+            }
+        }
+    }
+}

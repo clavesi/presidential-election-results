@@ -1,0 +1,696 @@
+{
+    "candidates": {
+        "Woodrow Wilson": "Democratic",
+        "Theodore Roosevelt": "Progressive",
+        "William Taft": "Republican",
+        "Eugene V. Debs": "Socialist"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Woodrow Wilson": "435",
+                "Theodore Roosevelt": "88",
+                "William Taft": "8",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "6294327",
+                "Theodore Roosevelt": "4120207",
+                "William Taft": "3486343",
+                "Eugene V. Debs": "900370"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "82438",
+                "Theodore Roosevelt": "22680",
+                "William Taft": "9807",
+                "Eugene V. Debs": "3029"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "10324",
+                "Theodore Roosevelt": "6949",
+                "William Taft": "2986",
+                "Eugene V. Debs": "3163"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Woodrow Wilson": "9",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "68814",
+                "Theodore Roosevelt": "21644",
+                "William Taft": "25585",
+                "Eugene V. Debs": "8153"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Woodrow Wilson": "2",
+                "Theodore Roosevelt": "11",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "283436",
+                "Theodore Roosevelt": "283610",
+                "William Taft": "3847",
+                "Eugene V. Debs": "79201"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Woodrow Wilson": "6",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "113912",
+                "Theodore Roosevelt": "71752",
+                "William Taft": "58386",
+                "Eugene V. Debs": "16366"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Woodrow Wilson": "7",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "74561",
+                "Theodore Roosevelt": "34129",
+                "William Taft": "68324",
+                "Eugene V. Debs": "10056"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "22631",
+                "Theodore Roosevelt": "8886",
+                "William Taft": "15997",
+                "Eugene V. Debs": "556"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Woodrow Wilson": "6",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "36417",
+                "Theodore Roosevelt": "4555",
+                "William Taft": "4279",
+                "Eugene V. Debs": "4806"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Woodrow Wilson": "14",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "93087",
+                "Theodore Roosevelt": "21985",
+                "William Taft": "5191",
+                "Eugene V. Debs": "1058"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "33921",
+                "Theodore Roosevelt": "25527",
+                "William Taft": "32810",
+                "Eugene V. Debs": "11960"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Woodrow Wilson": "29",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "405048",
+                "Theodore Roosevelt": "386478",
+                "William Taft": "253593",
+                "Eugene V. Debs": "81278"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Woodrow Wilson": "15",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "281890",
+                "Theodore Roosevelt": "162007",
+                "William Taft": "151267",
+                "Eugene V. Debs": "36931"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Woodrow Wilson": "13",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "185322",
+                "Theodore Roosevelt": "161819",
+                "William Taft": "119805",
+                "Eugene V. Debs": "16967"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "143663",
+                "Theodore Roosevelt": "120210",
+                "William Taft": "74845",
+                "Eugene V. Debs": "26779"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Woodrow Wilson": "13",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "219585",
+                "Theodore Roosevelt": "102766",
+                "William Taft": "115520",
+                "Eugene V. Debs": "11647"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "60871",
+                "Theodore Roosevelt": "9283",
+                "William Taft": "3833",
+                "Eugene V. Debs": "5261"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Woodrow Wilson": "6",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "51113",
+                "Theodore Roosevelt": "48495",
+                "William Taft": "26545",
+                "Eugene V. Debs": "2541"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Woodrow Wilson": "8",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "112674",
+                "Theodore Roosevelt": "57789",
+                "William Taft": "54956",
+                "Eugene V. Debs": "3996"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Woodrow Wilson": "18",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "173408",
+                "Theodore Roosevelt": "142228",
+                "William Taft": "155948",
+                "Eugene V. Debs": "12616"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "15",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "150201",
+                "Theodore Roosevelt": "213243",
+                "William Taft": "151434",
+                "Eugene V. Debs": "23060"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "12",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "106426",
+                "Theodore Roosevelt": "125856",
+                "William Taft": "64334",
+                "Eugene V. Debs": "27505"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "57324",
+                "Theodore Roosevelt": "3549",
+                "William Taft": "1560",
+                "Eugene V. Debs": "2050"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Woodrow Wilson": "18",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "330746",
+                "Theodore Roosevelt": "124375",
+                "William Taft": "207821",
+                "Eugene V. Debs": "28466"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "28129",
+                "Theodore Roosevelt": "22709",
+                "William Taft": "18575",
+                "Eugene V. Debs": "10811"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Woodrow Wilson": "8",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "109008",
+                "Theodore Roosevelt": "72681",
+                "William Taft": "54226",
+                "Eugene V. Debs": "10185"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "7986",
+                "Theodore Roosevelt": "5620",
+                "William Taft": "3196",
+                "Eugene V. Debs": "3313"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "34724",
+                "Theodore Roosevelt": "17794",
+                "William Taft": "32927",
+                "Eugene V. Debs": "1981"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Woodrow Wilson": "14",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "178638",
+                "Theodore Roosevelt": "145679",
+                "William Taft": "89066",
+                "Eugene V. Debs": "15948"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "20437",
+                "Theodore Roosevelt": "8347",
+                "William Taft": "17164",
+                "Eugene V. Debs": "2859"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Woodrow Wilson": "45",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "655573",
+                "Theodore Roosevelt": "390093",
+                "William Taft": "455487",
+                "Eugene V. Debs": "63434"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "144407",
+                "Theodore Roosevelt": "69135",
+                "William Taft": "29129",
+                "Eugene V. Debs": "987"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Woodrow Wilson": "5",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "29549",
+                "Theodore Roosevelt": "25726",
+                "William Taft": "22990",
+                "Eugene V. Debs": "6966"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Woodrow Wilson": "24",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "424834",
+                "Theodore Roosevelt": "229807",
+                "William Taft": "278168",
+                "Eugene V. Debs": "90164"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "119143",
+                "Theodore Roosevelt": "0",
+                "William Taft": "90726",
+                "Eugene V. Debs": "41630"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Woodrow Wilson": "5",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "47064",
+                "Theodore Roosevelt": "37600",
+                "William Taft": "34673",
+                "Eugene V. Debs": "13343"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "38",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "395637",
+                "Theodore Roosevelt": "444894",
+                "William Taft": "273360",
+                "Eugene V. Debs": "83614"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Woodrow Wilson": "5",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "30412",
+                "Theodore Roosevelt": "16878",
+                "William Taft": "27703",
+                "Eugene V. Debs": "2049"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Woodrow Wilson": "9",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "48355",
+                "Theodore Roosevelt": "1293",
+                "William Taft": "536",
+                "Eugene V. Debs": "164"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "5",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "48942",
+                "Theodore Roosevelt": "58811",
+                "William Taft": "0",
+                "Eugene V. Debs": "4664"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "133021",
+                "Theodore Roosevelt": "54041",
+                "William Taft": "60475",
+                "Eugene V. Debs": "3564"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Woodrow Wilson": "20",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "218921",
+                "Theodore Roosevelt": "26715",
+                "William Taft": "28310",
+                "Eugene V. Debs": "24884"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "0",
+                "William Taft": "4",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "36576",
+                "Theodore Roosevelt": "24174",
+                "William Taft": "42013",
+                "Eugene V. Debs": "8999"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "0",
+                "William Taft": "4",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "15350",
+                "Theodore Roosevelt": "22129",
+                "William Taft": "23303",
+                "Eugene V. Debs": "928"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "90332",
+                "Theodore Roosevelt": "21776",
+                "William Taft": "23288",
+                "Eugene V. Debs": "820"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Theodore Roosevelt": "7",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "86840",
+                "Theodore Roosevelt": "113698",
+                "William Taft": "70445",
+                "Eugene V. Debs": "40134"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Woodrow Wilson": "8",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "113097",
+                "Theodore Roosevelt": "79112",
+                "William Taft": "56754",
+                "Eugene V. Debs": "15248"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Woodrow Wilson": "13",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "164230",
+                "Theodore Roosevelt": "62448",
+                "William Taft": "130596",
+                "Eugene V. Debs": "33476"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Theodore Roosevelt": "0",
+                "William Taft": "0",
+                "Eugene V. Debs": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "15310",
+                "Theodore Roosevelt": "9232",
+                "William Taft": "14560",
+                "Eugene V. Debs": "2760"
+            }
+        }
+    }
+}

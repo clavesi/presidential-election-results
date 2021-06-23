@@ -1,0 +1,439 @@
+{
+    "candidates": {
+        "Martin Van Buren": "Democratic",
+        "William Henry Harrison": "Whig",
+        "Hugh White": "Whig",
+        "Daniel Webster": "Whig",
+        "Willie Mangum": "Whig"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Martin Van Buren": "170",
+                "William Henry Harrison": "73",
+                "Hugh White": "26",
+                "Daniel Webster": "14",
+                "Willie Mangum": "11"
+            },
+            "popular": {
+                "Martin Van Buren": "764176",
+                "William Henry Harrison": "550816",
+                "Hugh White": "146107",
+                "Daniel Webster": "41201",
+                "Willie Mangum": "0"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Martin Van Buren": "7",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "20638",
+                "William Henry Harrison": "0",
+                "Hugh White": "16658",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Martin Van Buren": "3",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "2380",
+                "William Henry Harrison": "0",
+                "Hugh White": "1334",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Martin Van Buren": "8",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "19294",
+                "William Henry Harrison": "18799",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "3",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "4154",
+                "William Henry Harrison": "4736",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "0",
+                "Hugh White": "11",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "22778",
+                "William Henry Harrison": "0",
+                "Hugh White": "24481",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Martin Van Buren": "5",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "18369",
+                "William Henry Harrison": "15220",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "9",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "33084",
+                "William Henry Harrison": "41339",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "15",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "33229",
+                "William Henry Harrison": "36861",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Martin Van Buren": "5",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "3842",
+                "William Henry Harrison": "0",
+                "Hugh White": "3583",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Martin Van Buren": "10",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "22825",
+                "William Henry Harrison": "14803",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "10",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "22267",
+                "William Henry Harrison": "25852",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "14",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "33486",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "41201",
+                "Willie Mangum": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Martin Van Buren": "3",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "6507",
+                "William Henry Harrison": "5545",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Martin Van Buren": "4",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "10297",
+                "William Henry Harrison": "0",
+                "Hugh White": "9782",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Martin Van Buren": "4",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "10995",
+                "William Henry Harrison": "0",
+                "Hugh White": "7337",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Martin Van Buren": "7",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "18697",
+                "William Henry Harrison": "6228",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "8",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "25592",
+                "William Henry Harrison": "26137",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Martin Van Buren": "42",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "166795",
+                "William Henry Harrison": "138548",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Martin Van Buren": "15",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "26631",
+                "William Henry Harrison": "0",
+                "Hugh White": "23521",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "21",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "97122",
+                "William Henry Harrison": "105809",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Martin Van Buren": "30",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "91466",
+                "William Henry Harrison": "87235",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Martin Van Buren": "4",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "2962",
+                "William Henry Harrison": "2710",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "11"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "0",
+                "Hugh White": "15",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "26170",
+                "William Henry Harrison": "0",
+                "Hugh White": "36027",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Martin Van Buren": "0",
+                "William Henry Harrison": "7",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "14040",
+                "William Henry Harrison": "20994",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Martin Van Buren": "23",
+                "William Henry Harrison": "0",
+                "Hugh White": "0",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            },
+            "popular": {
+                "Martin Van Buren": "30556",
+                "William Henry Harrison": "0",
+                "Hugh White": "23384",
+                "Daniel Webster": "0",
+                "Willie Mangum": "0"
+            }
+        }
+    }
+}

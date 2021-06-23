@@ -1,0 +1,468 @@
+{
+    "candidates": {
+        "William McKinley": "Republican",
+        "William Jennings Bryan": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "William McKinley": "292",
+                "William Jennings Bryan": "155"
+            },
+            "popular": {
+                "William McKinley": "7219193",
+                "William Jennings Bryan": "6357698"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "11"
+            },
+            "popular": {
+                "William McKinley": "55634",
+                "William Jennings Bryan": "96368"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "8"
+            },
+            "popular": {
+                "William McKinley": "44800",
+                "William Jennings Bryan": "81242"
+            }
+        },
+        "California": {
+            "electoral": {
+                "William McKinley": "9",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "164755",
+                "William Jennings Bryan": "124985"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "4"
+            },
+            "popular": {
+                "William McKinley": "92701",
+                "William Jennings Bryan": "122705"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "William McKinley": "6",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "102572",
+                "William Jennings Bryan": "74014"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "William McKinley": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "22535",
+                "William Jennings Bryan": "18852"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "4"
+            },
+            "popular": {
+                "William McKinley": "7463",
+                "William Jennings Bryan": "28273"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "13"
+            },
+            "popular": {
+                "William McKinley": "34260",
+                "William Jennings Bryan": "81180"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "3"
+            },
+            "popular": {
+                "William McKinley": "27198",
+                "William Jennings Bryan": "28260"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "William McKinley": "24",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "597985",
+                "William Jennings Bryan": "503061"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "William McKinley": "15",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "336063",
+                "William Jennings Bryan": "309584"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "William McKinley": "13",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "307799",
+                "William Jennings Bryan": "209261"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "William McKinley": "10",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "185955",
+                "William Jennings Bryan": "162601"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "13"
+            },
+            "popular": {
+                "William McKinley": "226801",
+                "William Jennings Bryan": "234889"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "8"
+            },
+            "popular": {
+                "William McKinley": "14234",
+                "William Jennings Bryan": "53668"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "William McKinley": "6",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "66413",
+                "William Jennings Bryan": "37822"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "William McKinley": "8",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "136151",
+                "William Jennings Bryan": "122237"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "William McKinley": "15",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "238866",
+                "William Jennings Bryan": "156997"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "William McKinley": "14",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "316014",
+                "William Jennings Bryan": "211432"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "William McKinley": "9",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "190461",
+                "William Jennings Bryan": "112901"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "9"
+            },
+            "popular": {
+                "William McKinley": "5707",
+                "William Jennings Bryan": "51706"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "17"
+            },
+            "popular": {
+                "William McKinley": "314092",
+                "William Jennings Bryan": "351922"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "3"
+            },
+            "popular": {
+                "William McKinley": "25409",
+                "William Jennings Bryan": "37311"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "William McKinley": "8",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "121835",
+                "William Jennings Bryan": "114013"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "3"
+            },
+            "popular": {
+                "William McKinley": "3849",
+                "William Jennings Bryan": "6347"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "54799",
+                "William Jennings Bryan": "35489"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "William McKinley": "10",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "221707",
+                "William Jennings Bryan": "164808"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "William McKinley": "36",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "822013",
+                "William Jennings Bryan": "678462"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "11"
+            },
+            "popular": {
+                "William McKinley": "132997",
+                "William Jennings Bryan": "157733"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "William McKinley": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "35898",
+                "William Jennings Bryan": "20524"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "William McKinley": "23",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "543918",
+                "William Jennings Bryan": "474882"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "46526",
+                "William Jennings Bryan": "33385"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "William McKinley": "32",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "712665",
+                "William Jennings Bryan": "424232"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "33784",
+                "William Jennings Bryan": "19812"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "9"
+            },
+            "popular": {
+                "William McKinley": "3525",
+                "William Jennings Bryan": "47173"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "54574",
+                "William Jennings Bryan": "39538"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "12"
+            },
+            "popular": {
+                "William McKinley": "123108",
+                "William Jennings Bryan": "145240"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "15"
+            },
+            "popular": {
+                "William McKinley": "131174",
+                "William Jennings Bryan": "267945"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "William McKinley": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "47089",
+                "William Jennings Bryan": "44949"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "42569",
+                "William Jennings Bryan": "12849"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "William McKinley": "0",
+                "William Jennings Bryan": "12"
+            },
+            "popular": {
+                "William McKinley": "115769",
+                "William Jennings Bryan": "146079"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "William McKinley": "4",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "57455",
+                "William Jennings Bryan": "44833"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "William McKinley": "6",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "119829",
+                "William Jennings Bryan": "98807"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "William McKinley": "12",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "265760",
+                "William Jennings Bryan": "159163"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "William McKinley": "3",
+                "William Jennings Bryan": "0"
+            },
+            "popular": {
+                "William McKinley": "14482",
+                "William Jennings Bryan": "10164"
+            }
+        }
+    }
+}

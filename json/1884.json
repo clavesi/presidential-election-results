@@ -1,0 +1,398 @@
+{
+    "candidates": {
+        "Grover Cleveland": "Democratic",
+        "James Blaine": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Grover Cleveland": "219",
+                "James Blaine": "182"
+            },
+            "popular": {
+                "Grover Cleveland": "4915586",
+                "James Blaine": "4852916"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Grover Cleveland": "10",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "92736",
+                "James Blaine": "59444"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Grover Cleveland": "7",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "72734",
+                "James Blaine": "51198"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "8"
+            },
+            "popular": {
+                "Grover Cleveland": "89288",
+                "James Blaine": "102369"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "3"
+            },
+            "popular": {
+                "Grover Cleveland": "27723",
+                "James Blaine": "36084"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Grover Cleveland": "6",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "67167",
+                "James Blaine": "65879"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Grover Cleveland": "3",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "16957",
+                "James Blaine": "12953"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Grover Cleveland": "4",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "31769",
+                "James Blaine": "28031"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "94667",
+                "James Blaine": "48603"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "22"
+            },
+            "popular": {
+                "Grover Cleveland": "312351",
+                "James Blaine": "337469"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Grover Cleveland": "15",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "245041",
+                "James Blaine": "238511"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "13"
+            },
+            "popular": {
+                "Grover Cleveland": "177316",
+                "James Blaine": "197089"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "9"
+            },
+            "popular": {
+                "Grover Cleveland": "90111",
+                "James Blaine": "154410"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Grover Cleveland": "13",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "152894",
+                "James Blaine": "118822"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "62594",
+                "James Blaine": "46347"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "6"
+            },
+            "popular": {
+                "Grover Cleveland": "52153",
+                "James Blaine": "72217"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Grover Cleveland": "8",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "96941",
+                "James Blaine": "85748"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "14"
+            },
+            "popular": {
+                "Grover Cleveland": "122352",
+                "James Blaine": "146724"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "13"
+            },
+            "popular": {
+                "Grover Cleveland": "189361",
+                "James Blaine": "192669"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "7"
+            },
+            "popular": {
+                "Grover Cleveland": "70135",
+                "James Blaine": "111819"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Grover Cleveland": "9",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "77653",
+                "James Blaine": "43035"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Grover Cleveland": "16",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "236023",
+                "James Blaine": "203081"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "5"
+            },
+            "popular": {
+                "Grover Cleveland": "54391",
+                "James Blaine": "76912"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "3"
+            },
+            "popular": {
+                "Grover Cleveland": "5577",
+                "James Blaine": "7176"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "4"
+            },
+            "popular": {
+                "Grover Cleveland": "39198",
+                "James Blaine": "43254"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Grover Cleveland": "9",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "127747",
+                "James Blaine": "123436"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Grover Cleveland": "36",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "563048",
+                "James Blaine": "562001"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Grover Cleveland": "11",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "142905",
+                "James Blaine": "125021"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "23"
+            },
+            "popular": {
+                "Grover Cleveland": "368280",
+                "James Blaine": "400092"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "3"
+            },
+            "popular": {
+                "Grover Cleveland": "24598",
+                "James Blaine": "26845"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "30"
+            },
+            "popular": {
+                "Grover Cleveland": "392915",
+                "James Blaine": "474350"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "4"
+            },
+            "popular": {
+                "Grover Cleveland": "12391",
+                "James Blaine": "19030"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Grover Cleveland": "9",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "69845",
+                "James Blaine": "21730"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "133770",
+                "James Blaine": "124101"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Grover Cleveland": "13",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "226375",
+                "James Blaine": "93345"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "4"
+            },
+            "popular": {
+                "Grover Cleveland": "17331",
+                "James Blaine": "39514"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Grover Cleveland": "12",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "145491",
+                "James Blaine": "139356"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Grover Cleveland": "6",
+                "James Blaine": "0"
+            },
+            "popular": {
+                "Grover Cleveland": "67311",
+                "James Blaine": "63096"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Grover Cleveland": "0",
+                "James Blaine": "11"
+            },
+            "popular": {
+                "Grover Cleveland": "146447",
+                "James Blaine": "161155"
+            }
+        }
+    }
+}

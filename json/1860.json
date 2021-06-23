@@ -1,0 +1,483 @@
+{
+    "candidates": {
+        "Abraham Lincoln": "Republican",
+        "John Breckingridge": "Southern Democratic",
+        "John Bell": "Constituional Union",
+        "Stephen Douglas": "Northern Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Abraham Lincoln": "180",
+                "John Breckingridge": "72",
+                "John Bell": "39",
+                "Stephen Douglas": "12"
+            },
+            "popular": {
+                "Abraham Lincoln": "1865908",
+                "John Breckingridge": "848019",
+                "John Bell": "590901",
+                "Stephen Douglas": "1380202"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "9",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "48669",
+                "John Bell": "27835",
+                "Stephen Douglas": "13618"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "4",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "28732",
+                "John Bell": "20063",
+                "Stephen Douglas": "5357"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "38733",
+                "John Breckingridge": "33969",
+                "John Bell": "9111",
+                "Stephen Douglas": "37999"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Abraham Lincoln": "6",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "43488",
+                "John Breckingridge": "14372",
+                "John Bell": "1528",
+                "Stephen Douglas": "15431"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "3",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "3822",
+                "John Breckingridge": "7339",
+                "John Bell": "3888",
+                "Stephen Douglas": "1066"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "3",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "8277",
+                "John Bell": "4801",
+                "Stephen Douglas": "223"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "10",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "52176",
+                "John Bell": "42960",
+                "Stephen Douglas": "11581"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Abraham Lincoln": "11",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "172171",
+                "John Breckingridge": "2331",
+                "John Bell": "4914",
+                "Stephen Douglas": "160215"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Abraham Lincoln": "13",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "139033",
+                "John Breckingridge": "12295",
+                "John Bell": "5306",
+                "Stephen Douglas": "115509"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "70302",
+                "John Breckingridge": "1035",
+                "John Bell": "1763",
+                "Stephen Douglas": "55639"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "0",
+                "John Bell": "12",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "1364",
+                "John Breckingridge": "53143",
+                "John Bell": "66058",
+                "Stephen Douglas": "25651"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "6",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "22681",
+                "John Bell": "20204",
+                "Stephen Douglas": "7625"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Abraham Lincoln": "8",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "62811",
+                "John Breckingridge": "6368",
+                "John Bell": "2046",
+                "Stephen Douglas": "29693"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "8",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "2294",
+                "John Breckingridge": "42482",
+                "John Bell": "41760",
+                "Stephen Douglas": "5966"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Abraham Lincoln": "13",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "106684",
+                "John Breckingridge": "6163",
+                "John Bell": "22331",
+                "Stephen Douglas": "34370"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Abraham Lincoln": "6",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "88481",
+                "John Breckingridge": "805",
+                "John Bell": "415",
+                "Stephen Douglas": "65057"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "22069",
+                "John Breckingridge": "748",
+                "John Bell": "50",
+                "Stephen Douglas": "11920"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "7",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "40768",
+                "John Bell": "25045",
+                "Stephen Douglas": "3282"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "9"
+            },
+            "popular": {
+                "Abraham Lincoln": "17028",
+                "John Breckingridge": "31362",
+                "John Bell": "58372",
+                "Stephen Douglas": "58801"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "37519",
+                "John Breckingridge": "2125",
+                "John Bell": "412",
+                "Stephen Douglas": "25887"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "3"
+            },
+            "popular": {
+                "Abraham Lincoln": "58346",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "62869"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Abraham Lincoln": "35",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "362646",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "312510"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "10",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "48846",
+                "John Bell": "45129",
+                "Stephen Douglas": "2737"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Abraham Lincoln": "23",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "231709",
+                "John Breckingridge": "11406",
+                "John Bell": "12194",
+                "Stephen Douglas": "187421"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Abraham Lincoln": "3",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "5329",
+                "John Breckingridge": "5075",
+                "John Bell": "218",
+                "Stephen Douglas": "4136"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Abraham Lincoln": "27",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "268030",
+                "John Breckingridge": "178871",
+                "John Bell": "12776",
+                "Stephen Douglas": "16765"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "12244",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "7707"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "8",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "0",
+                "John Bell": "12",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "65097",
+                "John Bell": "69728",
+                "Stephen Douglas": "11281"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "4",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "47454",
+                "John Bell": "15383",
+                "Stephen Douglas": "18"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "33808",
+                "John Breckingridge": "218",
+                "John Bell": "1969",
+                "Stephen Douglas": "8649"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "John Breckingridge": "0",
+                "John Bell": "15",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "1887",
+                "John Breckingridge": "74325",
+                "John Bell": "74481",
+                "Stephen Douglas": "16198"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "John Breckingridge": "0",
+                "John Bell": "0",
+                "Stephen Douglas": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "86110",
+                "John Breckingridge": "887",
+                "John Bell": "161",
+                "Stephen Douglas": "65021"
+            }
+        }
+    }
+}

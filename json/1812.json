@@ -1,0 +1,179 @@
+{
+    "candidates": {
+        "James Madison": "Democratic-Republican",
+        "DeWitt Clinton": "Democratic-Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Madison": "128",
+                "DeWitt Clinton": "89"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "9"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Madison": "8",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Madison": "12",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Madison": "3",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Madison": "6",
+                "DeWitt Clinton": "5"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "22"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "8"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "8"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "29"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Madison": "15",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Madison": "7",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Madison": "25",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Madison": "0",
+                "DeWitt Clinton": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Madison": "11",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Madison": "8",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Madison": "8",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Madison": "25",
+                "DeWitt Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

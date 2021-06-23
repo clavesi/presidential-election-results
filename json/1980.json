@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Ronald Reagan": "Republican",
+        "Jimmy Carter": "Democratic",
+        "John Anderson": "Independent"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Ronald Reagan": "489",
+                "Jimmy Carter": "49",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "43642639",
+                "Jimmy Carter": "35480948",
+                "John Anderson": "5251421"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Ronald Reagan": "9",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "654192",
+                "Jimmy Carter": "636730",
+                "John Anderson": "16481"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "86112",
+                "Jimmy Carter": "41842",
+                "John Anderson": "11155"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Ronald Reagan": "6",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "529688",
+                "Jimmy Carter": "246843",
+                "John Anderson": "76952"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Ronald Reagan": "6",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "403164",
+                "Jimmy Carter": "398041",
+                "John Anderson": "22468"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Ronald Reagan": "45",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "4522994",
+                "Jimmy Carter": "3082943",
+                "John Anderson": "739618"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "652264",
+                "Jimmy Carter": "368009",
+                "John Anderson": "130633"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "677210",
+                "Jimmy Carter": "541732",
+                "John Anderson": "171807"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "111252",
+                "Jimmy Carter": "105754",
+                "John Anderson": "16288"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "3",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "23313",
+                "Jimmy Carter": "130231",
+                "John Anderson": "16131"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Ronald Reagan": "17",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2046951",
+                "Jimmy Carter": "1419475",
+                "John Anderson": "189692"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "12",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "654168",
+                "Jimmy Carter": "890955",
+                "John Anderson": "36055"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "4",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "130112",
+                "Jimmy Carter": "135879",
+                "John Anderson": "32021"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "290699",
+                "Jimmy Carter": "110192",
+                "John Anderson": "27058"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Ronald Reagan": "26",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2358049",
+                "Jimmy Carter": "1981413",
+                "John Anderson": "346754"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Ronald Reagan": "13",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1255656",
+                "Jimmy Carter": "844197",
+                "John Anderson": "111639"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "676026",
+                "Jimmy Carter": "508672",
+                "John Anderson": "115633"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "566812",
+                "Jimmy Carter": "326150",
+                "John Anderson": "68231"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Ronald Reagan": "9",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "635274",
+                "Jimmy Carter": "617417",
+                "John Anderson": "31127"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Ronald Reagan": "10",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "792853",
+                "Jimmy Carter": "708453",
+                "John Anderson": "26345"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "238522",
+                "Jimmy Carter": "220974",
+                "John Anderson": "53327"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "10",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "680606",
+                "Jimmy Carter": "726161",
+                "John Anderson": "119537"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Ronald Reagan": "14",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1057631",
+                "Jimmy Carter": "1053802",
+                "John Anderson": "382539"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Ronald Reagan": "21",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1915225",
+                "Jimmy Carter": "1661532",
+                "John Anderson": "275223"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "10",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "873268",
+                "Jimmy Carter": "954173",
+                "John Anderson": "174997"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Ronald Reagan": "7",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "441089",
+                "Jimmy Carter": "429281",
+                "John Anderson": "12036"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Ronald Reagan": "12",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1074181",
+                "Jimmy Carter": "931182",
+                "John Anderson": "77920"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "206814",
+                "Jimmy Carter": "118032",
+                "John Anderson": "29281"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Ronald Reagan": "5",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "419214",
+                "Jimmy Carter": "166424",
+                "John Anderson": "44854"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "155017",
+                "Jimmy Carter": "66666",
+                "John Anderson": "17651"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "221705",
+                "Jimmy Carter": "108864",
+                "John Anderson": "49693"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Ronald Reagan": "17",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1546557",
+                "Jimmy Carter": "1147364",
+                "John Anderson": "234632"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "250779",
+                "Jimmy Carter": "167826",
+                "John Anderson": "29459"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Ronald Reagan": "41",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2637700",
+                "Jimmy Carter": "2728372",
+                "John Anderson": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Ronald Reagan": "13",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "915018",
+                "Jimmy Carter": "875635",
+                "John Anderson": "52800"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "193695",
+                "Jimmy Carter": "79189",
+                "John Anderson": "23640"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Ronald Reagan": "25",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2206545",
+                "Jimmy Carter": "1752414",
+                "John Anderson": "254472"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "695570",
+                "Jimmy Carter": "402026",
+                "John Anderson": "38284"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Ronald Reagan": "6",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "571044",
+                "Jimmy Carter": "456890",
+                "John Anderson": "112389"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Ronald Reagan": "27",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2261872",
+                "Jimmy Carter": "1937540",
+                "John Anderson": "292921"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "4",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "154793",
+                "Jimmy Carter": "198342",
+                "John Anderson": "59819"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Ronald Reagan": "8",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "439277",
+                "Jimmy Carter": "428220",
+                "John Anderson": "13868"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "198343",
+                "Jimmy Carter": "103855",
+                "John Anderson": "21431"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Ronald Reagan": "10",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "787761",
+                "Jimmy Carter": "783051",
+                "John Anderson": "35991"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Ronald Reagan": "26",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "2510705",
+                "Jimmy Carter": "1881147",
+                "John Anderson": "111613"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Ronald Reagan": "4",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "439687",
+                "Jimmy Carter": "124266",
+                "John Anderson": "30284"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "94628",
+                "Jimmy Carter": "81952",
+                "John Anderson": "31761"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Ronald Reagan": "12",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "989609",
+                "Jimmy Carter": "752174",
+                "John Anderson": "95418"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Ronald Reagan": "9",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "865244",
+                "Jimmy Carter": "650193",
+                "John Anderson": "185073"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Ronald Reagan": "0",
+                "Jimmy Carter": "6",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "334206",
+                "Jimmy Carter": "367462",
+                "John Anderson": "31691"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Ronald Reagan": "11",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "1088845",
+                "Jimmy Carter": "981584",
+                "John Anderson": "160657"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Ronald Reagan": "3",
+                "Jimmy Carter": "0",
+                "John Anderson": "0"
+            },
+            "popular": {
+                "Ronald Reagan": "110700",
+                "Jimmy Carter": "49427",
+                "John Anderson": "12072"
+            }
+        }
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Jimmy Carter": "Democratic",
+        "Gerald Ford": "Republican",
+        "Ronald Reagan": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Jimmy Carter": "297",
+                "Gerald Ford": "240",
+                "Ronald Reagan": "1"
+            },
+            "popular": {
+                "Jimmy Carter": "40825839",
+                "Gerald Ford": "39147770",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Jimmy Carter": "9",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "659170",
+                "Gerald Ford": "504070",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "3",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "44058",
+                "Gerald Ford": "71555",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "6",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "295602",
+                "Gerald Ford": "418642",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Jimmy Carter": "6",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "498604",
+                "Gerald Ford": "267903",
+                "Ronald Reagan": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "45",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "3742284",
+                "Gerald Ford": "3882244",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "7",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "460801",
+                "Gerald Ford": "584278",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "8",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "647895",
+                "Gerald Ford": "719261",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Jimmy Carter": "3",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "122461",
+                "Gerald Ford": "109780",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Jimmy Carter": "3",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "137818",
+                "Gerald Ford": "27873",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Jimmy Carter": "17",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1636000",
+                "Gerald Ford": "1469531",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Jimmy Carter": "12",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "979409",
+                "Gerald Ford": "483743",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Jimmy Carter": "4",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "147375",
+                "Gerald Ford": "140003",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "126549",
+                "Gerald Ford": "204151",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "26",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "2271295",
+                "Gerald Ford": "2364269",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "13",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1014714",
+                "Gerald Ford": "1185958",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "8",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "619931",
+                "Gerald Ford": "632863",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "7",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "430421",
+                "Gerald Ford": "502752",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Jimmy Carter": "9",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "615717",
+                "Gerald Ford": "531852",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Jimmy Carter": "10",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "661365",
+                "Gerald Ford": "587446",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "232279",
+                "Gerald Ford": "236320",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Jimmy Carter": "10",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "759612",
+                "Gerald Ford": "672661",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Jimmy Carter": "14",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1429475",
+                "Gerald Ford": "1030276",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "21",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1696714",
+                "Gerald Ford": "1893742",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Jimmy Carter": "10",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1070440",
+                "Gerald Ford": "819395",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Jimmy Carter": "7",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "381329",
+                "Gerald Ford": "366846",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Jimmy Carter": "12",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "998387",
+                "Gerald Ford": "927443",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "149259",
+                "Gerald Ford": "173703",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "5",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "233293",
+                "Gerald Ford": "359219",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "3",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "92479",
+                "Gerald Ford": "101273",
+                "Ronald Reagan": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "147645",
+                "Gerald Ford": "185935",
+                "Ronald Reagan": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "17",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1444653",
+                "Gerald Ford": "1509688",
+                "Ronald Reagan": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "201148",
+                "Gerald Ford": "211419",
+                "Ronald Reagan": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Jimmy Carter": "41",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "3389558",
+                "Gerald Ford": "3100791",
+                "Ronald Reagan": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Jimmy Carter": "13",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "927365",
+                "Gerald Ford": "741960",
+                "Ronald Reagan": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "3",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "136078",
+                "Gerald Ford": "153684",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Jimmy Carter": "25",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "2009959",
+                "Gerald Ford": "2000626",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "8",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "532442",
+                "Gerald Ford": "545708",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "6",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "490407",
+                "Gerald Ford": "492120",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Jimmy Carter": "27",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "2328677",
+                "Gerald Ford": "2205604",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Jimmy Carter": "4",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "227636",
+                "Gerald Ford": "181249",
+                "Ronald Reagan": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Jimmy Carter": "8",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "450807",
+                "Gerald Ford": "346149",
+                "Ronald Reagan": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "147068",
+                "Gerald Ford": "151505",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Jimmy Carter": "10",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "825879",
+                "Gerald Ford": "633969",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Jimmy Carter": "26",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "2082319",
+                "Gerald Ford": "1953300",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "4",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "182110",
+                "Gerald Ford": "337908",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "3",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "77798",
+                "Gerald Ford": "100387",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "12",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "813896",
+                "Gerald Ford": "836554",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "8",
+                "Ronald Reagan": "1"
+            },
+            "popular": {
+                "Jimmy Carter": "717323",
+                "Gerald Ford": "777732",
+                "Ronald Reagan": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Jimmy Carter": "6",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "435864",
+                "Gerald Ford": "314726",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Jimmy Carter": "11",
+                "Gerald Ford": "0",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "1040232",
+                "Gerald Ford": "1004987",
+                "Ronald Reagan": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Jimmy Carter": "0",
+                "Gerald Ford": "3",
+                "Ronald Reagan": "0"
+            },
+            "popular": {
+                "Jimmy Carter": "62239",
+                "Gerald Ford": "92717",
+                "Ronald Reagan": "0"
+            }
+        }
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Woodrow Wilson": "Democratic",
+        "Charles Hughes": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Woodrow Wilson": "277",
+                "Charles Hughes": "254"
+            },
+            "popular": {
+                "Woodrow Wilson": "9126063",
+                "Charles Hughes": "8547030"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "99409",
+                "Charles Hughes": "28809"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "33170",
+                "Charles Hughes": "20522"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Woodrow Wilson": "9",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "112186",
+                "Charles Hughes": "47148"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Woodrow Wilson": "13",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "465936",
+                "Charles Hughes": "462516"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Woodrow Wilson": "6",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "178816",
+                "Charles Hughes": "102308"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "7"
+            },
+            "popular": {
+                "Woodrow Wilson": "99786",
+                "Charles Hughes": "106514"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "3"
+            },
+            "popular": {
+                "Woodrow Wilson": "24753",
+                "Charles Hughes": "26011"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Woodrow Wilson": "6",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "55984",
+                "Charles Hughes": "14611"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Woodrow Wilson": "14",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "125845",
+                "Charles Hughes": "11225"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "70054",
+                "Charles Hughes": "55368"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "29"
+            },
+            "popular": {
+                "Woodrow Wilson": "950229",
+                "Charles Hughes": "1152549"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "15"
+            },
+            "popular": {
+                "Woodrow Wilson": "334063",
+                "Charles Hughes": "341005"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "13"
+            },
+            "popular": {
+                "Woodrow Wilson": "221699",
+                "Charles Hughes": "280439"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "314588",
+                "Charles Hughes": "277658"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Woodrow Wilson": "13",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "269990",
+                "Charles Hughes": "241854"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "79875",
+                "Charles Hughes": "6466"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "6"
+            },
+            "popular": {
+                "Woodrow Wilson": "64033",
+                "Charles Hughes": "69508"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Woodrow Wilson": "8",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "138359",
+                "Charles Hughes": "117347"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "18"
+            },
+            "popular": {
+                "Woodrow Wilson": "247885",
+                "Charles Hughes": "268784"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "15"
+            },
+            "popular": {
+                "Woodrow Wilson": "283993",
+                "Charles Hughes": "337952"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "12"
+            },
+            "popular": {
+                "Woodrow Wilson": "179155",
+                "Charles Hughes": "179544"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "80422",
+                "Charles Hughes": "4253"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Woodrow Wilson": "18",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "398032",
+                "Charles Hughes": "369339"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "101104",
+                "Charles Hughes": "66933"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Woodrow Wilson": "8",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "158827",
+                "Charles Hughes": "117771"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "17776",
+                "Charles Hughes": "12127"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "43781",
+                "Charles Hughes": "43725"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "14"
+            },
+            "popular": {
+                "Woodrow Wilson": "211018",
+                "Charles Hughes": "268982"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "33693",
+                "Charles Hughes": "31097"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "45"
+            },
+            "popular": {
+                "Woodrow Wilson": "759426",
+                "Charles Hughes": "879238"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "168383",
+                "Charles Hughes": "120890"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Woodrow Wilson": "5",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "55206",
+                "Charles Hughes": "53471"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Woodrow Wilson": "24",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "604161",
+                "Charles Hughes": "514753"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Woodrow Wilson": "10",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "148123",
+                "Charles Hughes": "97233"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "5"
+            },
+            "popular": {
+                "Woodrow Wilson": "120087",
+                "Charles Hughes": "126813"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "38"
+            },
+            "popular": {
+                "Woodrow Wilson": "521784",
+                "Charles Hughes": "703823"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "5"
+            },
+            "popular": {
+                "Woodrow Wilson": "40394",
+                "Charles Hughes": "44858"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Woodrow Wilson": "9",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "61845",
+                "Charles Hughes": "1550"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "5"
+            },
+            "popular": {
+                "Woodrow Wilson": "59191",
+                "Charles Hughes": "64217"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "153280",
+                "Charles Hughes": "116223"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Woodrow Wilson": "20",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "286514",
+                "Charles Hughes": "64999"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Woodrow Wilson": "4",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "84145",
+                "Charles Hughes": "54137"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "4"
+            },
+            "popular": {
+                "Woodrow Wilson": "22708",
+                "Charles Hughes": "40250"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Woodrow Wilson": "12",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "102825",
+                "Charles Hughes": "49358"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Woodrow Wilson": "7",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "183388",
+                "Charles Hughes": "167208"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Woodrow Wilson": "1",
+                "Charles Hughes": "7"
+            },
+            "popular": {
+                "Woodrow Wilson": "140403",
+                "Charles Hughes": "143124"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Woodrow Wilson": "0",
+                "Charles Hughes": "13"
+            },
+            "popular": {
+                "Woodrow Wilson": "191363",
+                "Charles Hughes": "220822"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Woodrow Wilson": "3",
+                "Charles Hughes": "0"
+            },
+            "popular": {
+                "Woodrow Wilson": "28376",
+                "Charles Hughes": "21698"
+            }
+        }
+    }
+}

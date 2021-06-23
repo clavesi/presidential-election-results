@@ -1,0 +1,256 @@
+{
+    "candidates": {
+        "Andrew Jackson": "Democratic",
+        "John Quincy Adams": "National Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Andrew Jackson": "178",
+                "John Quincy Adams": "83"
+            },
+            "popular": {
+                "Andrew Jackson": "642553",
+                "John Quincy Adams": "500897"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "16736",
+                "John Quincy Adams": "1878"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "8"
+            },
+            "popular": {
+                "Andrew Jackson": "4448",
+                "John Quincy Adams": "13829"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "3"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Andrew Jackson": "9",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "19362",
+                "John Quincy Adams": "642"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Andrew Jackson": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "9560",
+                "John Quincy Adams": "4662"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "22201",
+                "John Quincy Adams": "17009"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Andrew Jackson": "14",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "39308",
+                "John Quincy Adams": "31468"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "4605",
+                "John Quincy Adams": "4082"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Andrew Jackson": "1",
+                "John Quincy Adams": "8"
+            },
+            "popular": {
+                "Andrew Jackson": "13927",
+                "John Quincy Adams": "20773"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "John Quincy Adams": "6"
+            },
+            "popular": {
+                "Andrew Jackson": "22782",
+                "John Quincy Adams": "23014"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "15"
+            },
+            "popular": {
+                "Andrew Jackson": "6012",
+                "John Quincy Adams": "29836"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Andrew Jackson": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "6763",
+                "John Quincy Adams": "1581"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Andrew Jackson": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "8232",
+                "John Quincy Adams": "3422"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "8"
+            },
+            "popular": {
+                "Andrew Jackson": "20212",
+                "John Quincy Adams": "23823"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "8"
+            },
+            "popular": {
+                "Andrew Jackson": "21809",
+                "John Quincy Adams": "23753"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Andrew Jackson": "20",
+                "John Quincy Adams": "16"
+            },
+            "popular": {
+                "Andrew Jackson": "139412",
+                "John Quincy Adams": "131563"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Andrew Jackson": "15",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "37814",
+                "John Quincy Adams": "13918"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Andrew Jackson": "16",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "67596",
+                "John Quincy Adams": "63453"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Andrew Jackson": "28",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "101457",
+                "John Quincy Adams": "50763"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "4"
+            },
+            "popular": {
+                "Andrew Jackson": "820",
+                "John Quincy Adams": "2755"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Andrew Jackson": "11",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Andrew Jackson": "11",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "44293",
+                "John Quincy Adams": "2240"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "John Quincy Adams": "7"
+            },
+            "popular": {
+                "Andrew Jackson": "8350",
+                "John Quincy Adams": "24363"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Andrew Jackson": "24",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "26854",
+                "John Quincy Adams": "12070"
+            }
+        }
+    }
+}

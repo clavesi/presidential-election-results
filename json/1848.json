@@ -1,0 +1,379 @@
+{
+    "candidates": {
+        "Zachary Taylor": "Whig",
+        "Lewis Cass": "Democratic",
+        "Martin Van Buren": "Free Soil"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Zachary Taylor": "163",
+                "Lewis Cass": "127",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "1361393",
+                "Lewis Cass": "1223460",
+                "Martin Van Buren": "291501"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "9",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "30482",
+                "Lewis Cass": "31173",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "3",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "7587",
+                "Lewis Cass": "9301",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Zachary Taylor": "6",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "30318",
+                "Lewis Cass": "27051",
+                "Martin Van Buren": "5005"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Zachary Taylor": "3",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "6440",
+                "Lewis Cass": "5910",
+                "Martin Van Buren": "82"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Zachary Taylor": "3",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "4120",
+                "Lewis Cass": "3083",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Zachary Taylor": "10",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "47532",
+                "Lewis Cass": "44785",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "9",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "52853",
+                "Lewis Cass": "55952",
+                "Martin Van Buren": "15702"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "12",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "69668",
+                "Lewis Cass": "74695",
+                "Martin Van Buren": "8031"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "4",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "9930",
+                "Lewis Cass": "11238",
+                "Martin Van Buren": "1103"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Zachary Taylor": "12",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "67145",
+                "Lewis Cass": "49720",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Zachary Taylor": "6",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "18487",
+                "Lewis Cass": "15379",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "9",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "35273",
+                "Lewis Cass": "40195",
+                "Martin Van Buren": "12157"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Zachary Taylor": "8",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "37702",
+                "Lewis Cass": "34528",
+                "Martin Van Buren": "129"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Zachary Taylor": "12",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "61072",
+                "Lewis Cass": "35281",
+                "Martin Van Buren": "38333"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "5",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "23947",
+                "Lewis Cass": "30742",
+                "Martin Van Buren": "10393"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "6",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "25911",
+                "Lewis Cass": "26545",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "7",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "32671",
+                "Lewis Cass": "40077",
+                "Martin Van Buren": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "6",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "14781",
+                "Lewis Cass": "27763",
+                "Martin Van Buren": "7560"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Zachary Taylor": "7",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "40015",
+                "Lewis Cass": "36901",
+                "Martin Van Buren": "829"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Zachary Taylor": "36",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "218583",
+                "Lewis Cass": "114319",
+                "Martin Van Buren": "120497"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Zachary Taylor": "11",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "44054",
+                "Lewis Cass": "35772",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "23",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "138656",
+                "Lewis Cass": "154782",
+                "Martin Van Buren": "35523"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Zachary Taylor": "26",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "185730",
+                "Lewis Cass": "172186",
+                "Martin Van Buren": "11176"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Zachary Taylor": "4",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "6705",
+                "Lewis Cass": "3613",
+                "Martin Van Buren": "726"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "9",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Zachary Taylor": "13",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "64321",
+                "Lewis Cass": "58142",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "4",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "5281",
+                "Lewis Cass": "11644",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Zachary Taylor": "6",
+                "Lewis Cass": "0",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "23117",
+                "Lewis Cass": "10943",
+                "Martin Van Buren": "13837"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "17",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "45265",
+                "Lewis Cass": "46739",
+                "Martin Van Buren": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Zachary Taylor": "0",
+                "Lewis Cass": "4",
+                "Martin Van Buren": "0"
+            },
+            "popular": {
+                "Zachary Taylor": "13747",
+                "Lewis Cass": "15001",
+                "Martin Van Buren": "10418"
+            }
+        }
+    }
+}

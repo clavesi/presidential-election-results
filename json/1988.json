@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "George H. W. Bush": "Republican",
+        "Michael Dukakis": "Democratic",
+        "Lloyd Bentsen": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "George H. W. Bush": "426",
+                "Michael Dukakis": "111",
+                "Lloyd Bentsen": "1"
+            },
+            "popular": {
+                "George H. W. Bush": "48642640",
+                "Michael Dukakis": "41716679",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "George H. W. Bush": "9",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "815576",
+                "Michael Dukakis": "549506",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "119251",
+                "Michael Dukakis": "72584",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "George H. W. Bush": "7",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "702541",
+                "Michael Dukakis": "454029",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "George H. W. Bush": "6",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "466578",
+                "Michael Dukakis": "349237",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "George H. W. Bush": "47",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "5054917",
+                "Michael Dukakis": "4702233",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "George H. W. Bush": "8",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "728177",
+                "Michael Dukakis": "621453",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "George H. W. Bush": "8",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "750241",
+                "Michael Dukakis": "676584",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "139639",
+                "Michael Dukakis": "108647",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "3",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "27590",
+                "Michael Dukakis": "159407",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "George H. W. Bush": "21",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "2618885",
+                "Michael Dukakis": "1656701",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "George H. W. Bush": "12",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1081331",
+                "Michael Dukakis": "714792",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "4",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "158625",
+                "Michael Dukakis": "192364",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "George H. W. Bush": "4",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "253881",
+                "Michael Dukakis": "147272",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "George H. W. Bush": "24",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "2310939",
+                "Michael Dukakis": "2215940",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "George H. W. Bush": "12",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1297763",
+                "Michael Dukakis": "860643",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "8",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "545355",
+                "Michael Dukakis": "670557",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "George H. W. Bush": "7",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "554049",
+                "Michael Dukakis": "422636",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "George H. W. Bush": "9",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "734281",
+                "Michael Dukakis": "580368",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "George H. W. Bush": "10",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "883702",
+                "Michael Dukakis": "717460",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "George H. W. Bush": "4",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "307131",
+                "Michael Dukakis": "243569",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "George H. W. Bush": "10",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "876167",
+                "Michael Dukakis": "826304",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "13",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1194635",
+                "Michael Dukakis": "1401415",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "George H. W. Bush": "20",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1965486",
+                "Michael Dukakis": "1675783",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "10",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "962337",
+                "Michael Dukakis": "1109471",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "George H. W. Bush": "7",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "557890",
+                "Michael Dukakis": "363921",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "George H. W. Bush": "11",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1084953",
+                "Michael Dukakis": "1001619",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "George H. W. Bush": "4",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "190412",
+                "Michael Dukakis": "168936",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "George H. W. Bush": "5",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "397956",
+                "Michael Dukakis": "259235",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "George H. W. Bush": "4",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "206040",
+                "Michael Dukakis": "132738",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "George H. W. Bush": "4",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "281537",
+                "Michael Dukakis": "163696",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "George H. W. Bush": "16",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1743192",
+                "Michael Dukakis": "1320352",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "George H. W. Bush": "5",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "270341",
+                "Michael Dukakis": "244497",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "36",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "2838414",
+                "Michael Dukakis": "3255487",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "George H. W. Bush": "13",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1237258",
+                "Michael Dukakis": "890167",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "166559",
+                "Michael Dukakis": "127739",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "George H. W. Bush": "23",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "2416549",
+                "Michael Dukakis": "1939629",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "George H. W. Bush": "8",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "678367",
+                "Michael Dukakis": "483423",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "7",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "560126",
+                "Michael Dukakis": "616206",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "George H. W. Bush": "25",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "2300087",
+                "Michael Dukakis": "2194944",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "4",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "177761",
+                "Michael Dukakis": "225123",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "George H. W. Bush": "8",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "606443",
+                "Michael Dukakis": "370554",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "165415",
+                "Michael Dukakis": "145560",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "George H. W. Bush": "11",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "947233",
+                "Michael Dukakis": "679794",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "George H. W. Bush": "29",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "3036829",
+                "Michael Dukakis": "2352748",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "George H. W. Bush": "5",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "428442",
+                "Michael Dukakis": "207343",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "124331",
+                "Michael Dukakis": "115775",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "George H. W. Bush": "12",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1309162",
+                "Michael Dukakis": "859799",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "10",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "903835",
+                "Michael Dukakis": "933516",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "5",
+                "Lloyd Bentsen": "1"
+            },
+            "popular": {
+                "George H. W. Bush": "310065",
+                "Michael Dukakis": "341016",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "George H. W. Bush": "0",
+                "Michael Dukakis": "11",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "1047499",
+                "Michael Dukakis": "1126794",
+                "Lloyd Bentsen": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "George H. W. Bush": "3",
+                "Michael Dukakis": "0",
+                "Lloyd Bentsen": "0"
+            },
+            "popular": {
+                "George H. W. Bush": "106867",
+                "Michael Dukakis": "67113",
+                "Lloyd Bentsen": "0"
+            }
+        }
+    }
+}

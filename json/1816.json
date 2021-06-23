@@ -1,0 +1,188 @@
+{
+    "candidates": {
+        "James Monroe": "Democratic-Republican",
+        "Rufus King": "Federalist"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Monroe": "183",
+                "Rufus King": "34"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Monroe": "0",
+                "Rufus King": "9"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Monroe": "0",
+                "Rufus King": "3"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "James Monroe": "3",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Monroe": "12",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Monroe": "3",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Monroe": "0",
+                "Rufus King": "22"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Monroe": "29",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Monroe": "15",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Monroe": "25",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Monroe": "4",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Monroe": "11",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Monroe": "8",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Monroe": "25",
+                "Rufus King": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

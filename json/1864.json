@@ -1,0 +1,268 @@
+{
+    "candidates": {
+        "Abraham Lincoln": "Republican",
+        "George McClellan": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Abraham Lincoln": "212",
+                "George McClellan": "21"
+            },
+            "popular": {
+                "Abraham Lincoln": "2220846",
+                "George McClellan": "1809445"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "62053",
+                "George McClellan": "43837"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Abraham Lincoln": "6",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "44673",
+                "George McClellan": "42285"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "George McClellan": "3"
+            },
+            "popular": {
+                "Abraham Lincoln": "8155",
+                "George McClellan": "8767"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Abraham Lincoln": "16",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "189512",
+                "George McClellan": "158724"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Abraham Lincoln": "13",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "149887",
+                "George McClellan": "130230"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Abraham Lincoln": "8",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "88500",
+                "George McClellan": "49525"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Abraham Lincoln": "3",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "17089",
+                "George McClellan": "3836"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "George McClellan": "11"
+            },
+            "popular": {
+                "Abraham Lincoln": "27787",
+                "George McClellan": "64301"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Abraham Lincoln": "7",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "68104",
+                "George McClellan": "46995"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Abraham Lincoln": "7",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "40153",
+                "George McClellan": "32739"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Abraham Lincoln": "12",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "126742",
+                "George McClellan": "48745"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Abraham Lincoln": "8",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "88551",
+                "George McClellan": "71472"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "25031",
+                "George McClellan": "17376"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Abraham Lincoln": "11",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "72750",
+                "George McClellan": "31596"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Abraham Lincoln": "2",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "9826",
+                "George McClellan": "6594"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "36596",
+                "George McClellan": "33034"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Abraham Lincoln": "0",
+                "George McClellan": "7"
+            },
+            "popular": {
+                "Abraham Lincoln": "60724",
+                "George McClellan": "68020"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Abraham Lincoln": "33",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "368735",
+                "George McClellan": "361986"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Abraham Lincoln": "21",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "265674",
+                "George McClellan": "205609"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Abraham Lincoln": "3",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "9888",
+                "George McClellan": "8457"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Abraham Lincoln": "26",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "296391",
+                "George McClellan": "276316"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Abraham Lincoln": "4",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "14349",
+                "George McClellan": "8718"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "42419",
+                "George McClellan": "13321"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Abraham Lincoln": "5",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "23799",
+                "George McClellan": "11078"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Abraham Lincoln": "8",
+                "George McClellan": "0"
+            },
+            "popular": {
+                "Abraham Lincoln": "83458",
+                "George McClellan": "65884"
+            }
+        }
+    }
+}

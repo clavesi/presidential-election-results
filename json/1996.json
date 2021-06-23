@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Bill Clinton": "Democratic",
+        "Bob Dole": "Republican",
+        "Ross Perot": "Reform"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Bill Clinton": "379",
+                "Bob Dole": "159",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "47401898",
+                "Bob Dole": "39198482",
+                "Ross Perot": "8085373"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "9",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "662165",
+                "Bob Dole": "769044",
+                "Ross Perot": "92149"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "80380",
+                "Bob Dole": "122746",
+                "Ross Perot": "26333"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "653288",
+                "Bob Dole": "622073",
+                "Ross Perot": "112072"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Bill Clinton": "6",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "475171",
+                "Bob Dole": "325416",
+                "Ross Perot": "69884"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Bill Clinton": "54",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "5119835",
+                "Bob Dole": "3828381",
+                "Ross Perot": "697847"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "671152",
+                "Bob Dole": "691848",
+                "Ross Perot": "99629"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "735740",
+                "Bob Dole": "483109",
+                "Ross Perot": "139523"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "140355",
+                "Bob Dole": "99062",
+                "Ross Perot": "28719"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "158220",
+                "Bob Dole": "17339",
+                "Ross Perot": "3611"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Bill Clinton": "25",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2546870",
+                "Bob Dole": "2244536",
+                "Ross Perot": "483870"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "13",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1053849",
+                "Bob Dole": "1080843",
+                "Ross Perot": "146337"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "205012",
+                "Bob Dole": "113943",
+                "Ross Perot": "27358"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "4",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "165443",
+                "Bob Dole": "256595",
+                "Ross Perot": "62518"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Bill Clinton": "22",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2341744",
+                "Bob Dole": "1587021",
+                "Ross Perot": "346408"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "12",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "887424",
+                "Bob Dole": "1006693",
+                "Ross Perot": "224299"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Bill Clinton": "7",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "620258",
+                "Bob Dole": "492644",
+                "Ross Perot": "105159"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "6",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "387659",
+                "Bob Dole": "583245",
+                "Ross Perot": "92639"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "636614",
+                "Bob Dole": "623283",
+                "Ross Perot": "120396"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Bill Clinton": "9",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "927837",
+                "Bob Dole": "712586",
+                "Ross Perot": "123293"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "312788",
+                "Bob Dole": "186378",
+                "Ross Perot": "85970"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Bill Clinton": "10",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "966207",
+                "Bob Dole": "681530",
+                "Ross Perot": "115812"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Bill Clinton": "12",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1571509",
+                "Bob Dole": "718058",
+                "Ross Perot": "227206"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Bill Clinton": "18",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1989653",
+                "Bob Dole": "1481212",
+                "Ross Perot": "336670"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Bill Clinton": "10",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1120380",
+                "Bob Dole": "766395",
+                "Ross Perot": "257698"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "7",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "394022",
+                "Bob Dole": "439838",
+                "Ross Perot": "52222"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1025935",
+                "Bob Dole": "890016",
+                "Ross Perot": "217188"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "167922",
+                "Bob Dole": "179652",
+                "Ross Perot": "55229"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "5",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "236761",
+                "Bob Dole": "363467",
+                "Ross Perot": "71278"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "203974",
+                "Bob Dole": "199244",
+                "Ross Perot": "43986"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "246166",
+                "Bob Dole": "196486",
+                "Ross Perot": "48387"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Bill Clinton": "15",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1652361",
+                "Bob Dole": "1103099",
+                "Ross Perot": "262134"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Bill Clinton": "5",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "273495",
+                "Bob Dole": "232751",
+                "Ross Perot": "32257"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Bill Clinton": "33",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "3756177",
+                "Bob Dole": "1933492",
+                "Ross Perot": "503458"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "14",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1107849",
+                "Bob Dole": "1225938",
+                "Ross Perot": "168059"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "106905",
+                "Bob Dole": "125050",
+                "Ross Perot": "32515"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Bill Clinton": "21",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2148222",
+                "Bob Dole": "1859883",
+                "Ross Perot": "483207"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "488105",
+                "Bob Dole": "582315",
+                "Ross Perot": "130788"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Bill Clinton": "7",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "649641",
+                "Bob Dole": "538152",
+                "Ross Perot": "121221"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Bill Clinton": "23",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2215819",
+                "Bob Dole": "1801169",
+                "Ross Perot": "430984"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "233050",
+                "Bob Dole": "104683",
+                "Ross Perot": "43723"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "506152",
+                "Bob Dole": "573339",
+                "Ross Perot": "64377"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "139333",
+                "Bob Dole": "150543",
+                "Ross Perot": "31250"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "909146",
+                "Bob Dole": "863530",
+                "Ross Perot": "105918"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "32",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2459683",
+                "Bob Dole": "2736167",
+                "Ross Perot": "378537"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "5",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "221633",
+                "Bob Dole": "361911",
+                "Ross Perot": "66461"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "137894",
+                "Bob Dole": "80352",
+                "Ross Perot": "31024"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "13",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1091060",
+                "Bob Dole": "1138350",
+                "Ross Perot": "159861"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1123323",
+                "Bob Dole": "840712",
+                "Ross Perot": "201003"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Bill Clinton": "5",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "327812",
+                "Bob Dole": "233946",
+                "Ross Perot": "71639"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "Bob Dole": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1071971",
+                "Bob Dole": "845029",
+                "Ross Perot": "227339"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "Bob Dole": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "77934",
+                "Bob Dole": "105388",
+                "Ross Perot": "25928"
+            }
+        }
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "candidates": {
+        "Andrew Jackson": "Democratic",
+        "Henry Clay": "National Republican",
+        "John Floyd": "Nullifier",
+        "William Wirt": "Anti-Masonic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Andrew Jackson": "219",
+                "Henry Clay": "49",
+                "John Floyd": "11",
+                "William Wirt": "7"
+            },
+            "popular": {
+                "Andrew Jackson": "701780",
+                "Henry Clay": "484205",
+                "John Floyd": "0",
+                "William Wirt": "100715"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Andrew Jackson": "7",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "14286",
+                "Henry Clay": "5",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "8",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "11269",
+                "Henry Clay": "18155",
+                "John Floyd": "0",
+                "William Wirt": "3409"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "3",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "4110",
+                "Henry Clay": "4276",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Andrew Jackson": "11",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "20750",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "14609",
+                "Henry Clay": "6745",
+                "John Floyd": "0",
+                "William Wirt": "97"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Andrew Jackson": "9",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "31652",
+                "Henry Clay": "25473",
+                "John Floyd": "0",
+                "William Wirt": "27"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "15",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "36292",
+                "Henry Clay": "43449",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Andrew Jackson": "5",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "3908",
+                "Henry Clay": "2429",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Andrew Jackson": "10",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "33978",
+                "Henry Clay": "27331",
+                "John Floyd": "0",
+                "William Wirt": "844"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Andrew Jackson": "3",
+                "Henry Clay": "5",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "19156",
+                "Henry Clay": "19160",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "14",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "13933",
+                "Henry Clay": "31963",
+                "John Floyd": "0",
+                "William Wirt": "14692"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Andrew Jackson": "4",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "5750",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Andrew Jackson": "4",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "5192",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Andrew Jackson": "7",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "24855",
+                "Henry Clay": "18938",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Andrew Jackson": "8",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "23826",
+                "Henry Clay": "23466",
+                "John Floyd": "0",
+                "William Wirt": "468"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Andrew Jackson": "42",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "168497",
+                "Henry Clay": "154896",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Andrew Jackson": "15",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "25261",
+                "Henry Clay": "4538",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Andrew Jackson": "21",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "81246",
+                "Henry Clay": "76566",
+                "John Floyd": "0",
+                "William Wirt": "538"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Andrew Jackson": "30",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "90973",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "66706"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "4",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "2051",
+                "Henry Clay": "2871",
+                "John Floyd": "0",
+                "William Wirt": "819"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "0",
+                "John Floyd": "11",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Andrew Jackson": "15",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "28078",
+                "Henry Clay": "1347",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Andrew Jackson": "0",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "7"
+            },
+            "popular": {
+                "Andrew Jackson": "7865",
+                "Henry Clay": "11161",
+                "John Floyd": "0",
+                "William Wirt": "13112"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Andrew Jackson": "23",
+                "Henry Clay": "0",
+                "John Floyd": "0",
+                "William Wirt": "0"
+            },
+            "popular": {
+                "Andrew Jackson": "34243",
+                "Henry Clay": "11436",
+                "John Floyd": "0",
+                "William Wirt": "3"
+            }
+        }
+    }
+}

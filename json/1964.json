@@ -1,0 +1,528 @@
+{
+    "candidates": {
+        "Lyndon B. Johnson": "Democratic",
+        "Barry Goldwater": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Lyndon B. Johnson": "486",
+                "Barry Goldwater": "52"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "43167895",
+                "Barry Goldwater": "27146969"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "10"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "210732",
+                "Barry Goldwater": "479085"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "44329",
+                "Barry Goldwater": "22930"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "5"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "237753",
+                "Barry Goldwater": "242535"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Lyndon B. Johnson": "6",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "314197",
+                "Barry Goldwater": "243264"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Lyndon B. Johnson": "40",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "4171877",
+                "Barry Goldwater": "2879108"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Lyndon B. Johnson": "6",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "476024",
+                "Barry Goldwater": "296767"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Lyndon B. Johnson": "8",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "826269",
+                "Barry Goldwater": "390996"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "122704",
+                "Barry Goldwater": "78078"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Lyndon B. Johnson": "14",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "948540",
+                "Barry Goldwater": "905941"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "12"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "522557",
+                "Barry Goldwater": "616600"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "163249",
+                "Barry Goldwater": "44022"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "148920",
+                "Barry Goldwater": "143557"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Lyndon B. Johnson": "26",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "2796833",
+                "Barry Goldwater": "1905946"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Lyndon B. Johnson": "13",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1170848",
+                "Barry Goldwater": "911118"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Lyndon B. Johnson": "9",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "733030",
+                "Barry Goldwater": "449148"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Lyndon B. Johnson": "7",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "464028",
+                "Barry Goldwater": "386579"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Lyndon B. Johnson": "9",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "669659",
+                "Barry Goldwater": "372977"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "10"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "387068",
+                "Barry Goldwater": "509225"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "262264",
+                "Barry Goldwater": "118701"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Lyndon B. Johnson": "10",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "730912",
+                "Barry Goldwater": "385495"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Lyndon B. Johnson": "14",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1786422",
+                "Barry Goldwater": "549727"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Lyndon B. Johnson": "21",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "2136615",
+                "Barry Goldwater": "1060152"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Lyndon B. Johnson": "10",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "991117",
+                "Barry Goldwater": "559624"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "7"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "52618",
+                "Barry Goldwater": "356528"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Lyndon B. Johnson": "12",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1164344",
+                "Barry Goldwater": "653535"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "164246",
+                "Barry Goldwater": "113032"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Lyndon B. Johnson": "5",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "307307",
+                "Barry Goldwater": "276847"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "79339",
+                "Barry Goldwater": "56094"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "182065",
+                "Barry Goldwater": "104029"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Lyndon B. Johnson": "17",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1867671",
+                "Barry Goldwater": "963843"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "194017",
+                "Barry Goldwater": "131838"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Lyndon B. Johnson": "43",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "4913156",
+                "Barry Goldwater": "2243559"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Lyndon B. Johnson": "13",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "800139",
+                "Barry Goldwater": "624844"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "149784",
+                "Barry Goldwater": "108207"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Lyndon B. Johnson": "26",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "2498331",
+                "Barry Goldwater": "1470865"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Lyndon B. Johnson": "8",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "519834",
+                "Barry Goldwater": "412665"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Lyndon B. Johnson": "6",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "501017",
+                "Barry Goldwater": "282779"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Lyndon B. Johnson": "29",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "3130954",
+                "Barry Goldwater": "1673657"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "315463",
+                "Barry Goldwater": "74615"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Lyndon B. Johnson": "0",
+                "Barry Goldwater": "8"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "215700",
+                "Barry Goldwater": "309048"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "163010",
+                "Barry Goldwater": "130108"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Lyndon B. Johnson": "11",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "635047",
+                "Barry Goldwater": "508965"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Lyndon B. Johnson": "25",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1663185",
+                "Barry Goldwater": "958566"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Lyndon B. Johnson": "4",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "219628",
+                "Barry Goldwater": "180682"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "108127",
+                "Barry Goldwater": "54942"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Lyndon B. Johnson": "12",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "558038",
+                "Barry Goldwater": "481334"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Lyndon B. Johnson": "9",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "779699",
+                "Barry Goldwater": "470366"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Lyndon B. Johnson": "7",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "538087",
+                "Barry Goldwater": "253953"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Lyndon B. Johnson": "12",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "1050424",
+                "Barry Goldwater": "638495"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Lyndon B. Johnson": "3",
+                "Barry Goldwater": "0"
+            },
+            "popular": {
+                "Lyndon B. Johnson": "80718",
+                "Barry Goldwater": "61998"
+            }
+        }
+    }
+}

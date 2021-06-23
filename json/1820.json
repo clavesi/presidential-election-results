@@ -1,0 +1,233 @@
+{
+    "candidates": {
+        "James Monroe": "Democratic-Republican",
+        "John Quincy Adams": "Democratic-Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Monroe": "231",
+                "John Quincy Adams": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "James Monroe": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Monroe": "9",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Monroe": "4",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Monroe": "8",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "James Monroe": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "James Monroe": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Monroe": "12",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Monroe": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "James Monroe": "9",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Monroe": "11",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Monroe": "15",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "James Monroe": "2",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "James Monroe": "3",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Monroe": "7",
+                "John Quincy Adams": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Monroe": "8",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Monroe": "29",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Monroe": "15",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Monroe": "8",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Monroe": "24",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Monroe": "4",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Monroe": "11",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Monroe": "7",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Monroe": "8",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Monroe": "25",
+                "John Quincy Adams": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

@@ -1,0 +1,621 @@
+{
+    "candidates": {
+        "John F. Kennedy": "Democratic",
+        "Richard Nixon": "Republican",
+        "Harry Byrd": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "John F. Kennedy": "303",
+                "Richard Nixon": "219",
+                "Harry Byrd": "15"
+            },
+            "popular": {
+                "John F. Kennedy": "34227096",
+                "Richard Nixon": "34107646",
+                "Harry Byrd": "116248"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "John F. Kennedy": "5",
+                "Richard Nixon": "0",
+                "Harry Byrd": "6"
+            },
+            "popular": {
+                "John F. Kennedy": "324050",
+                "Richard Nixon": "237981",
+                "Harry Byrd": "0"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "3",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "29809",
+                "Richard Nixon": "30953",
+                "Harry Byrd": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "176781",
+                "Richard Nixon": "221241",
+                "Harry Byrd": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "John F. Kennedy": "8",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "215049",
+                "Richard Nixon": "184508",
+                "Harry Byrd": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "32",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "3224099",
+                "Richard Nixon": "3259722",
+                "Harry Byrd": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "6",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "330629",
+                "Richard Nixon": "402242",
+                "Harry Byrd": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "John F. Kennedy": "8",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "657055",
+                "Richard Nixon": "565813",
+                "Harry Byrd": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "John F. Kennedy": "3",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "99590",
+                "Richard Nixon": "96373",
+                "Harry Byrd": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "10",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "748700",
+                "Richard Nixon": "795476",
+                "Harry Byrd": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "John F. Kennedy": "12",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "458638",
+                "Richard Nixon": "274472",
+                "Harry Byrd": "0"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "John F. Kennedy": "3",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "92410",
+                "Richard Nixon": "92295",
+                "Harry Byrd": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "138853",
+                "Richard Nixon": "161597",
+                "Harry Byrd": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "John F. Kennedy": "27",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "2377846",
+                "Richard Nixon": "2368988",
+                "Harry Byrd": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "13",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "952358",
+                "Richard Nixon": "1175120",
+                "Harry Byrd": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "10",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "550565",
+                "Richard Nixon": "722381",
+                "Harry Byrd": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "8",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "363213",
+                "Richard Nixon": "561474",
+                "Harry Byrd": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "10",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "521855",
+                "Richard Nixon": "602607",
+                "Harry Byrd": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "John F. Kennedy": "10",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "407339",
+                "Richard Nixon": "230980",
+                "Harry Byrd": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "5",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "181159",
+                "Richard Nixon": "240608",
+                "Harry Byrd": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "John F. Kennedy": "9",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "565808",
+                "Richard Nixon": "489538",
+                "Harry Byrd": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "John F. Kennedy": "16",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "1487174",
+                "Richard Nixon": "976750",
+                "Harry Byrd": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "John F. Kennedy": "20",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "1687269",
+                "Richard Nixon": "1620428",
+                "Harry Byrd": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "John F. Kennedy": "11",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "779933",
+                "Richard Nixon": "757915",
+                "Harry Byrd": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "0",
+                "Harry Byrd": "8"
+            },
+            "popular": {
+                "John F. Kennedy": "108362",
+                "Richard Nixon": "73561",
+                "Harry Byrd": "116248"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "John F. Kennedy": "13",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "972201",
+                "Richard Nixon": "962221",
+                "Harry Byrd": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "134891",
+                "Richard Nixon": "141841",
+                "Harry Byrd": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "6",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "232542",
+                "Richard Nixon": "380553",
+                "Harry Byrd": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "John F. Kennedy": "3",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "54880",
+                "Richard Nixon": "52387",
+                "Harry Byrd": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "137772",
+                "Richard Nixon": "157989",
+                "Harry Byrd": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "John F. Kennedy": "16",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "1385415",
+                "Richard Nixon": "1363324",
+                "Harry Byrd": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "John F. Kennedy": "4",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "156027",
+                "Richard Nixon": "153733",
+                "Harry Byrd": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "John F. Kennedy": "45",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "3830085",
+                "Richard Nixon": "3446419",
+                "Harry Byrd": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "John F. Kennedy": "14",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "713136",
+                "Richard Nixon": "655420",
+                "Harry Byrd": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "123963",
+                "Richard Nixon": "154310",
+                "Harry Byrd": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "25",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "1944248",
+                "Richard Nixon": "2217611",
+                "Harry Byrd": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "7",
+                "Harry Byrd": "1"
+            },
+            "popular": {
+                "John F. Kennedy": "370111",
+                "Richard Nixon": "533039",
+                "Harry Byrd": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "6",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "367402",
+                "Richard Nixon": "408060",
+                "Harry Byrd": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "John F. Kennedy": "32",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "2556282",
+                "Richard Nixon": "2439956",
+                "Harry Byrd": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "John F. Kennedy": "4",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "258032",
+                "Richard Nixon": "147502",
+                "Harry Byrd": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "John F. Kennedy": "8",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "198129",
+                "Richard Nixon": "188558",
+                "Harry Byrd": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "128070",
+                "Richard Nixon": "178417",
+                "Harry Byrd": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "11",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "481453",
+                "Richard Nixon": "556577",
+                "Harry Byrd": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "John F. Kennedy": "24",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "1167932",
+                "Richard Nixon": "1121699",
+                "Harry Byrd": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "4",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "169248",
+                "Richard Nixon": "205361",
+                "Harry Byrd": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "3",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "69186",
+                "Richard Nixon": "98131",
+                "Harry Byrd": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "12",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "362327",
+                "Richard Nixon": "404521",
+                "Harry Byrd": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "9",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "599298",
+                "Richard Nixon": "629273",
+                "Harry Byrd": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "John F. Kennedy": "8",
+                "Richard Nixon": "0",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "441786",
+                "Richard Nixon": "395995",
+                "Harry Byrd": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "12",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "830805",
+                "Richard Nixon": "895175",
+                "Harry Byrd": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "John F. Kennedy": "0",
+                "Richard Nixon": "3",
+                "Harry Byrd": "0"
+            },
+            "popular": {
+                "John F. Kennedy": "63331",
+                "Richard Nixon": "76551",
+                "Harry Byrd": "0"
+            }
+        }
+    }
+}

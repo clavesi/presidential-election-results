@@ -1,0 +1,203 @@
+{
+    "candidates": {
+        "George Washington": "Independent",
+        "John Adams": "Federalist",
+        "George Clinton": "Democratic-Republican",
+        "Thomas Jefferson": "Democratic-Republican",
+        "Aaron Burr": "Democratic-Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "George Washington": "132",
+                "John Adams": "77",
+                "George Clinton": "50",
+                "Thomas Jefferson": "4",
+                "Aaron Burr": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "George Washington": "9",
+                "John Adams": "9",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "George Washington": "3",
+                "John Adams": "3",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "George Washington": "4",
+                "John Adams": "0",
+                "George Clinton": "4",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "George Washington": "4",
+                "John Adams": "0",
+                "George Clinton": "0",
+                "Thomas Jefferson": "4",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "George Washington": "8",
+                "John Adams": "8",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "George Washington": "16",
+                "John Adams": "16",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "George Washington": "6",
+                "John Adams": "6",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "George Washington": "7",
+                "John Adams": "7",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "George Washington": "12",
+                "John Adams": "0",
+                "George Clinton": "12",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "George Washington": "12",
+                "John Adams": "0",
+                "George Clinton": "12",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "George Washington": "15",
+                "John Adams": "14",
+                "George Clinton": "1",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "George Washington": "4",
+                "John Adams": "4",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "George Washington": "8",
+                "John Adams": "7",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "1"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "George Washington": "3",
+                "John Adams": "3",
+                "George Clinton": "0",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "George Washington": "21",
+                "John Adams": "0",
+                "George Clinton": "21",
+                "Thomas Jefferson": "0",
+                "Aaron Burr": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

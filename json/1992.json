@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "Bill Clinton": "Democratic",
+        "George H. W. Bush": "Republican",
+        "Ross Perot": "Independent"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Bill Clinton": "370",
+                "George H. W. Bush": "168",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "44857747",
+                "George H. W. Bush": "38798913",
+                "Ross Perot": "19722042"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "9",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "690080",
+                "George H. W. Bush": "804283",
+                "Ross Perot": "183109"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "78294",
+                "George H. W. Bush": "102000",
+                "Ross Perot": "73481"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "543050",
+                "George H. W. Bush": "572086",
+                "Ross Perot": "353741"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Bill Clinton": "6",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "505823",
+                "George H. W. Bush": "337324",
+                "Ross Perot": "99132"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Bill Clinton": "54",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "5121325",
+                "George H. W. Bush": "3630574",
+                "Ross Perot": "2296006"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "629681",
+                "George H. W. Bush": "562850",
+                "Ross Perot": "366010"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "682318",
+                "George H. W. Bush": "578313",
+                "Ross Perot": "348771"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "126054",
+                "George H. W. Bush": "102313",
+                "Ross Perot": "59213"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "192619",
+                "George H. W. Bush": "20698",
+                "Ross Perot": "9681"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "25",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2072698",
+                "George H. W. Bush": "2173310",
+                "Ross Perot": "1053067"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Bill Clinton": "13",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1008966",
+                "George H. W. Bush": "995252",
+                "Ross Perot": "309657"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "179310",
+                "George H. W. Bush": "136822",
+                "Ross Perot": "53003"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "4",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "137013",
+                "George H. W. Bush": "202645",
+                "Ross Perot": "130395"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Bill Clinton": "22",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2453350",
+                "George H. W. Bush": "1734096",
+                "Ross Perot": "840515"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "12",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "848420",
+                "George H. W. Bush": "989375",
+                "Ross Perot": "455934"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Bill Clinton": "7",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "586353",
+                "George H. W. Bush": "504891",
+                "Ross Perot": "253468"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "6",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "390434",
+                "George H. W. Bush": "449951",
+                "Ross Perot": "312358"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Bill Clinton": "8",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "665104",
+                "George H. W. Bush": "617178",
+                "Ross Perot": "203944"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Bill Clinton": "9",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "815971",
+                "George H. W. Bush": "733386",
+                "Ross Perot": "211478"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "263420",
+                "George H. W. Bush": "206504",
+                "Ross Perot": "206820"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Bill Clinton": "10",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "988571",
+                "George H. W. Bush": "707094",
+                "Ross Perot": "281414"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Bill Clinton": "12",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1318639",
+                "George H. W. Bush": "805039",
+                "Ross Perot": "630731"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Bill Clinton": "18",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1871182",
+                "George H. W. Bush": "1554940",
+                "Ross Perot": "824813"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Bill Clinton": "10",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1020997",
+                "George H. W. Bush": "747841",
+                "Ross Perot": "562506"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "7",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "400258",
+                "George H. W. Bush": "487793",
+                "Ross Perot": "85626"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1053873",
+                "George H. W. Bush": "811159",
+                "Ross Perot": "518741"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "154507",
+                "George H. W. Bush": "144207",
+                "Ross Perot": "107225"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "5",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "216864",
+                "George H. W. Bush": "343678",
+                "Ross Perot": "174104"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "189148",
+                "George H. W. Bush": "175828",
+                "Ross Perot": "132580"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "209040",
+                "George H. W. Bush": "202484",
+                "Ross Perot": "121337"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Bill Clinton": "15",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1436206",
+                "George H. W. Bush": "1356865",
+                "Ross Perot": "521829"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Bill Clinton": "5",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "261617",
+                "George H. W. Bush": "212824",
+                "Ross Perot": "91895"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Bill Clinton": "33",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "3346894",
+                "George H. W. Bush": "2041690",
+                "Ross Perot": "1090721"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "14",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1114042",
+                "George H. W. Bush": "1134661",
+                "Ross Perot": "357864"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "99168",
+                "George H. W. Bush": "136244",
+                "Ross Perot": "71084"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Bill Clinton": "21",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1984942",
+                "George H. W. Bush": "1894310",
+                "Ross Perot": "1036426"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "473066",
+                "George H. W. Bush": "592929",
+                "Ross Perot": "319878"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Bill Clinton": "7",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "621314",
+                "George H. W. Bush": "475757",
+                "Ross Perot": "354091"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Bill Clinton": "23",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2239164",
+                "George H. W. Bush": "1791841",
+                "Ross Perot": "902667"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Bill Clinton": "4",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "213299",
+                "George H. W. Bush": "131601",
+                "Ross Perot": "105045"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "8",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "525514",
+                "George H. W. Bush": "577507",
+                "Ross Perot": "119257"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "124888",
+                "George H. W. Bush": "136718",
+                "Ross Perot": "73295"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "933521",
+                "George H. W. Bush": "841300",
+                "Ross Perot": "199968"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "32",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "2281815",
+                "George H. W. Bush": "2496071",
+                "Ross Perot": "1354781"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "5",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "183429",
+                "George H. W. Bush": "322632",
+                "Ross Perot": "203400"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Bill Clinton": "3",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "133592",
+                "George H. W. Bush": "88122",
+                "Ross Perot": "65991"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "13",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1038650",
+                "George H. W. Bush": "1150517",
+                "Ross Perot": "348639"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "993037",
+                "George H. W. Bush": "731234",
+                "Ross Perot": "541780"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Bill Clinton": "5",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "331001",
+                "George H. W. Bush": "241974",
+                "Ross Perot": "108829"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Bill Clinton": "11",
+                "George H. W. Bush": "0",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "1041066",
+                "George H. W. Bush": "930855",
+                "Ross Perot": "544479"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Bill Clinton": "0",
+                "George H. W. Bush": "3",
+                "Ross Perot": "0"
+            },
+            "popular": {
+                "Bill Clinton": "68160",
+                "George H. W. Bush": "79347",
+                "Ross Perot": "51263"
+            }
+        }
+    }
+}

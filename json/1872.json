@@ -1,0 +1,386 @@
+{
+    "candidates": {
+        "Ulysses S. Grant": "Republican",
+        "Horace Greeley": "Liberal Republican and Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Ulysses S. Grant": "286",
+                "Horace Greeley": "66"
+            },
+            "popular": {
+                "Ulysses S. Grant": "3598468",
+                "Horace Greeley": "2835315"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Ulysses S. Grant": "10",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "90272",
+                "Horace Greeley": "79444"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "status": "Election irregularities"
+            },
+            "popular": {
+                "Ulysses S. Grant": "41373",
+                "Horace Greeley": "37927"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Ulysses S. Grant": "6",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "54007",
+                "Horace Greeley": "40717"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Ulysses S. Grant": "6",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "50307",
+                "Horace Greeley": "45685"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "11129",
+                "Horace Greeley": "10205"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Ulysses S. Grant": "4",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "17763",
+                "Horace Greeley": "15427"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "11"
+            },
+            "popular": {
+                "Ulysses S. Grant": "62550",
+                "Horace Greeley": "76356"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Ulysses S. Grant": "21",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "241936",
+                "Horace Greeley": "184884"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Ulysses S. Grant": "15",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "186147",
+                "Horace Greeley": "163632"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Ulysses S. Grant": "11",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "131566",
+                "Horace Greeley": "71189"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "66805",
+                "Horace Greeley": "32970"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "12"
+            },
+            "popular": {
+                "Ulysses S. Grant": "88970",
+                "Horace Greeley": "100208"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "status": "Election irregularities"
+            },
+            "popular": {
+                "Ulysses S. Grant": "71663",
+                "Horace Greeley": "57029"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Ulysses S. Grant": "7",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "61426",
+                "Horace Greeley": "29097"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "8"
+            },
+            "popular": {
+                "Ulysses S. Grant": "66760",
+                "Horace Greeley": "67687"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Ulysses S. Grant": "13",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "133455",
+                "Horace Greeley": "59195"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Ulysses S. Grant": "11",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "138768",
+                "Horace Greeley": "78651"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "56040",
+                "Horace Greeley": "35131"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Ulysses S. Grant": "8",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "82175",
+                "Horace Greeley": "47282"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "15"
+            },
+            "popular": {
+                "Ulysses S. Grant": "119196",
+                "Horace Greeley": "151434"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "18329",
+                "Horace Greeley": "7603"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "8413",
+                "Horace Greeley": "6236"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "37168",
+                "Horace Greeley": "31425"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Ulysses S. Grant": "9",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "91666",
+                "Horace Greeley": "76801"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Ulysses S. Grant": "35",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "440758",
+                "Horace Greeley": "387279"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Ulysses S. Grant": "10",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "94772",
+                "Horace Greeley": "70130"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Ulysses S. Grant": "22",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "281852",
+                "Horace Greeley": "244320"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Ulysses S. Grant": "3",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "11818",
+                "Horace Greeley": "7742"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Ulysses S. Grant": "29",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "349589",
+                "Horace Greeley": "212040"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Ulysses S. Grant": "4",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "13665",
+                "Horace Greeley": "5329"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Ulysses S. Grant": "7",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "72290",
+                "Horace Greeley": "22699"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "12"
+            },
+            "popular": {
+                "Ulysses S. Grant": "85655",
+                "Horace Greeley": "93391"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Ulysses S. Grant": "0",
+                "Horace Greeley": "8"
+            },
+            "popular": {
+                "Ulysses S. Grant": "47910",
+                "Horace Greeley": "67675"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "41480",
+                "Horace Greeley": "10926"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Ulysses S. Grant": "11",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "93463",
+                "Horace Greeley": "91647"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Ulysses S. Grant": "5",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "32320",
+                "Horace Greeley": "29532"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Ulysses S. Grant": "10",
+                "Horace Greeley": "0"
+            },
+            "popular": {
+                "Ulysses S. Grant": "105012",
+                "Horace Greeley": "86390"
+            }
+        }
+    }
+}

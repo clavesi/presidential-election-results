@@ -1,0 +1,398 @@
+{
+    "candidates": {
+        "James Garfield": "Republican",
+        "Winfield Hancock": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Garfield": "214",
+                "Winfield Hancock": "155"
+            },
+            "popular": {
+                "James Garfield": "4453611",
+                "Winfield Hancock": "4445256"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "10"
+            },
+            "popular": {
+                "James Garfield": "56350",
+                "Winfield Hancock": "91130"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "6"
+            },
+            "popular": {
+                "James Garfield": "42436",
+                "Winfield Hancock": "60775"
+            }
+        },
+        "California": {
+            "electoral": {
+                "James Garfield": "1",
+                "Winfield Hancock": "5"
+            },
+            "popular": {
+                "James Garfield": "80282",
+                "Winfield Hancock": "80426"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "James Garfield": "3",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "27450",
+                "Winfield Hancock": "24647"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Garfield": "6",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "67071",
+                "Winfield Hancock": "64411"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "3"
+            },
+            "popular": {
+                "James Garfield": "14148",
+                "Winfield Hancock": "15181"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "4"
+            },
+            "popular": {
+                "James Garfield": "23654",
+                "Winfield Hancock": "27964"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "11"
+            },
+            "popular": {
+                "James Garfield": "54470",
+                "Winfield Hancock": "102981"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "James Garfield": "21",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "318036",
+                "Winfield Hancock": "277321"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "James Garfield": "15",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "232169",
+                "Winfield Hancock": "225523"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "James Garfield": "11",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "183904",
+                "Winfield Hancock": "105845"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "James Garfield": "5",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "121520",
+                "Winfield Hancock": "59789"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "12"
+            },
+            "popular": {
+                "James Garfield": "106059",
+                "Winfield Hancock": "149068"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "8"
+            },
+            "popular": {
+                "James Garfield": "38978",
+                "Winfield Hancock": "65047"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "James Garfield": "7",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "74052",
+                "Winfield Hancock": "65211"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "8"
+            },
+            "popular": {
+                "James Garfield": "78515",
+                "Winfield Hancock": "93706"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Garfield": "13",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "165198",
+                "Winfield Hancock": "111960"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "James Garfield": "11",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "185335",
+                "Winfield Hancock": "131596"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "James Garfield": "5",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "93939",
+                "Winfield Hancock": "53314"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "8"
+            },
+            "popular": {
+                "James Garfield": "34844",
+                "Winfield Hancock": "75750"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "15"
+            },
+            "popular": {
+                "James Garfield": "153647",
+                "Winfield Hancock": "208600"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "James Garfield": "3",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "54979",
+                "Winfield Hancock": "28523"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "3"
+            },
+            "popular": {
+                "James Garfield": "8732",
+                "Winfield Hancock": "9611"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Garfield": "5",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "44856",
+                "Winfield Hancock": "40797"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "9"
+            },
+            "popular": {
+                "James Garfield": "120555",
+                "Winfield Hancock": "122565"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Garfield": "35",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "555544",
+                "Winfield Hancock": "534511"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "10"
+            },
+            "popular": {
+                "James Garfield": "115616",
+                "Winfield Hancock": "124204"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Garfield": "22",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "375048",
+                "Winfield Hancock": "340867"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "James Garfield": "3",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "20619",
+                "Winfield Hancock": "19955"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Garfield": "29",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "444704",
+                "Winfield Hancock": "407428"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Garfield": "4",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "18195",
+                "Winfield Hancock": "10779"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "7"
+            },
+            "popular": {
+                "James Garfield": "57954",
+                "Winfield Hancock": "111236"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "12"
+            },
+            "popular": {
+                "James Garfield": "107677",
+                "Winfield Hancock": "129569"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "8"
+            },
+            "popular": {
+                "James Garfield": "57225",
+                "Winfield Hancock": "155963"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Garfield": "5",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "45567",
+                "Winfield Hancock": "18316"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "11"
+            },
+            "popular": {
+                "James Garfield": "83634",
+                "Winfield Hancock": "128647"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "James Garfield": "0",
+                "Winfield Hancock": "5"
+            },
+            "popular": {
+                "James Garfield": "46243",
+                "Winfield Hancock": "57390"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "James Garfield": "10",
+                "Winfield Hancock": "0"
+            },
+            "popular": {
+                "James Garfield": "144406",
+                "Winfield Hancock": "114650"
+            }
+        }
+    }
+}

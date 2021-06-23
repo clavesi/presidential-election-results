@@ -1,0 +1,548 @@
+{
+    "candidates": {
+        "Donald Trump": "Republican",
+        "Hillary Clinton": "Democratic",
+        "Bernie Sanders": "Faithless",
+        "John Kasich": "Faithless",
+        "Colin Powell": "Faithless",
+        "Faith Spotted Eagle": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Donald Trump": "304",
+                "Hillary Clinton": "227",
+                "Bernie Sanders": "1",
+                "John Kasich": "1",
+                "Colin Powell": "1",
+                "Faith Spotted Eagle": "1"
+            },
+            "popular": {
+                "Donald Trump": "62692411",
+                "Hillary Clinton": "65677168"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Donald Trump": "9",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1318255",
+                "Hillary Clinton": "729547"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "Donald Trump": "3",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "163387",
+                "Hillary Clinton": "116454"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Donald Trump": "11",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1252401",
+                "Hillary Clinton": "1161167"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Donald Trump": "6",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "684872",
+                "Hillary Clinton": "380494"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "55"
+            },
+            "popular": {
+                "Donald Trump": "4483810",
+                "Hillary Clinton": "8753788"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "9"
+            },
+            "popular": {
+                "Donald Trump": "1202484",
+                "Hillary Clinton": "1338870"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "7"
+            },
+            "popular": {
+                "Donald Trump": "673215",
+                "Hillary Clinton": "897572"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "3"
+            },
+            "popular": {
+                "Donald Trump": "185127",
+                "Hillary Clinton": "235603"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "3"
+            },
+            "popular": {
+                "Donald Trump": "12723",
+                "Hillary Clinton": "282830"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Donald Trump": "29",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "4617886",
+                "Hillary Clinton": "4504975"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Donald Trump": "16",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "2089104",
+                "Hillary Clinton": "1877963"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "3",
+                "Bernie Sanders": "1",
+                "John Kasich": "0",
+                "Colin Powell": "0",
+                "Faith Spotted Eagle": "0"
+            },
+            "popular": {
+                "Donald Trump": "128847",
+                "Hillary Clinton": "266891"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Donald Trump": "4",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "409055",
+                "Hillary Clinton": "189765"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "20"
+            },
+            "popular": {
+                "Donald Trump": "2146015",
+                "Hillary Clinton": "3090729"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Donald Trump": "11",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1557286",
+                "Hillary Clinton": "1033126"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Donald Trump": "6",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "800983",
+                "Hillary Clinton": "653669"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Donald Trump": "6",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "671018",
+                "Hillary Clinton": "427005"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Donald Trump": "8",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1202971",
+                "Hillary Clinton": "628854"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Donald Trump": "8",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1178638",
+                "Hillary Clinton": "780154"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Donald Trump": "1",
+                "Hillary Clinton": "3"
+            },
+            "popular": {
+                "Donald Trump": "335593",
+                "Hillary Clinton": "357735"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "10"
+            },
+            "popular": {
+                "Donald Trump": "943169",
+                "Hillary Clinton": "1677928"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "11"
+            },
+            "popular": {
+                "Donald Trump": "1090893",
+                "Hillary Clinton": "1995196"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Donald Trump": "16",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "2279543",
+                "Hillary Clinton": "2268839"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "10"
+            },
+            "popular": {
+                "Donald Trump": "1322949",
+                "Hillary Clinton": "1367705"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Donald Trump": "6",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "700714",
+                "Hillary Clinton": "485131"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Donald Trump": "10",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1594511",
+                "Hillary Clinton": "1071068"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Donald Trump": "3",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "279240",
+                "Hillary Clinton": "177709"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Donald Trump": "5",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "495961",
+                "Hillary Clinton": "284494"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "6"
+            },
+            "popular": {
+                "Donald Trump": "512058",
+                "Hillary Clinton": "539260"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "4"
+            },
+            "popular": {
+                "Donald Trump": "345790",
+                "Hillary Clinton": "348526"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "14"
+            },
+            "popular": {
+                "Donald Trump": "1601933",
+                "Hillary Clinton": "2148278"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "5"
+            },
+            "popular": {
+                "Donald Trump": "319667",
+                "Hillary Clinton": "385234"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "29"
+            },
+            "popular": {
+                "Donald Trump": "2527142",
+                "Hillary Clinton": "4379789"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Donald Trump": "15",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "2362631",
+                "Hillary Clinton": "2189316"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Donald Trump": "3",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "216794",
+                "Hillary Clinton": "93758"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Donald Trump": "18",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "2841005",
+                "Hillary Clinton": "2394164"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Donald Trump": "7",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "949136",
+                "Hillary Clinton": "420375"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "7"
+            },
+            "popular": {
+                "Donald Trump": "782403",
+                "Hillary Clinton": "1002106"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Donald Trump": "20",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "2970733",
+                "Hillary Clinton": "2926441"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "4"
+            },
+            "popular": {
+                "Donald Trump": "180543",
+                "Hillary Clinton": "252525"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Donald Trump": "9",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1155389",
+                "Hillary Clinton": "855373"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Donald Trump": "3",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "227721",
+                "Hillary Clinton": "117458"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Donald Trump": "11",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1522925",
+                "Hillary Clinton": "870695"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Donald Trump": "36",
+                "Hillary Clinton": "0",
+                "Bernie Sanders": "0",
+                "John Kasich": "1",
+                "Colin Powell": "1",
+                "Faith Spotted Eagle": "0"
+            },
+            "popular": {
+                "Donald Trump": "4685047",
+                "Hillary Clinton": "3877868"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Donald Trump": "6",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "515211",
+                "Hillary Clinton": "310674"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "3"
+            },
+            "popular": {
+                "Donald Trump": "95369",
+                "Hillary Clinton": "178573"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "13"
+            },
+            "popular": {
+                "Donald Trump": "1769443",
+                "Hillary Clinton": "1981473"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Donald Trump": "0",
+                "Hillary Clinton": "8",
+                "Bernie Sanders": "0",
+                "John Kasich": "0",
+                "Colin Powell": "0",
+                "Faith Spotted Eagle": "1"
+            },
+            "popular": {
+                "Donald Trump": "1221747",
+                "Hillary Clinton": "1742718"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Donald Trump": "5",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "489371",
+                "Hillary Clinton": "188794"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Donald Trump": "10",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "1405284",
+                "Hillary Clinton": "1382536"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Donald Trump": "3",
+                "Hillary Clinton": "0"
+            },
+            "popular": {
+                "Donald Trump": "174419",
+                "Hillary Clinton": "55973"
+            }
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "candidates": {
+        "James Madison": "Democratic-Republican",
+        "Charles Pinckney": "Federalist",
+        "George Clinton": "Democratic-Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Madison": "122",
+                "Charles Pinckney": "47",
+                "George Clinton": "6"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Madison": "0",
+                "Charles Pinckney": "9",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Madison": "0",
+                "Charles Pinckney": "3",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Madison": "6",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Madison": "7",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Madison": "9",
+                "Charles Pinckney": "2",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Madison": "0",
+                "Charles Pinckney": "19",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Madison": "0",
+                "Charles Pinckney": "7",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Madison": "8",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Madison": "13",
+                "Charles Pinckney": "0",
+                "George Clinton": "6"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Madison": "11",
+                "Charles Pinckney": "3",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Madison": "3",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Madison": "20",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Madison": "0",
+                "Charles Pinckney": "4",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Madison": "10",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Madison": "5",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Madison": "6",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Madison": "24",
+                "Charles Pinckney": "0",
+                "George Clinton": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

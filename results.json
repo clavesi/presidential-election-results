@@ -1,6 +1,6 @@
 {
     "1789": {
-        "canidates": {
+        "candidates": {
             "George Washington": "Independent",
             "John Adams": "Federalist",
             "John Jay": "Federalist",
@@ -140,7 +140,7 @@
         }
     },
     "1792": {
-        "canidates": {
+        "candidates": {
             "George Washington": "Independent",
             "John Adams": "Federalist",
             "George Clinton": "Democratic-Republican",
@@ -343,7 +343,7 @@
         }
     },
     "1796": {
-        "canidates": {
+        "candidates": {
             "John Adams": "Federalist",
             "Thomas Jefferson": "Democratic-Republican",
             "Thomas Pinckney": "Federalist",
@@ -558,7 +558,7 @@
         }
     },
     "1800": {
-        "canidates": {
+        "candidates": {
             "Thomas Jefferson": "Democratic-Republican",
             "Aaron Burr": "Democratic-Republican",
             "John Adams": "Federalist",
@@ -773,7 +773,7 @@
         }
     },
     "1804": {
-        "canidates": {
+        "candidates": {
             "Thomas Jefferson": "Democratic-Republican",
             "Charles Pinckney": "Federalist"
         },
@@ -943,7 +943,7 @@
         }
     },
     "1808": {
-        "canidates": {
+        "candidates": {
             "James Madison": "Democratic-Republican",
             "Charles Pinckney": "Federalist",
             "George Clinton": "Democratic-Republican"
@@ -1132,7 +1132,7 @@
         }
     },
     "1812": {
-        "canidates": {
+        "candidates": {
             "James Madison": "Democratic-Republican",
             "DeWitt Clinton": "Democratic-Republican"
         },
@@ -1311,7 +1311,7 @@
         }
     },
     "1816": {
-        "canidates": {
+        "candidates": {
             "James Monroe": "Democratic-Republican",
             "Rufus King": "Federalist"
         },
@@ -1499,7 +1499,7 @@
         }
     },
     "1820": {
-        "canidates": {
+        "candidates": {
             "James Monroe": "Democratic-Republican",
             "John Quincy Adams": "Democratic-Republican"
         },
@@ -1732,7 +1732,7 @@
         }
     },
     "1824": {
-        "canidates": {
+        "candidates": {
             "John Quincy Adams": "Democratic-Republican",
             "Andrew Jackson": "Democratic-Republican",
             "William H. Crawford": "Democratic-Republican",
@@ -2074,7 +2074,7 @@
         }
     },
     "1828": {
-        "canidates": {
+        "candidates": {
             "Andrew Jackson": "Democratic",
             "John Quincy Adams": "National Republican"
         },
@@ -2330,7 +2330,7 @@
         }
     },
     "1832": {
-        "canidates": {
+        "candidates": {
             "Andrew Jackson": "Democratic",
             "Henry Clay": "National Republican",
             "John Floyd": "Nullifier",
@@ -2687,7 +2687,7 @@
         }
     },
     "1836": {
-        "canidates": {
+        "candidates": {
             "Martin Van Buren": "Democratic",
             "William Henry Harrison": "Whig",
             "Hugh White": "Whig",
@@ -3126,7 +3126,7 @@
         }
     },
     "1840": {
-        "canidates": {
+        "candidates": {
             "William Henry Harrison": "Whig",
             "Martin Van Buren": "Democratic"
         },
@@ -3403,7 +3403,7 @@
         }
     },
     "1844": {
-        "canidates": {
+        "candidates": {
             "James Polk": "Democratic",
             "Henry Clay": "Whig"
         },
@@ -3680,7 +3680,7 @@
         }
     },
     "1848": {
-        "canidates": {
+        "candidates": {
             "Zachary Taylor": "Whig",
             "Lewis Cass": "Democratic",
             "Martin Van Buren": "Free Soil"
@@ -4059,7 +4059,7 @@
         }
     },
     "1852": {
-        "canidates": {
+        "candidates": {
             "Franklin Pierce": "Democratic",
             "Winfield Scott": "Whig"
         },
@@ -4386,7 +4386,7 @@
         }
     },
     "1856": {
-        "canidates": {
+        "candidates": {
             "James Buchanan": "Democratic",
             "John Frémont": "Republican",
             "Millard Fillmore": "Know Nothing"
@@ -4777,7 +4777,7 @@
         }
     },
     "1860": {
-        "canidates": {
+        "candidates": {
             "Abraham Lincoln": "Republican",
             "John Breckingridge": "Southern Democratic",
             "John Bell": "Constituional Union",
@@ -5260,7 +5260,7 @@
         }
     },
     "1864": {
-        "canidates": {
+        "candidates": {
             "Abraham Lincoln": "Republican",
             "George McClellan": "Democratic"
         },
@@ -5528,7 +5528,7 @@
         }
     },
     "1868": {
-        "canidates": {
+        "candidates": {
             "Ulysses S. Grant": "Republican",
             "Horatio Seymour": "Democratic"
         },
@@ -5885,7 +5885,7 @@
         }
     },
     "1872": {
-        "canidates": {
+        "candidates": {
             "Ulysses S. Grant": "Republican",
             "Horace Greeley": "Liberal Republican and Democratic"
         },
@@ -6271,7 +6271,7 @@
         }
     },
     "1876": {
-        "canidates": {
+        "candidates": {
             "Rutherford B. Hayes": "Repubican",
             "Samuel Tilden": "Democratic"
         },
@@ -6668,7 +6668,7 @@
         }
     },
     "1880": {
-        "canidates": {
+        "candidates": {
             "James Garfield": "Republican",
             "Winfield Hancock": "Democratic"
         },
@@ -7066,7 +7066,7 @@
         }
     },
     "1884": {
-        "canidates": {
+        "candidates": {
             "Grover Cleveland": "Democratic",
             "James Blaine": "Republican"
         },
@@ -7464,7 +7464,7 @@
         }
     },
     "1888": {
-        "canidates": {
+        "candidates": {
             "Benjamin Harrison": "Republican",
             "Grover Cleveland": "Democratic"
         },
@@ -7862,7 +7862,7 @@
         }
     },
     "1892": {
-        "canidates": {
+        "candidates": {
             "Grover Cleveland": "Democratic",
             "Benjamin Harrison": "Republican",
             "James Weaver": "Populist"
@@ -8411,7 +8411,7 @@
         }
     },
     "1896": {
-        "canidates": {
+        "candidates": {
             "William McKinley": "Republican",
             "William Jennings Bryan": "Democratic-Populist"
         },
@@ -8879,7 +8879,7 @@
         }
     },
     "1900": {
-        "canidates": {
+        "candidates": {
             "William McKinley": "Republican",
             "William Jennings Bryan": "Democratic"
         },
@@ -9347,7 +9347,7 @@
         }
     },
     "1904": {
-        "canidates": {
+        "candidates": {
             "Theodore Roosevelt": "Republican",
             "Alton Parker": "Democratic"
         },
@@ -9815,7 +9815,7 @@
         }
     },
     "1908": {
-        "canidates": {
+        "candidates": {
             "William Taft": "Republican",
             "William Jennings Bryan": "Democratic"
         },
@@ -10293,7 +10293,7 @@
         }
     },
     "1912": {
-        "canidates": {
+        "candidates": {
             "Woodrow Wilson": "Democratic",
             "Theodore Roosevelt": "Progressive",
             "William Taft": "Republican",
@@ -10989,7 +10989,7 @@
         }
     },
     "1916": {
-        "canidates": {
+        "candidates": {
             "Woodrow Wilson": "Democratic",
             "Charles Hughes": "Republican"
         },
@@ -11487,7 +11487,7 @@
         }
     },
     "1920": {
-        "canidates": {
+        "candidates": {
             "Warren Harding": "Republican",
             "James Cox": "Democratic"
         },
@@ -11985,7 +11985,7 @@
         }
     },
     "1924": {
-        "canidates": {
+        "candidates": {
             "Calvin Coolidge": "Republican",
             "John Davis": "Democratic",
             "Robert LaFollette": "Progressive"
@@ -12582,7 +12582,7 @@
         }
     },
     "1928": {
-        "canidates": {
+        "candidates": {
             "Herbert Hoover": "Republican",
             "Al Smith": "Democratic"
         },
@@ -13080,7 +13080,7 @@
         }
     },
     "1932": {
-        "canidates": {
+        "candidates": {
             "Franklin D. Roosevelt": "Democratic",
             "Herbert Hoover": "Republican"
         },
@@ -13578,7 +13578,7 @@
         }
     },
     "1936": {
-        "canidates": {
+        "candidates": {
             "Franklin D. Roosevelt": "Democratic",
             "Alfred Landon": "Republican"
         },
@@ -14076,7 +14076,7 @@
         }
     },
     "1940": {
-        "canidates": {
+        "candidates": {
             "Franklin D. Roosevelt": "Democratic",
             "Wendell Willkie": "Republican"
         },
@@ -14574,7 +14574,7 @@
         }
     },
     "1944": {
-        "canidates": {
+        "candidates": {
             "Franklin D. Roosevelt": "Democratic",
             "Thomas Dewey": "Republican"
         },
@@ -15072,7 +15072,7 @@
         }
     },
     "1948": {
-        "canidates": {
+        "candidates": {
             "Harry Truman": "Democratic",
             "Thomas Dewey": "Republican",
             "Strom Thurmond": "States' Rights Democratic"
@@ -15669,7 +15669,7 @@
         }
     },
     "1952": {
-        "canidates": {
+        "candidates": {
             "Dwight D. Eisenhower": "Republican",
             "Adlai Stevenson": "Democratic"
         },
@@ -16167,7 +16167,7 @@
         }
     },
     "1956": {
-        "canidates": {
+        "candidates": {
             "Dwight D. Eisenhower": "Republican",
             "Adlai Stevenson": "Democratic",
             "Walter Jones": "Faithless"
@@ -16764,7 +16764,7 @@
         }
     },
     "1960": {
-        "canidates": {
+        "candidates": {
             "John F. Kennedy": "Democratic",
             "Richard Nixon": "Republican",
             "Harry Byrd": "Faithless"
@@ -17385,7 +17385,7 @@
         }
     },
     "1964": {
-        "canidates": {
+        "candidates": {
             "Lyndon B. Johnson": "Democratic",
             "Barry Goldwater": "Republican"
         },
@@ -17913,7 +17913,7 @@
         }
     },
     "1968": {
-        "canidates": {
+        "candidates": {
             "Richard Nixon": "Republican",
             "Hubert Humphrey": "Democratic",
             "George Wallace": "American Independent"
@@ -18546,7 +18546,7 @@
         }
     },
     "1972": {
-        "canidates": {
+        "candidates": {
             "Richard Nixon": "Republican",
             "George McGovern": "Democratic",
             "John Hospers": "Libertarian / Faithless"
@@ -19179,7 +19179,7 @@
         }
     },
     "1976": {
-        "canidates": {
+        "candidates": {
             "Jimmy Carter": "Democratic",
             "Gerald Ford": "Republican",
             "Ronald Reagan": "Faithless"
@@ -19812,7 +19812,7 @@
         }
     },
     "1980": {
-        "canidates": {
+        "candidates": {
             "Ronald Reagan": "Republican",
             "Jimmy Carter": "Democratic",
             "John Anderson": "Independent"
@@ -20445,7 +20445,7 @@
         }
     },
     "1984": {
-        "canidates": {
+        "candidates": {
             "Ronald Reagan": "Republican",
             "Walter Mondale": "Democratic"
         },
@@ -20973,7 +20973,7 @@
         }
     },
     "1988": {
-        "canidates": {
+        "candidates": {
             "George H. W. Bush": "Republican",
             "Michael Dukakis": "Democratic",
             "Lloyd Bentsen": "Faithless"
@@ -21606,7 +21606,7 @@
         }
     },
     "1992": {
-        "canidates": {
+        "candidates": {
             "Bill Clinton": "Democratic",
             "George H. W. Bush": "Republican",
             "Ross Perot": "Independent"
@@ -22239,7 +22239,7 @@
         }
     },
     "1996": {
-        "canidates": {
+        "candidates": {
             "Bill Clinton": "Democratic",
             "Bob Dole": "Republican",
             "Ross Perot": "Reform"
@@ -22872,7 +22872,7 @@
         }
     },
     "2000": {
-        "canidates": {
+        "candidates": {
             "George W. Bush": "Republican",
             "Al Gore": "Democratic"
         },
@@ -23400,7 +23400,7 @@
         }
     },
     "2004": {
-        "canidates": {
+        "candidates": {
             "George W. Bush": "Republican",
             "John Kerry": "Democratic",
             "John Edwards": "Faithless"
@@ -24033,7 +24033,7 @@
         }
     },
     "2008": {
-        "canidates": {
+        "candidates": {
             "Barack Obama": "Democratic",
             "John McCain": "Republican"
         },
@@ -24561,7 +24561,7 @@
         }
     },
     "2012": {
-        "canidates": {
+        "candidates": {
             "Barack Obama": "Democratic",
             "Mitt Romney": "Republican"
         },
@@ -25089,7 +25089,7 @@
         }
     },
     "2016": {
-        "canidates": {
+        "candidates": {
             "Donald Trump": "Republican",
             "Hillary Clinton": "Democratic",
             "Bernie Sanders": "Faithless",
@@ -25637,7 +25637,7 @@
         }
     },
     "2020": {
-        "canidates": {
+        "candidates": {
             "Joe Biden": "Democratic",
             "Donald Trump": "Republican"
         },

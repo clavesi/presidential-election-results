@@ -1,0 +1,397 @@
+{
+    "candidates": {
+        "Rutherford B. Hayes": "Repubican",
+        "Samuel Tilden": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Rutherford B. Hayes": "185",
+                "Samuel Tilden": "184"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "4033497",
+                "Samuel Tilden": "4288191"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "10"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "68708",
+                "Samuel Tilden": "102989"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "6"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "38649",
+                "Samuel Tilden": "58086"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Rutherford B. Hayes": "6",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "79258",
+                "Samuel Tilden": "76460"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Rutherford B. Hayes": "3",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "status": "Not enough time to organize election"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "6"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "59033",
+                "Samuel Tilden": "61927"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "3"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "10752",
+                "Samuel Tilden": "13381"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Rutherford B. Hayes": "4",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "23849",
+                "Samuel Tilden": "22927"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "11"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "50533",
+                "Samuel Tilden": "130157"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Rutherford B. Hayes": "21",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "278232",
+                "Samuel Tilden": "258611"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "15"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "206971",
+                "Samuel Tilden": "213516"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Rutherford B. Hayes": "11",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "171326",
+                "Samuel Tilden": "112121"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Rutherford B. Hayes": "5",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "78324",
+                "Samuel Tilden": "37902"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "12"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "97156",
+                "Samuel Tilden": "159696"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Rutherford B. Hayes": "8",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "75315",
+                "Samuel Tilden": "70508"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Rutherford B. Hayes": "7",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "66300",
+                "Samuel Tilden": "49917"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "8"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "71980",
+                "Samuel Tilden": "91779"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Rutherford B. Hayes": "13",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "150063",
+                "Samuel Tilden": "108777"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Rutherford B. Hayes": "11",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "166901",
+                "Samuel Tilden": "141665"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Rutherford B. Hayes": "5",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "72982",
+                "Samuel Tilden": "48816"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "8"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "52603",
+                "Samuel Tilden": "112173"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "15"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "145027",
+                "Samuel Tilden": "202086"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Rutherford B. Hayes": "3",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "31915",
+                "Samuel Tilden": "17343"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Rutherford B. Hayes": "3",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "10383",
+                "Samuel Tilden": "9308"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Rutherford B. Hayes": "5",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "41540",
+                "Samuel Tilden": "38510"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "9"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "103517",
+                "Samuel Tilden": "115962"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "35"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "489207",
+                "Samuel Tilden": "521949"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "10"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "108484",
+                "Samuel Tilden": "125427"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Rutherford B. Hayes": "22",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "330698",
+                "Samuel Tilden": "323182"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Rutherford B. Hayes": "3",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "15207",
+                "Samuel Tilden": "14157"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Rutherford B. Hayes": "29",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "384157",
+                "Samuel Tilden": "366204"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Rutherford B. Hayes": "4",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "15787",
+                "Samuel Tilden": "10712"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Rutherford B. Hayes": "7",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "91786",
+                "Samuel Tilden": "90897"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "12"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "89566",
+                "Samuel Tilden": "133177"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "8"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "45013",
+                "Samuel Tilden": "106372"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Rutherford B. Hayes": "5",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "44092",
+                "Samuel Tilden": "20254"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "11"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "95518",
+                "Samuel Tilden": "140770"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Rutherford B. Hayes": "0",
+                "Samuel Tilden": "5"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "41997",
+                "Samuel Tilden": "56546"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Rutherford B. Hayes": "10",
+                "Samuel Tilden": "0"
+            },
+            "popular": {
+                "Rutherford B. Hayes": "130668",
+                "Samuel Tilden": "123927"
+            }
+        }
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Franklin D. Roosevelt": "Democratic",
+        "Herbert Hoover": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Franklin D. Roosevelt": "472",
+                "Herbert Hoover": "59"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "22821857",
+                "Herbert Hoover": "15761841"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "207910",
+                "Herbert Hoover": "34675"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "79264",
+                "Herbert Hoover": "36104"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "189602",
+                "Herbert Hoover": "28467"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Franklin D. Roosevelt": "22",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1324157",
+                "Herbert Hoover": "847902"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Franklin D. Roosevelt": "6",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "250877",
+                "Herbert Hoover": "189617"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "8"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "281632",
+                "Herbert Hoover": "288420"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "54319",
+                "Herbert Hoover": "57073"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Franklin D. Roosevelt": "7",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "206307",
+                "Herbert Hoover": "69170"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "234118",
+                "Herbert Hoover": "19863"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "109479",
+                "Herbert Hoover": "71312"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Franklin D. Roosevelt": "29",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1882304",
+                "Herbert Hoover": "1432756"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "14",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "862054",
+                "Herbert Hoover": "677184"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "598019",
+                "Herbert Hoover": "414433"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "424204",
+                "Herbert Hoover": "349498"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "580574",
+                "Herbert Hoover": "394716"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "10",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "249418",
+                "Herbert Hoover": "18853"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "5"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "128907",
+                "Herbert Hoover": "166631"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "314314",
+                "Herbert Hoover": "184184"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Franklin D. Roosevelt": "17",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "800148",
+                "Herbert Hoover": "736959"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Franklin D. Roosevelt": "19",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "871700",
+                "Herbert Hoover": "739894"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "600806",
+                "Herbert Hoover": "363959"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "140168",
+                "Herbert Hoover": "5180"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Franklin D. Roosevelt": "15",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1025406",
+                "Herbert Hoover": "564713"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "127286",
+                "Herbert Hoover": "78078"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Franklin D. Roosevelt": "7",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "359082",
+                "Herbert Hoover": "201177"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "28756",
+                "Herbert Hoover": "12674"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "4"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "100680",
+                "Herbert Hoover": "103629"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Franklin D. Roosevelt": "16",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "806630",
+                "Herbert Hoover": "775684"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "95089",
+                "Herbert Hoover": "54217"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Franklin D. Roosevelt": "47",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2534959",
+                "Herbert Hoover": "1937963"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "13",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "497566",
+                "Herbert Hoover": "208344"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "178350",
+                "Herbert Hoover": "71772"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Franklin D. Roosevelt": "26",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1301695",
+                "Herbert Hoover": "1227679"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "516468",
+                "Herbert Hoover": "188165"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Franklin D. Roosevelt": "5",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "213871",
+                "Herbert Hoover": "136019"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "36"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1295948",
+                "Herbert Hoover": "1453540"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "146604",
+                "Herbert Hoover": "115266"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "102347",
+                "Herbert Hoover": "1978"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "183515",
+                "Herbert Hoover": "99212"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "259817",
+                "Herbert Hoover": "126806"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "23",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "760348",
+                "Herbert Hoover": "97959"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "116750",
+                "Herbert Hoover": "84795"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Herbert Hoover": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "56266",
+                "Herbert Hoover": "78984"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "203979",
+                "Herbert Hoover": "89637"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "353260",
+                "Herbert Hoover": "208645"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "405124",
+                "Herbert Hoover": "330731"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "707410",
+                "Herbert Hoover": "347741"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Herbert Hoover": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "54370",
+                "Herbert Hoover": "39583"
+            }
+        }
+    }
+}

@@ -1,0 +1,468 @@
+{
+    "candidates": {
+        "Theodore Roosevelt": "Republican",
+        "Alton Parker": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Theodore Roosevelt": "336",
+                "Alton Parker": "140"
+            },
+            "popular": {
+                "Theodore Roosevelt": "7625599",
+                "Alton Parker": "5083501"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "11"
+            },
+            "popular": {
+                "Theodore Roosevelt": "22472",
+                "Alton Parker": "79797"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "9"
+            },
+            "popular": {
+                "Theodore Roosevelt": "46760",
+                "Alton Parker": "64434"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Theodore Roosevelt": "10",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "205226",
+                "Alton Parker": "89294"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Theodore Roosevelt": "5",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "134661",
+                "Alton Parker": "100105"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Theodore Roosevelt": "7",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "111089",
+                "Alton Parker": "72909"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "23705",
+                "Alton Parker": "19347"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "5"
+            },
+            "popular": {
+                "Theodore Roosevelt": "8314",
+                "Alton Parker": "27046"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "13"
+            },
+            "popular": {
+                "Theodore Roosevelt": "24004",
+                "Alton Parker": "83466"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "47783",
+                "Alton Parker": "18480"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Theodore Roosevelt": "27",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "632645",
+                "Alton Parker": "327606"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Theodore Roosevelt": "15",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "368289",
+                "Alton Parker": "274356"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Theodore Roosevelt": "13",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "307907",
+                "Alton Parker": "149141"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Theodore Roosevelt": "10",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "213455",
+                "Alton Parker": "86164"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "13"
+            },
+            "popular": {
+                "Theodore Roosevelt": "205457",
+                "Alton Parker": "217170"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "9"
+            },
+            "popular": {
+                "Theodore Roosevelt": "5205",
+                "Alton Parker": "47708"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Theodore Roosevelt": "6",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "64438",
+                "Alton Parker": "27648"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Theodore Roosevelt": "1",
+                "Alton Parker": "7"
+            },
+            "popular": {
+                "Theodore Roosevelt": "109497",
+                "Alton Parker": "109446"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Theodore Roosevelt": "16",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "257813",
+                "Alton Parker": "165746"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Theodore Roosevelt": "14",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "361863",
+                "Alton Parker": "134163"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Theodore Roosevelt": "11",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "216651",
+                "Alton Parker": "55187"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "10"
+            },
+            "popular": {
+                "Theodore Roosevelt": "3280",
+                "Alton Parker": "53480"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Theodore Roosevelt": "18",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "321449",
+                "Alton Parker": "296312"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "33994",
+                "Alton Parker": "21816"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Theodore Roosevelt": "8",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "138558",
+                "Alton Parker": "52921"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "6864",
+                "Alton Parker": "3982"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "54157",
+                "Alton Parker": "34071"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Theodore Roosevelt": "12",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "245164",
+                "Alton Parker": "164566"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Theodore Roosevelt": "39",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "859533",
+                "Alton Parker": "683981"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "12"
+            },
+            "popular": {
+                "Theodore Roosevelt": "82442",
+                "Alton Parker": "124091"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "52595",
+                "Alton Parker": "14273"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Theodore Roosevelt": "23",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "600095",
+                "Alton Parker": "344674"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "60309",
+                "Alton Parker": "17327"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Theodore Roosevelt": "34",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "840949",
+                "Alton Parker": "337998"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "41605",
+                "Alton Parker": "24839"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "9"
+            },
+            "popular": {
+                "Theodore Roosevelt": "2570",
+                "Alton Parker": "53320"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "72083",
+                "Alton Parker": "21969"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "12"
+            },
+            "popular": {
+                "Theodore Roosevelt": "105363",
+                "Alton Parker": "131653"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "18"
+            },
+            "popular": {
+                "Theodore Roosevelt": "51307",
+                "Alton Parker": "167088"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "62446",
+                "Alton Parker": "33413"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Theodore Roosevelt": "4",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "40459",
+                "Alton Parker": "9777"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Theodore Roosevelt": "0",
+                "Alton Parker": "12"
+            },
+            "popular": {
+                "Theodore Roosevelt": "48180",
+                "Alton Parker": "80649"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Theodore Roosevelt": "5",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "101540",
+                "Alton Parker": "28098"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Theodore Roosevelt": "7",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "132620",
+                "Alton Parker": "100855"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Theodore Roosevelt": "13",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "280314",
+                "Alton Parker": "124205"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Theodore Roosevelt": "3",
+                "Alton Parker": "0"
+            },
+            "popular": {
+                "Theodore Roosevelt": "20489",
+                "Alton Parker": "8930"
+            }
+        }
+    }
+}

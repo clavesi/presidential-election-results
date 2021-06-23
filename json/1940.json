@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Franklin D. Roosevelt": "Democratic",
+        "Wendell Willkie": "Republican"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Franklin D. Roosevelt": "449",
+                "Wendell Willkie": "82"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "27243466",
+                "Wendell Willkie": "22304755"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "250726",
+                "Wendell Willkie": "42184"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "95267",
+                "Wendell Willkie": "54030"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "158622",
+                "Wendell Willkie": "42121"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Franklin D. Roosevelt": "22",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1877618",
+                "Wendell Willkie": "1351419"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "6"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "265554",
+                "Wendell Willkie": "279576"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "417621",
+                "Wendell Willkie": "361819"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "74599",
+                "Wendell Willkie": "61440"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Franklin D. Roosevelt": "7",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "359334",
+                "Wendell Willkie": "126158"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "265194",
+                "Wendell Willkie": "23934"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "127842",
+                "Wendell Willkie": "106553"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Franklin D. Roosevelt": "29",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2149934",
+                "Wendell Willkie": "2047240"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "14"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "874063",
+                "Wendell Willkie": "899466"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "11"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "578800",
+                "Wendell Willkie": "632370"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "9"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "364725",
+                "Wendell Willkie": "489169"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "557222",
+                "Wendell Willkie": "410384"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "10",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "319751",
+                "Wendell Willkie": "52446"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "5"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "156478",
+                "Wendell Willkie": "163951"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "384546",
+                "Wendell Willkie": "269534"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Franklin D. Roosevelt": "17",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1076522",
+                "Wendell Willkie": "939700"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "19"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1032991",
+                "Wendell Willkie": "1039917"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "644196",
+                "Wendell Willkie": "596274"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Franklin D. Roosevelt": "9",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "168267",
+                "Wendell Willkie": "2814"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Franklin D. Roosevelt": "15",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "958476",
+                "Wendell Willkie": "871009"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "145698",
+                "Wendell Willkie": "99579"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "7"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "263677",
+                "Wendell Willkie": "352201"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "31945",
+                "Wendell Willkie": "21229"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "125292",
+                "Wendell Willkie": "110127"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Franklin D. Roosevelt": "16",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1016808",
+                "Wendell Willkie": "945475"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "103699",
+                "Wendell Willkie": "79315"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Franklin D. Roosevelt": "47",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "3251918",
+                "Wendell Willkie": "3027478"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "13",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "609015",
+                "Wendell Willkie": "213633"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "4"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "124036",
+                "Wendell Willkie": "154590"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Franklin D. Roosevelt": "26",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "1733139",
+                "Wendell Willkie": "1586773"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "474313",
+                "Wendell Willkie": "348872"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Franklin D. Roosevelt": "5",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "258415",
+                "Wendell Willkie": "219555"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Franklin D. Roosevelt": "36",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "2171035",
+                "Wendell Willkie": "1889848"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "181122",
+                "Wendell Willkie": "138214"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "95470",
+                "Wendell Willkie": "1727"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "4"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "131362",
+                "Wendell Willkie": "177065"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "351601",
+                "Wendell Willkie": "169153"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Franklin D. Roosevelt": "23",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "840151",
+                "Wendell Willkie": "199152"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Franklin D. Roosevelt": "4",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "154277",
+                "Wendell Willkie": "93151"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Franklin D. Roosevelt": "0",
+                "Wendell Willkie": "3"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "64269",
+                "Wendell Willkie": "78371"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "11",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "235961",
+                "Wendell Willkie": "109363"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "462145",
+                "Wendell Willkie": "322123"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Franklin D. Roosevelt": "8",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "495662",
+                "Wendell Willkie": "372414"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Franklin D. Roosevelt": "12",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "704821",
+                "Wendell Willkie": "679206"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Franklin D. Roosevelt": "3",
+                "Wendell Willkie": "0"
+            },
+            "popular": {
+                "Franklin D. Roosevelt": "59287",
+                "Wendell Willkie": "52633"
+            }
+        }
+    }
+}

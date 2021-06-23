@@ -1,0 +1,498 @@
+{
+    "candidates": {
+        "Warren Harding": "Republican",
+        "James Cox": "Democratic"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Warren Harding": "404",
+                "James Cox": "127"
+            },
+            "popular": {
+                "Warren Harding": "16151916",
+                "James Cox": "9134074"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "12"
+            },
+            "popular": {
+                "Warren Harding": "74719",
+                "James Cox": "156064"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Warren Harding": "3",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "37016",
+                "James Cox": "29546"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "9"
+            },
+            "popular": {
+                "Warren Harding": "71117",
+                "James Cox": "107409"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Warren Harding": "13",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "624992",
+                "James Cox": "229191"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Warren Harding": "6",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "173248",
+                "James Cox": "104936"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Warren Harding": "7",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "229238",
+                "James Cox": "120721"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Warren Harding": "3",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "52858",
+                "James Cox": "39911"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "6"
+            },
+            "popular": {
+                "Warren Harding": "44853",
+                "James Cox": "90515"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "14"
+            },
+            "popular": {
+                "Warren Harding": "42981",
+                "James Cox": "106112"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Warren Harding": "4",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "91351",
+                "James Cox": "46930"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Warren Harding": "29",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "1420480",
+                "James Cox": "534395"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Warren Harding": "15",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "696370",
+                "James Cox": "511364"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Warren Harding": "13",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "634674",
+                "James Cox": "227804"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Warren Harding": "10",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "369268",
+                "James Cox": "185464"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "13"
+            },
+            "popular": {
+                "Warren Harding": "452480",
+                "James Cox": "456497"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "10"
+            },
+            "popular": {
+                "Warren Harding": "38539",
+                "James Cox": "87519"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Warren Harding": "6",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "136355",
+                "James Cox": "58961"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Warren Harding": "8",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "236117",
+                "James Cox": "180626"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Warren Harding": "18",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "681153",
+                "James Cox": "276691"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Warren Harding": "15",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "762865",
+                "James Cox": "233450"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Warren Harding": "12",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "519421",
+                "James Cox": "142994"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "10"
+            },
+            "popular": {
+                "Warren Harding": "11576",
+                "James Cox": "69136"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Warren Harding": "18",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "727252",
+                "James Cox": "574699"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Warren Harding": "4",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "109430",
+                "James Cox": "57372"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Warren Harding": "8",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "247498",
+                "James Cox": "119608"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Warren Harding": "3",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "15479",
+                "James Cox": "9851"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Warren Harding": "4",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "95196",
+                "James Cox": "62662"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Warren Harding": "14",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "615333",
+                "James Cox": "258761"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Warren Harding": "3",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "57634",
+                "James Cox": "46668"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Warren Harding": "45",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "1871167",
+                "James Cox": "781238"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "12"
+            },
+            "popular": {
+                "Warren Harding": "232819",
+                "James Cox": "305367"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Warren Harding": "5",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "160082",
+                "James Cox": "37422"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Warren Harding": "24",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "1182022",
+                "James Cox": "780037"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Warren Harding": "10",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "243840",
+                "James Cox": "216122"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Warren Harding": "5",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "143592",
+                "James Cox": "80019"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Warren Harding": "38",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "1218215",
+                "James Cox": "503202"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Warren Harding": "5",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "107463",
+                "James Cox": "55062"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "9"
+            },
+            "popular": {
+                "Warren Harding": "2610",
+                "James Cox": "64170"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Warren Harding": "5",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "110692",
+                "James Cox": "35938"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Warren Harding": "12",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "219229",
+                "James Cox": "206558"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "20"
+            },
+            "popular": {
+                "Warren Harding": "114658",
+                "James Cox": "287920"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Warren Harding": "4",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "81555",
+                "James Cox": "56639"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Warren Harding": "4",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "68212",
+                "James Cox": "20919"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Warren Harding": "0",
+                "James Cox": "12"
+            },
+            "popular": {
+                "Warren Harding": "87456",
+                "James Cox": "141670"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Warren Harding": "7",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "223137",
+                "James Cox": "84298"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Warren Harding": "8",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "282007",
+                "James Cox": "220785"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Warren Harding": "13",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "498576",
+                "James Cox": "113422"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Warren Harding": "3",
+                "James Cox": "0"
+            },
+            "popular": {
+                "Warren Harding": "35091",
+                "James Cox": "17429"
+            }
+        }
+    }
+}

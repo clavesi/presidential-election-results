@@ -1,0 +1,327 @@
+{
+    "candidates": {
+        "Franklin Pierce": "Democratic",
+        "Winfield Scott": "Whig"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Franklin Pierce": "254",
+                "Winfield Scott": "42"
+            },
+            "popular": {
+                "Franklin Pierce": "1607510",
+                "Winfield Scott": "1386942"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Franklin Pierce": "9",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "26881",
+                "Winfield Scott": "15061"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Franklin Pierce": "4",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "12173",
+                "Winfield Scott": "7404"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Franklin Pierce": "4",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "40721",
+                "Winfield Scott": "35972"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Franklin Pierce": "6",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "33249",
+                "Winfield Scott": "30359"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Franklin Pierce": "3",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "6318",
+                "Winfield Scott": "6293"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Franklin Pierce": "3",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "4318",
+                "Winfield Scott": "2875"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Franklin Pierce": "10",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "40516",
+                "Winfield Scott": "16660"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Franklin Pierce": "11",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "80378",
+                "Winfield Scott": "64733"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Franklin Pierce": "13",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "95340",
+                "Winfield Scott": "80907"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Franklin Pierce": "4",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "17763",
+                "Winfield Scott": "15856"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Franklin Pierce": "0",
+                "Winfield Scott": "12"
+            },
+            "popular": {
+                "Franklin Pierce": "53949",
+                "Winfield Scott": "57428"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Franklin Pierce": "6",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "18647",
+                "Winfield Scott": "17255"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Franklin Pierce": "8",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "41609",
+                "Winfield Scott": "32543"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Franklin Pierce": "8",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "40022",
+                "Winfield Scott": "35077"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Franklin Pierce": "0",
+                "Winfield Scott": "13"
+            },
+            "popular": {
+                "Franklin Pierce": "44569",
+                "Winfield Scott": "52683"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Franklin Pierce": "6",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "41842",
+                "Winfield Scott": "33860"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Franklin Pierce": "7",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "26896",
+                "Winfield Scott": "17558"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Franklin Pierce": "9",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "38817",
+                "Winfield Scott": "29984"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Franklin Pierce": "5",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "28503",
+                "Winfield Scott": "15486"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Franklin Pierce": "7",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "44301",
+                "Winfield Scott": "38551"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Franklin Pierce": "35",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "262083",
+                "Winfield Scott": "234882"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Franklin Pierce": "10",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "39788",
+                "Winfield Scott": "39043"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Franklin Pierce": "23",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "169193",
+                "Winfield Scott": "152577"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Franklin Pierce": "27",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "198568",
+                "Winfield Scott": "179182"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Franklin Pierce": "4",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "8735",
+                "Winfield Scott": "7626"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Franklin Pierce": "8",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Franklin Pierce": "0",
+                "Winfield Scott": "12"
+            },
+            "popular": {
+                "Franklin Pierce": "56900",
+                "Winfield Scott": "58586"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Franklin Pierce": "4",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "14857",
+                "Winfield Scott": "5356"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Franklin Pierce": "0",
+                "Winfield Scott": "5"
+            },
+            "popular": {
+                "Franklin Pierce": "13044",
+                "Winfield Scott": "22173"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Franklin Pierce": "15",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "73872",
+                "Winfield Scott": "58732"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Franklin Pierce": "5",
+                "Winfield Scott": "0"
+            },
+            "popular": {
+                "Franklin Pierce": "33658",
+                "Winfield Scott": "22240"
+            }
+        }
+    }
+}

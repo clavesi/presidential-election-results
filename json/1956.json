@@ -1,0 +1,597 @@
+{
+    "candidates": {
+        "Dwight D. Eisenhower": "Republican",
+        "Adlai Stevenson": "Democratic",
+        "Walter Jones": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "Dwight D. Eisenhower": "457",
+                "Adlai Stevenson": "73",
+                "Walter Jones": "1"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "35581003",
+                "Adlai Stevenson": "25738765",
+                "Walter Jones": "0"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "10",
+                "Walter Jones": "1"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "195694",
+                "Adlai Stevenson": "280844",
+                "Walter Jones": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "176990",
+                "Adlai Stevenson": "112880",
+                "Walter Jones": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "8",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "186287",
+                "Adlai Stevenson": "213277",
+                "Walter Jones": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "Dwight D. Eisenhower": "32",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "3027668",
+                "Adlai Stevenson": "2420135",
+                "Walter Jones": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "Dwight D. Eisenhower": "6",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "394479",
+                "Adlai Stevenson": "263997",
+                "Walter Jones": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "Dwight D. Eisenhower": "8",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "711837",
+                "Adlai Stevenson": "405079",
+                "Walter Jones": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "Dwight D. Eisenhower": "3",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "98057",
+                "Adlai Stevenson": "79421",
+                "Walter Jones": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "Dwight D. Eisenhower": "10",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "643849",
+                "Adlai Stevenson": "480371",
+                "Walter Jones": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "12",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "222778",
+                "Adlai Stevenson": "444388",
+                "Walter Jones": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "166979",
+                "Adlai Stevenson": "105868",
+                "Walter Jones": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "Dwight D. Eisenhower": "27",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "2623327",
+                "Adlai Stevenson": "1775682",
+                "Walter Jones": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "Dwight D. Eisenhower": "13",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "1182811",
+                "Adlai Stevenson": "783908",
+                "Walter Jones": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "Dwight D. Eisenhower": "10",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "729187",
+                "Adlai Stevenson": "501858",
+                "Walter Jones": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "Dwight D. Eisenhower": "8",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "566878",
+                "Adlai Stevenson": "296317",
+                "Walter Jones": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "Dwight D. Eisenhower": "10",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "572192",
+                "Adlai Stevenson": "476453",
+                "Walter Jones": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "Dwight D. Eisenhower": "10",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "329047",
+                "Adlai Stevenson": "243977",
+                "Walter Jones": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "Dwight D. Eisenhower": "5",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "249238",
+                "Adlai Stevenson": "102468",
+                "Walter Jones": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "Dwight D. Eisenhower": "9",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "559738",
+                "Adlai Stevenson": "372613",
+                "Walter Jones": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "Dwight D. Eisenhower": "16",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "1393197",
+                "Adlai Stevenson": "948190",
+                "Walter Jones": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "Dwight D. Eisenhower": "20",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "1713647",
+                "Adlai Stevenson": "1359898",
+                "Walter Jones": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "Dwight D. Eisenhower": "11",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "719302",
+                "Adlai Stevenson": "617525",
+                "Walter Jones": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "8",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "56372",
+                "Adlai Stevenson": "144498",
+                "Walter Jones": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "13",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "914299",
+                "Adlai Stevenson": "918273",
+                "Walter Jones": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "154933",
+                "Adlai Stevenson": "116238",
+                "Walter Jones": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "Dwight D. Eisenhower": "6",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "378108",
+                "Adlai Stevenson": "199029",
+                "Walter Jones": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "Dwight D. Eisenhower": "3",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "56049",
+                "Adlai Stevenson": "40640",
+                "Walter Jones": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "176519",
+                "Adlai Stevenson": "90364",
+                "Walter Jones": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "Dwight D. Eisenhower": "16",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "1606942",
+                "Adlai Stevenson": "850337",
+                "Walter Jones": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "146788",
+                "Adlai Stevenson": "106098",
+                "Walter Jones": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "Dwight D. Eisenhower": "45",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "4340340",
+                "Adlai Stevenson": "2458212",
+                "Walter Jones": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "14",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "575062",
+                "Adlai Stevenson": "590530",
+                "Walter Jones": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "156766",
+                "Adlai Stevenson": "96742",
+                "Walter Jones": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "Dwight D. Eisenhower": "25",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "2262610",
+                "Adlai Stevenson": "1439655",
+                "Walter Jones": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "Dwight D. Eisenhower": "8",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "473769",
+                "Adlai Stevenson": "385581",
+                "Walter Jones": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "Dwight D. Eisenhower": "6",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "406393",
+                "Adlai Stevenson": "329204",
+                "Walter Jones": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "Dwight D. Eisenhower": "32",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "2585252",
+                "Adlai Stevenson": "1981769",
+                "Walter Jones": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "225819",
+                "Adlai Stevenson": "161790",
+                "Walter Jones": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "Dwight D. Eisenhower": "0",
+                "Adlai Stevenson": "8",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "75700",
+                "Adlai Stevenson": "136372",
+                "Walter Jones": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "171569",
+                "Adlai Stevenson": "122288",
+                "Walter Jones": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "Dwight D. Eisenhower": "11",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "462288",
+                "Adlai Stevenson": "456507",
+                "Walter Jones": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "Dwight D. Eisenhower": "24",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "1080619",
+                "Adlai Stevenson": "859958",
+                "Walter Jones": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "Dwight D. Eisenhower": "4",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "215631",
+                "Adlai Stevenson": "118364",
+                "Walter Jones": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "Dwight D. Eisenhower": "3",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "110390",
+                "Adlai Stevenson": "42549",
+                "Walter Jones": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "Dwight D. Eisenhower": "12",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "386459",
+                "Adlai Stevenson": "267760",
+                "Walter Jones": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "Dwight D. Eisenhower": "9",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "620430",
+                "Adlai Stevenson": "523002",
+                "Walter Jones": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "Dwight D. Eisenhower": "8",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "449297",
+                "Adlai Stevenson": "381534",
+                "Walter Jones": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "Dwight D. Eisenhower": "12",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "954844",
+                "Adlai Stevenson": "586768",
+                "Walter Jones": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "Dwight D. Eisenhower": "3",
+                "Adlai Stevenson": "0",
+                "Walter Jones": "0"
+            },
+            "popular": {
+                "Dwight D. Eisenhower": "74573",
+                "Adlai Stevenson": "49554",
+                "Walter Jones": "0"
+            }
+        }
+    }
+}

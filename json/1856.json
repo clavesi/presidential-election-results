@@ -1,0 +1,391 @@
+{
+    "candidates": {
+        "James Buchanan": "Democratic",
+        "John Fr\u00c3\u00a9mont": "Republican",
+        "Millard Fillmore": "Know Nothing"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "James Buchanan": "174",
+                "John Fr\u00c3\u00a9mont": "114",
+                "Millard Fillmore": "8"
+            },
+            "popular": {
+                "James Buchanan": "1836072",
+                "John Fr\u00c3\u00a9mont": "1342345",
+                "Millard Fillmore": "873053"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "James Buchanan": "9",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "46739",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "28552"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "James Buchanan": "4",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "21910",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "10732"
+            }
+        },
+        "California": {
+            "electoral": {
+                "James Buchanan": "4",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "53342",
+                "John Fr\u00c3\u00a9mont": "20704",
+                "Millard Fillmore": "36195"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "6",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "35028",
+                "John Fr\u00c3\u00a9mont": "42717",
+                "Millard Fillmore": "2615"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "James Buchanan": "3",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "8004",
+                "John Fr\u00c3\u00a9mont": "310",
+                "Millard Fillmore": "6275"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "James Buchanan": "3",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "6358",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "4833"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "James Buchanan": "10",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "56581",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "42439"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "James Buchanan": "11",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "105528",
+                "John Fr\u00c3\u00a9mont": "96275",
+                "Millard Fillmore": "37531"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "James Buchanan": "13",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "118670",
+                "John Fr\u00c3\u00a9mont": "94375",
+                "Millard Fillmore": "22356"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "4",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "37568",
+                "John Fr\u00c3\u00a9mont": "45073",
+                "Millard Fillmore": "9669"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "James Buchanan": "12",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "74642",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "67416"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "James Buchanan": "6",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "22164",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "20709"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "8",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "39140",
+                "John Fr\u00c3\u00a9mont": "67279",
+                "Millard Fillmore": "3270"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "8"
+            },
+            "popular": {
+                "James Buchanan": "39123",
+                "John Fr\u00c3\u00a9mont": "285",
+                "Millard Fillmore": "47452"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "13",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "39244",
+                "John Fr\u00c3\u00a9mont": "108172",
+                "Millard Fillmore": "19626"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "6",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "52136",
+                "John Fr\u00c3\u00a9mont": "71762",
+                "Millard Fillmore": "1660"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "James Buchanan": "7",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "35456",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "24191"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "James Buchanan": "9",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "57964",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "48522"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "5",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "31891",
+                "John Fr\u00c3\u00a9mont": "37473",
+                "Millard Fillmore": "410"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "James Buchanan": "7",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "46943",
+                "John Fr\u00c3\u00a9mont": "28338",
+                "Millard Fillmore": "24115"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "35",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "195878",
+                "John Fr\u00c3\u00a9mont": "276004",
+                "Millard Fillmore": "124604"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "James Buchanan": "10",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "48243",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "36720"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "23",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "170874",
+                "John Fr\u00c3\u00a9mont": "187497",
+                "Millard Fillmore": "28121"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "James Buchanan": "27",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "230772",
+                "John Fr\u00c3\u00a9mont": "147963",
+                "Millard Fillmore": "82202"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "4",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "6680",
+                "John Fr\u00c3\u00a9mont": "11467",
+                "Millard Fillmore": "1675"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "James Buchanan": "8",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "James Buchanan": "12",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "69704",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "63878"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "James Buchanan": "4",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "31995",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "16010"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "5",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "10569",
+                "John Fr\u00c3\u00a9mont": "39561",
+                "Millard Fillmore": "545"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "James Buchanan": "15",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "90083",
+                "John Fr\u00c3\u00a9mont": "0",
+                "Millard Fillmore": "60150"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "James Buchanan": "0",
+                "John Fr\u00c3\u00a9mont": "5",
+                "Millard Fillmore": "0"
+            },
+            "popular": {
+                "James Buchanan": "52843",
+                "John Fr\u00c3\u00a9mont": "67090",
+                "Millard Fillmore": "580"
+            }
+        }
+    }
+}

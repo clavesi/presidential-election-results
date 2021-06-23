@@ -1,0 +1,140 @@
+{
+    "candidates": {
+        "George Washington": "Independent",
+        "John Adams": "Federalist",
+        "John Jay": "Federalist",
+        "Others": "Various"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "George Washington": "69",
+                "John Adams": "34",
+                "John Jay": "9",
+                "Others": "26"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "George Washington": "7",
+                "John Adams": "5",
+                "John Jay": "0",
+                "Others": "2"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "George Washington": "3",
+                "John Adams": "0",
+                "John Jay": "3",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "George Washington": "5",
+                "John Adams": "0",
+                "John Jay": "0",
+                "Others": "5"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "George Washington": "6",
+                "John Adams": "0",
+                "John Jay": "0",
+                "Others": "6"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "George Washington": "10",
+                "John Adams": "10",
+                "John Jay": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "George Washington": "5",
+                "John Adams": "5",
+                "John Jay": "0",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "George Washington": "6",
+                "John Adams": "1",
+                "John Jay": "5",
+                "Others": "0"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "New York": {
+            "status": "Electors not chosen"
+        },
+        "North Carolina": {
+            "status": "Constitution not ratified"
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "George Washington": "10",
+                "John Adams": "8",
+                "John Jay": "0",
+                "Others": "2"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Rhode Island": {
+            "status": "Constitution not ratified"
+        },
+        "South Carolina": {
+            "electoral": {
+                "George Washington": "7",
+                "John Adams": "0",
+                "John Jay": "0",
+                "Others": "7"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "George Washington": "10",
+                "John Adams": "5",
+                "John Jay": "1",
+                "Others": "4"
+            },
+            "popular": {
+                "status": "No popular vote"
+            }
+        }
+    }
+}

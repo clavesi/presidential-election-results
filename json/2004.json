@@ -1,0 +1,633 @@
+{
+    "candidates": {
+        "George W. Bush": "Republican",
+        "John Kerry": "Democratic",
+        "John Edwards": "Faithless"
+    },
+    "votes": {
+        "Total": {
+            "electoral": {
+                "George W. Bush": "286",
+                "John Kerry": "251",
+                "John Edwards": "1"
+            },
+            "popular": {
+                "George W. Bush": "61872711",
+                "John Kerry": "58894584",
+                "John Edwards": "0"
+            }
+        },
+        "Alabama": {
+            "electoral": {
+                "George W. Bush": "9",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1176394",
+                "John Kerry": "693933",
+                "John Edwards": "0"
+            }
+        },
+        "Alaska": {
+            "electoral": {
+                "George W. Bush": "3",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "190889",
+                "John Kerry": "111025",
+                "John Edwards": "0"
+            }
+        },
+        "Arizona": {
+            "electoral": {
+                "George W. Bush": "10",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1104294",
+                "John Kerry": "893524",
+                "John Edwards": "0"
+            }
+        },
+        "Arkansas": {
+            "electoral": {
+                "George W. Bush": "6",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "572898",
+                "John Kerry": "469953",
+                "John Edwards": "0"
+            }
+        },
+        "California": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "55",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "5509826",
+                "John Kerry": "6745485",
+                "John Edwards": "0"
+            }
+        },
+        "Colorado": {
+            "electoral": {
+                "George W. Bush": "9",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1101255",
+                "John Kerry": "1001732",
+                "John Edwards": "0"
+            }
+        },
+        "Connecticut": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "7",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "693826",
+                "John Kerry": "857488",
+                "John Edwards": "0"
+            }
+        },
+        "Delaware": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "3",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "171660",
+                "John Kerry": "200152",
+                "John Edwards": "0"
+            }
+        },
+        "Distric of Columbia": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "3",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "21256",
+                "John Kerry": "202970",
+                "John Edwards": "0"
+            }
+        },
+        "Florida": {
+            "electoral": {
+                "George W. Bush": "27",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "3964522",
+                "John Kerry": "3583544",
+                "John Edwards": "0"
+            }
+        },
+        "Georgia": {
+            "electoral": {
+                "George W. Bush": "15",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1914254",
+                "John Kerry": "1366149",
+                "John Edwards": "0"
+            }
+        },
+        "Hawaii": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "4",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "194191",
+                "John Kerry": "231708",
+                "John Edwards": "0"
+            }
+        },
+        "Idaho": {
+            "electoral": {
+                "George W. Bush": "4",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "409235",
+                "John Kerry": "181098",
+                "John Edwards": "0"
+            }
+        },
+        "Illinois": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "21",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "2345946",
+                "John Kerry": "2891550",
+                "John Edwards": "0"
+            }
+        },
+        "Indiana": {
+            "electoral": {
+                "George W. Bush": "11",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1479438",
+                "John Kerry": "969011",
+                "John Edwards": "0"
+            }
+        },
+        "Iowa": {
+            "electoral": {
+                "George W. Bush": "7",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "751957",
+                "John Kerry": "741898",
+                "John Edwards": "0"
+            }
+        },
+        "Kansas": {
+            "electoral": {
+                "George W. Bush": "6",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "736456",
+                "John Kerry": "434993",
+                "John Edwards": "0"
+            }
+        },
+        "Kentucky": {
+            "electoral": {
+                "George W. Bush": "8",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1069439",
+                "John Kerry": "712733",
+                "John Edwards": "0"
+            }
+        },
+        "Louisiana": {
+            "electoral": {
+                "George W. Bush": "9",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1102169",
+                "John Kerry": "820299",
+                "John Edwards": "0"
+            }
+        },
+        "Maine": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "4",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "330201",
+                "John Kerry": "396842",
+                "John Edwards": "0"
+            }
+        },
+        "Maryland": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "10",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1024703",
+                "John Kerry": "1334493",
+                "John Edwards": "0"
+            }
+        },
+        "Massachusetts": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "12",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1071109",
+                "John Kerry": "1803800",
+                "John Edwards": "0"
+            }
+        },
+        "Michigan": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "17",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "2313746",
+                "John Kerry": "2479183",
+                "John Edwards": "0"
+            }
+        },
+        "Minnesota": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "9",
+                "John Edwards": "1"
+            },
+            "popular": {
+                "George W. Bush": "1346695",
+                "John Kerry": "1445014",
+                "John Edwards": "0"
+            }
+        },
+        "Mississippi": {
+            "electoral": {
+                "George W. Bush": "6",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "672660",
+                "John Kerry": "457766",
+                "John Edwards": "0"
+            }
+        },
+        "Missouri": {
+            "electoral": {
+                "George W. Bush": "11",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1455713",
+                "John Kerry": "1259171",
+                "John Edwards": "0"
+            }
+        },
+        "Montana": {
+            "electoral": {
+                "George W. Bush": "3",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "266063",
+                "John Kerry": "173710",
+                "John Edwards": "0"
+            }
+        },
+        "Nebraska": {
+            "electoral": {
+                "George W. Bush": "5",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "512814",
+                "John Kerry": "254328",
+                "John Edwards": "0"
+            }
+        },
+        "Nevada": {
+            "electoral": {
+                "George W. Bush": "5",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "418690",
+                "John Kerry": "397190",
+                "John Edwards": "0"
+            }
+        },
+        "New Hampshire": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "4",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "331237",
+                "John Kerry": "340511",
+                "John Edwards": "0"
+            }
+        },
+        "New Jersey": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "15",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1670003",
+                "John Kerry": "1911430",
+                "John Edwards": "0"
+            }
+        },
+        "New Mexico": {
+            "electoral": {
+                "George W. Bush": "5",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "376930",
+                "John Kerry": "370942",
+                "John Edwards": "0"
+            }
+        },
+        "New York": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "31",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "2806993",
+                "John Kerry": "4180755",
+                "John Edwards": "0"
+            }
+        },
+        "North Carolina": {
+            "electoral": {
+                "George W. Bush": "15",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1961166",
+                "John Kerry": "1525849",
+                "John Edwards": "0"
+            }
+        },
+        "North Dakota": {
+            "electoral": {
+                "George W. Bush": "3",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "196651",
+                "John Kerry": "111052",
+                "John Edwards": "0"
+            }
+        },
+        "Ohio": {
+            "electoral": {
+                "George W. Bush": "20",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "2859764",
+                "John Kerry": "2741165",
+                "John Edwards": "0"
+            }
+        },
+        "Oklahoma": {
+            "electoral": {
+                "George W. Bush": "7",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "959792",
+                "John Kerry": "503966",
+                "John Edwards": "0"
+            }
+        },
+        "Oregon": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "7",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "866831",
+                "John Kerry": "943163",
+                "John Edwards": "0"
+            }
+        },
+        "Pennsylvania": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "21",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "2793847",
+                "John Kerry": "2938095",
+                "John Edwards": "0"
+            }
+        },
+        "Rhode Island": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "4",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "169046",
+                "John Kerry": "259760",
+                "John Edwards": "0"
+            }
+        },
+        "South Carolina": {
+            "electoral": {
+                "George W. Bush": "8",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "937974",
+                "John Kerry": "661699",
+                "John Edwards": "0"
+            }
+        },
+        "South Dakota": {
+            "electoral": {
+                "George W. Bush": "3",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "232584",
+                "John Kerry": "149244",
+                "John Edwards": "0"
+            }
+        },
+        "Tennessee": {
+            "electoral": {
+                "George W. Bush": "11",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1384375",
+                "John Kerry": "1036477",
+                "John Edwards": "0"
+            }
+        },
+        "Texas": {
+            "electoral": {
+                "George W. Bush": "34",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "4526917",
+                "John Kerry": "2832704",
+                "John Edwards": "0"
+            }
+        },
+        "Utah": {
+            "electoral": {
+                "George W. Bush": "5",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "663742",
+                "John Kerry": "241199",
+                "John Edwards": "0"
+            }
+        },
+        "Vermont": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "3",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "121180",
+                "John Kerry": "184067",
+                "John Edwards": "0"
+            }
+        },
+        "Virginia": {
+            "electoral": {
+                "George W. Bush": "13",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1716959",
+                "John Kerry": "1454742",
+                "John Edwards": "0"
+            }
+        },
+        "Washington": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "11",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1304894",
+                "John Kerry": "1510201",
+                "John Edwards": "0"
+            }
+        },
+        "West Virginia": {
+            "electoral": {
+                "George W. Bush": "5",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "423778",
+                "John Kerry": "326541",
+                "John Edwards": "0"
+            }
+        },
+        "Wisconsin": {
+            "electoral": {
+                "George W. Bush": "0",
+                "John Kerry": "10",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "1478120",
+                "John Kerry": "1489504",
+                "John Edwards": "0"
+            }
+        },
+        "Wyoming": {
+            "electoral": {
+                "George W. Bush": "3",
+                "John Kerry": "0",
+                "John Edwards": "0"
+            },
+            "popular": {
+                "George W. Bush": "167629",
+                "John Kerry": "70776",
+                "John Edwards": "0"
+            }
+        }
+    }
+}
